@@ -39,12 +39,18 @@ class search():
         results.insert(0,"Brand",[brand.text for brand in soup.find_all('div', attrs={'class':'_brand'})])
         results.insert(1,"Description",[desc.text for desc in soup.find_all('div', attrs={'class':'_desc'})])
         results.insert(2,"Size",[size.text for size in soup.find_all('div', attrs={'class':'_size'})])
-        results.insert(3,"Price",[price.text for price in soup.find_all('div', attrs={'class':'_price'})])
+        prices = soup.find_all('div', attrs={'class':'_price'})
         links = []
+        price = []
+        price_per_unit = []
         for i in range(len(results)):
+            price.append(prices[i].find(text=True, recursive=False))
+            price_per_unit.append(prices[i].find('div', attrs={'class':'_per-item'}).text)
             link = soup.find('a', attrs={"n":i+1})["href"]
             links.append(f"https://www.trolley.co.uk{link}")
-        results.insert(4,"Link",links)
+        results.insert(3,"Price",price)
+        results.insert(4,"Price per unit",price_per_unit)
+        results.insert(5,"Link",links)
         if save:
             results.to_csv("results.csv")
         return results
