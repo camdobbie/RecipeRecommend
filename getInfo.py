@@ -5,19 +5,19 @@ def getInfo():
     """Function to return the titles, ingredients and servings of the recipes
 
     Returns:
-        list: returns a list of dictionaries (titles, ingredients ,servings)
+        list: returns a list of dictionaries
     """    
     df = pd.read_csv("Tesco_Dinners.csv",usecols=["Title","Ingredients","Servings"])
-    titles_dict = {}
-    ingredient_dict = {}
-    servings_dict = {}
+    info = []
     for i,lst in enumerate(df['Ingredients'].values[0]):
-        titles_dict[i] = df.loc[i,'Title']
-        ingredient_dict[i] = (df.loc[i,'Ingredients'].strip("[]").split("'"))
-        ingredient_dict[i] = [x for x in ingredient_dict[i] if (x != "") & (x != ", ")]
-        servings_dict[i] = df.loc[i,'Servings']
-    return titles_dict,ingredient_dict,servings_dict
+        d = {}
+        d['Title'] = df.loc[i,'Title']
+        d['Ingredients'] = (df.loc[i,'Ingredients'].strip("[]").split("'"))
+        d['Ingredients'] = [x for x in d['Ingredients'] if (x != "") & (x != ", ")]
+        d['Servings'] = df.loc[i,'Servings']
+        info.append(d)
+    return info
 
 if __name__ == "__main__":
-    _,ingredient_dict,_ = getInfo()
-    print(ingredient_dict[0])
+    info= getInfo()
+    print(info[0])
