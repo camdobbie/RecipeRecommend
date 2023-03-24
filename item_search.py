@@ -4,7 +4,7 @@ import pandas as pd
 
 class search():
     def __init__(self):
-        self.url = "https://www.trolley.co.uk/search/?from=search"
+        self.url = "https://www.trolley.co.uk/search/?from=search&order=relevant"
     
     def add_filters(self,store_ids,size):
         if store_ids != None:
@@ -44,13 +44,18 @@ class search():
         price = []
         price_per_unit = []
         for i in range(len(results)):
-            price.append(prices[i].find(text=True, recursive=False))
-            price_per_unit.append(prices[i].find('div', attrs={'class':'_per-item'}).text)
+            price.append(float((prices[i].find(text=True, recursive=False)).replace("£","")))
+            try:
+                price_per_unit.append(prices[i].find('div', attrs={'class':'_per-item'}).text)
+            except:
+                price_per_unit.append("")
             link = soup.find('a', attrs={"n":i+1})["href"]
             links.append(f"https://www.trolley.co.uk{link}")
         results.insert(3,"Price",price)
         results.insert(4,"Price per unit",price_per_unit)
         results.insert(5,"Link",links)
+        results.sort_values(by="Price",inplace=True)
+        results.index.names = ["Relevance"]
         if save:
             results.to_csv("results.csv")
         return results
