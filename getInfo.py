@@ -12,12 +12,11 @@ def getInfo():
     for i,lst in enumerate(df['Ingredients'].values[0]):
         d = {}
         d['Title'] = df.loc[i,'Title']
-        d['Ingredients'] = (df.loc[i,'Ingredients'].strip("[]").split("'"))
-        d['Ingredients'] = [x for x in d['Ingredients'] if (x != "") & (x != ", ")]
+        d['Ingredients'] = [x for x in df.loc[i,'Ingredients'].strip("[]").split("'") if (x != "") & (x != ", ")]
         d['Servings'] = df.loc[i,'Servings']
         info.append(d)
     return info
 
 if __name__ == "__main__":
-    info= getInfo()
+    info = getInfo()
     print(info[0])
