@@ -3,40 +3,64 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
+import pandas as pd
 
-url = 'https://tesco.list-integration.whisk.com/stateless-checkout?recipes=%5B%7B"recipeUrl"%3A"https%3A%2F%2Frealfood.tesco.com%2Frecipes%2Follys-thank-you-finest-burgers.html"%7D%5D'
+# load dinner_list.txt as a column in a dataframe with the column title being url
+df = pd.read_csv('dinner_list.txt', sep = '/', header = None, usecols = [4])
+df.columns = ['url']
 
-# Set the path to the ChromeDriver executable
-chromedriver_path = "path/to/chromedriver"
+# add https://tesco.list-integration.whisk.com/stateless-checkout?recipes=%5B%7B"recipeUrl"%3A"https%3A%2F%2Frealfood.tesco.com%2Frecipes%2F to the beginning and "%7D%5D to the end of each url
+df['url'] = 'https://tesco.list-integration.whisk.com/stateless-checkout?recipes=%5B%7B"recipeUrl"%3A"https%3A%2F%2Frealfood.tesco.com%2Frecipes%2F' + df['url'] + '"%7D%5D'
 
-# Initialize the Chrome browser driver
-driver = webdriver.Chrome()
+# remove all but the top 10 urls
+df = df.head(10)
 
-# Navigate to the URL
-driver.get(url)
+allIngredients = []
 
-# Find and click the button
-button = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, '103c201c125624b4bd4b0fba657b8fa1a84')))
-button.click()
 
-""" # Wait for the page to load
-wait = WebDriverWait(driver, 10)
-wait.until(EC.presence_of_element_located((By.TAG_NAME, 'body')))
- """
 
-# Wait until there is a button with data-testid "list-checkout-add-to-retailer-cart-button"
-button = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, 'button[data-testid="list-checkout-add-to-retailer-cart-button"]')))
-
-# Get the page source (HTML code) and print it
-html = driver.page_source
-
-# Close the browser
-driver.quit()
-
-soup = BeautifulSoup(html, 'html.parser')
-
-ings = soup.find_all('div', attrs={'class': 'sc-1c5wdcd lfbNqY'})
-for ing in ings:
-    print(ing.text)
-
+for i in range(len(df)):
+    url = df['url'][i]
     
+    # Set the path to the ChromeDriver executable
+    chromedriver_path = "path/to/chromedriver"
+
+    # Initialize the Chrome browser driver
+    driver = webdriver.Chrome()
+    
+    # Navigate to the URL
+    driver.get(url)
+
+    # Find and click the button
+    button = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, '103c201c125624b4bd4b0fba657b8fa1a84')))
+    button.click()
+
+    # Wait until there is a button with data-testid "list-checkout-add-to-retailer-cart-button"
+    button = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, 'button[data-testid="list-checkout-add-to-retailer-cart-button"]')))
+
+    # Get the page source (HTML code) and print it
+    html = driver.page_source
+
+    # Close the browser
+    driver.quit()
+
+    soup = BeautifulSoup(html, 'html.parser')
+
+    ings = soup.find_all('div', attrs={'class': 'sc-gfiwwq gGwesG'})
+    ingredients = []
+
+    for ing in ings:
+        ingredients.append(ing.text)
+
+    allIngredients.append(ingredients)
+
+    # find all headings
+"""     headings = soup.find_all('div', attrs={'role': 'heading'})
+    for heading in headings:
+        print(heading.text) """
+
+df['ingredients'] = allIngredients
+
+#save df to csv
+df.to_csv('ingredients.csv', index = False)
+
