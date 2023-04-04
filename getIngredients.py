@@ -12,14 +12,10 @@ df.columns = ['url']
 # add https://tesco.list-integration.whisk.com/stateless-checkout?recipes=%5B%7B"recipeUrl"%3A"https%3A%2F%2Frealfood.tesco.com%2Frecipes%2F to the beginning and "%7D%5D to the end of each url
 df['url'] = 'https://tesco.list-integration.whisk.com/stateless-checkout?recipes=%5B%7B"recipeUrl"%3A"https%3A%2F%2Frealfood.tesco.com%2Frecipes%2F' + df['url'] + '"%7D%5D'
 
-# remove all but the top 10 urls
-df = df.head(5)
+info_df = pd.DataFrame(columns = ['recipe_id' , 'section', 'item', 'ingredient', 'quantity', 'price'])
 
-allIngredients = []
-
-
-
-for i in range(len(df)):
+j = 0
+for i in range(3):
     url = df['url'][i]
     
     # Set the path to the ChromeDriver executable
@@ -46,48 +42,31 @@ for i in range(len(df)):
 
     soup = BeautifulSoup(html, 'html.parser')
 
-    items_df = pd.DataFrame(columns = ['item', 'ingredient', 'quantity'])
-    items = {}
-    ingredients = {}
-    quantities = {}
-
-    # find first heading
     headings = soup.find_all('div')
     for heading in headings:
         if heading.get('role') == 'heading':
-            column = heading.text
-            if column == 'Uncategorised':
+            section = heading.text
+            if section == 'Uncategorised':
                 break
         elif heading.get('role') == 'listitem':
-            quantity = heading.find('input').get('value')
+            try:
+                quantity = heading.find('input').get('value')
+            except:
+                quantity = '0'
             if quantity != '0':
                 item = heading.find('span', attrs={'data-testid': 'list-checkout-item'}).text
                 ingredient = heading.find('div', attrs={'class': 'sc-gfiwwq gGwesG'}).text
-                try:
-                    items[column].append(item)
-                except:
-                    items[column] = [item]
-                try:
-                    ingredients[column].append(ingredient)
-                except:
-                    ingredients[column] = [ingredient]
-                try:
-                    quantities[column].append(quantity)
-                except:
-                    quantities[column] = [quantity]
+                price = heading.find('div', attrs={'class': 'sc-18zubgw ioKGjp'}).text
+
+                info_df.loc[j,'recipe_id'] = i
+                info_df.loc[j,'section'] = section
+                info_df.loc[j,'item'] = item
+                info_df.loc[j,'ingredient'] = ingredient
+                info_df.loc[j,'quantity'] = quantity
+                info_df.loc[j,'price'] = price
+                j += 1
         else:
             pass
-    # add items, ingredients and quantities to df
-    for key in items:
-        df.loc[i,f'{key}-item'] = str(items[key])
-        df.loc[i,f'{key}-ingredient'] = str(ingredients[key])
-        df.loc[i,f'{key}-quantity'] = str(quantities[key])
-    # add price to df
-    price = soup.find('div', attrs={'class': 'sc-1errw5p gSHsGZ'}).text
-    df.loc[i,'price'] = price
 
-column_to_move = df.pop("price")
-df.insert(1, "price", column_to_move)
-
-#save df to csv
-df.to_csv('ingredients2.csv', index = False)
+# #save df to csv
+info_df.to_csv('ingredients3.csv', index = False)
