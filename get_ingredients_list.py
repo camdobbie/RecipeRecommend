@@ -51,12 +51,12 @@ for i in range(0,len(sep_ing)):
                 sep_ing[i].remove(string)
                 break
     if len(quantity) == 0:
-        quantities.append([])
+        quantities.append('')
     else:
-        quantities.append(quantity)
+        quantities.append(quantity[0])
    
-    
 data['quantities'] = quantities
+
 
 merged = [' '.join(item) for item in sep_ing]
 data['raw_ingredients'] = merged
