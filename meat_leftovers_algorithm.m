@@ -58,8 +58,8 @@ end
 end 
 
 %% Rules
-% Rule 1: When Recipe = no units, assume all ingredient used
-% Rule 2: When Tesc.Ing is sold as £/kg or has weight-range, leftover = 0 (all used)
+% Rule 1: When Recipe = no units, leftover = 0 (all ingredients used)
+% Rule 2: When Tesc.Ing is sold as £/kg or has weight-range, leftover = 0 
 % Rule 3: When Recipe = weight(g), Tesc.Ing = weight(g), do sum of leftover
 % Rule 4: When Recipe = weight(kg), Tesc.Ing = weight(Kg), do sum of leftover
 % Rule 5: When Recipe = unit, Tesc.Ing = unit, do sum of leftover 
