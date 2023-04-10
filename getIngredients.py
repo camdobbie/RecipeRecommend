@@ -15,7 +15,8 @@ df['url'] = 'https://tesco.list-integration.whisk.com/stateless-checkout?recipes
 info_df = pd.DataFrame(columns = ['recipe_id' , 'section', 'item', 'ingredient', 'quantity', 'price'])
 
 j = 0
-for i in range(3):
+for i in range(150):
+    print(i)
     url = df['url'][i]
     
     # Set the path to the ChromeDriver executable
@@ -28,11 +29,11 @@ for i in range(3):
     driver.get(url)
 
     # Find and click the button
-    button = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, '103c201c125624b4bd4b0fba657b8fa1a84')))
+    button = WebDriverWait(driver, 100).until(EC.presence_of_element_located((By.ID, '103c201c125624b4bd4b0fba657b8fa1a84')))
     button.click()
 
     # Wait until there is a button with data-testid "list-checkout-add-to-retailer-cart-button"
-    button = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, 'button[data-testid="list-checkout-add-to-retailer-cart-button"]')))
+    button = WebDriverWait(driver, 100).until(EC.presence_of_element_located((By.CSS_SELECTOR, 'button[data-testid="list-checkout-add-to-retailer-cart-button"]')))
 
     # Get the page source (HTML code) and print it
     html = driver.page_source
@@ -69,4 +70,4 @@ for i in range(3):
             pass
 
 # #save df to csv
-info_df.to_csv('ingredients3.csv', index = False)
+info_df.to_csv('ingredients_150_recipes.csv', index = False)
