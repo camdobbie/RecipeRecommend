@@ -1,6 +1,6 @@
 clear all
 close all
-run data.m
+%% run data.m
 ingredients = readtable('ingredients3');
 
 %% Isolate meats into single table 'meatrows'
