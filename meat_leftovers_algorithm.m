@@ -1,5 +1,3 @@
-%% NEATER?
-
 clear all
 close all
 run data.m
