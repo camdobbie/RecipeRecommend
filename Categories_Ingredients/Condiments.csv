@@ -1,142 +1,143 @@
-﻿recipe_id,section,item,ingredient,quantity,price,quantities,raw_ingredients,simplified_ingredients,
-0,Condiments,"Aleyna Sliced Red Jalapeno Peppers 480G, £1.15 each",6 tbsp drained sliced green jalapeños in brine,1,£1.15,6 tbsp,drained sliced green jalapeños in brine,jalapeños ,
-1,Condiments,"Tesco Tomato Puree Tube 200G, £0.60 each",1.5 tbsp tomato purée,1,£0.60,1.5 tbsp,tomato purée,tomato purée,
-1,Condiments,"Tesco Wholegrain Mustard 180G, £0.80 each",1.5 tbsp grainy mustard,1,£0.80,1.5 tbsp,grainy mustard,wholegrain mustard,
-2,Condiments,"Nishaan Garlic Paste 283G, £1.15 each",0.5 tsp garlic paste,1,£1.15,0.5 tsp,garlic paste,garlic paste,!
-2,Condiments,"Tesco Ginger Paste 90G, £1.50 each",0.5 tsp ginger paste,1,£1.50,0.5 tsp,ginger paste,ginger paste,!
-5,Condiments,"Tesco Hot Chilli Sauce 500G, £1.20 each",hot chilli sauce,1,£1.20,,hot chilli sauce,chilli sauce,
-5,Condiments,"Lee Kum Kee Premium Light Soy Sauce 150Ml Plus Free Sauce, £1.40 each",3 tbsp low-salt soy sauce,1,£1.40,3 tbsp,low-salt soy sauce,soy sauce,
-9,Condiments,"Frylight Rapeseed Oil Spray 190Ml, £2.75 each",spray oil,1,£2.75,,spray oil,cooking oil,
-10,Condiments,"Sacla Vegan Basil Pesto 190G, £3.10 each",90g free from green pesto,1,£3.10,90g,free from green pesto,vegan green pesto,
-11,Condiments,"Tesco Tomato Puree Tube 200G, £0.60 each",2 tbsp tomato purée,1,£0.60,2 tbsp,tomato purée,tomato purée,
-12,Condiments,"Amoy Reduced Salt Soy Sauce 150Ml, £2.00 each",1 tbsp reduced-salt soy sauce,1,£2.00,1 tbsp,reduced-salt soy sauce,soy sauce,
-12,Condiments,"Lee Kum Kee Wok Sesame Oil 207Ml, £2.40 each",2 tsp sesame oil,1,£2.40,2 tsp,sesame oil,sesame oil,
-12,Condiments,"Nuts About Nature Peanut Butter Smooth 340G, £1.85 each",1 tbsp smooth peanut butter,1,£1.85,1 tbsp,smooth peanut butter,smooth peanut butter,
-15,Condiments,"Tesco Thai Green Curry Paste 200G, £1.90 each",200g thai green curry paste,1,£1.90,200g,thai green curry paste,thai green curry paste,
-16,Condiments,"Amoy Reduced Salt Soy Sauce 150Ml, £2.00 each",3 tbsp reduced-salt soy sauce,1,£2.00,3 tbsp,reduced-salt soy sauce,soy sauce,
-17,Condiments,"Frylight Rapeseed Oil Spray 190Ml, £2.75 each",spray oil,1,£2.75,,spray oil,cooking oil,
-17,Condiments,"Tesco Classic Green Pesto 190G, £1.25 each",1 tbsp green pesto,1,£1.25,1 tbsp,green pesto,green pesto,
-17,Condiments,"Heinz Seriously Good Mayonnaise 215G, £1.68 each",3 tbsp mayonnaise,1,£1.68,3 tbsp,mayonnaise,mayonnaise,
-19,Condiments,"Sacla Vegan Basil Pesto 190G, £3.10 each",100g free from green pesto,1,£3.10,100g,free from green pesto,vegan green pesto,
-22,Condiments,"Tesco Pickled Red Cabbage 340G, £1.10 each",240g pickled red cabbage,1,£1.10,240g,pickled red cabbage,pickled red cabbage,
-23,Condiments,"Tesco Rice Wine Vinegar 150Ml, £2.00 each",1 tsp rice wine vinegar,1,£2.00,1 tsp,rice wine vinegar,rice wine vinegar,
-24,Condiments,"French's America Classic Yellow Mustard 226G Squeezy, £2.00 each",1 tbsp american yellow mustard,1,£2.00,1 tbsp,american yellow mustard,yellow mustard,
-24,Condiments,"Frylight Rapeseed Oil Spray 190Ml, £2.75 each",spray oil,1,£2.75,,spray oil,cooking oil,
-24,Condiments,"Heinz Seriously Good Mayonnaise 215G, £1.68 each",2 tbsp mayonnaise,1,£1.68,2 tbsp,mayonnaise,mayonnaise,
-24,Condiments,"Tesco Wholegrain Mustard 180G, £0.80 each",1 tsp wholegrain mustard,1,£0.80,1 tsp,wholegrain mustard,wholegrain mustard,
-25,Condiments,"Tesco Massaman Curry Paste 200G, £1.90 each",200g massaman curry paste,1,£1.90,200g,massaman curry paste,massaman curry paste,
-27,Condiments,"Tesco Tomato Puree Tube 200G, £0.60 each",3 tbsp tomato purée,1,£0.60,3 tbsp,tomato purée,tomato purée,
-27,Condiments,"Colman's White Sauce Mix 25G, £0.90 each",340g white sauce,2,£1.80,340g,white sauce,white sauce,
-28,Condiments,"Fragata Capers 240G, £2.40 each",1 tbsp capers,1,£2.40,1 tbsp,capers,capers,
-28,Condiments,"Tesco Pitted Black Olives 330G, £1.05 each",50g pitted black olives,1,£1.05,50g,pitted black olives,pitted black olives,
-28,Condiments,"Tesco Tomato Puree Tube 200G, £0.60 each",4 tbsp tomato purée,1,£0.60,4 tbsp,tomato purée,tomato purée,
-29,Condiments,"Lee Kum Kee Premium Light Soy Sauce 150Ml Plus Free Sauce, £1.40 each",3 tbsp light soy sauce,1,£1.40,3 tbsp,light soy sauce,soy sauce,
-29,Condiments,"Yutaka Japanese Mirin 150Ml, £2.10 each",3 tbsp mirin,1,£2.10,3 tbsp,mirin,mirin,
-29,Condiments,"Tesco Rice Wine Vinegar 150Ml, £2.00 each",2 tsp rice wine vinegar,1,£2.00,2 tsp,rice wine vinegar,rice wine vinegar,
-29,Condiments,"Blue Dragon Sesame Oil 150Ml, £2.70 each",1.5 tbsp sesame oil,1,£2.70,1.5 tbsp,sesame oil,sesame oil,
-30,Condiments,"Yutaka Japanese Rice Vinegar 150Ml, £2.10 each",1 tbsp rice vinegar,1,£2.10,1 tbsp,rice vinegar,rice wine vinegar,
-31,Condiments,"Growers Harvest Tomato Passata 500G, £0.45 each",500g passata,1,£0.45,500g,passata,passata,
-33,Condiments,"Tesco Organic Balsamic Vinegar Of Modena 250Ml, £2.00 each",balsamic vinegar,1,£2.00,,balsamic vinegar,balsamic vinegar,
-33,Condiments,"Tesco Pitted Queen Olives 340G, £1.60 each",6 olives,1,£1.60,6,olives,pitted green olives,
-33,Condiments,"Growers Harvest Tomato Passata 500G, £0.45 each",4 tbsp passata,1,£0.45,4 tbsp,passata,passata,
-33,Condiments,"Tesco Red Pesto 190G, £1.25 each",1 tbsp vegetarian red pesto,1,£1.25,1 tbsp,vegetarian red pesto,red pesto,
-34,Condiments,"Tesco Bbq Sauce 440G, £1.20 each",2 tbsp bbq sauce,1,£1.20,2 tbsp,bbq sauce,bbq sauce,
-34,Condiments,"Tesco Garlic & Herb Passata 500G, £0.90 each",500g passata with garlic & herbs,1,£0.90,500g,passata with garlic & herbs,passata,
-43,Condiments,"Geeta's Mango Chutney 320G, £2.30 each",1 tbsp mango chutney,1,£2.30,1 tbsp,mango chutney,mango chutney,
-43,Condiments,"Tesco Lighter Than Light Mayonnaise 450Ml, £1.15 each",4 tbsp reduced-fat mayonnaise,1,£1.15,4 tbsp,reduced-fat mayonnaise,mayonnaise,
-44,Condiments,"Lea & Perrins Worcestershire Sauce 150Ml, £1.70 each",1 tsp worcestershire sauce,1,£1.70,1 tsp,worcestershire sauce,worcestershire sauce,
-45,Condiments,"Tesco Tomato Puree Tube 200G, £0.60 each",2 tbsp tomato purée,1,£0.60,2 tbsp,tomato purée,tomato purée,
-46,Condiments,"Growers Harvest Tomato Passata 500G, £0.45 each",800g passata,2,£0.90,800g,passata,passata,
-46,Condiments,"Flora Pure Sunflower Oil 1Lt Plus 25%, £3.50 each",2 tbsp sunflower oil,1,£3.50,2 tbsp,sunflower oil,cooking oil,
-48,Condiments,"Tesco Ingredients Ginger & Garlic Paste 95G, £1.50 each",2 tbsp garlic & ginger paste,1,£1.50,2 tbsp,garlic & ginger paste,garlic & ginger paste,!
-48,Condiments,"Tiptree Mango Chutney 220G, £2.50 each",mango chutney,1,£2.50,,mango chutney,mango chutney,
-48,Condiments,"Crisp 'N Dry 100% Rapeseed Oil 1L, £3.25 each",2.5 tbsp rapeseed oil,1,£3.25,2.5 tbsp,rapeseed oil,cooking oil,
-49,Condiments,"Tesco Harissa Paste 90G, £2.10 each",1 tsp harissa paste,1,£2.10,1 tsp,harissa paste,harissa paste,
-50,Condiments,"Tesco Organic Balsamic Vinegar Of Modena 250Ml, £2.00 each",2 tbsp balsamic vinegar,1,£2.00,2 tbsp,balsamic vinegar,balsamic vinegar,
-50,Condiments,"Lea & Perrins Worcestershire Sauce 150Ml, £1.70 each",3 tbsp worcestershire sauce,1,£1.70,3 tbsp,worcestershire sauce,worcestershire sauce,
-51,Condiments,"Tesco Classic Green Pesto 190G, £1.25 each",6 tsp pesto,1,£1.25,6 tsp,pesto,green pesto,
-52,Condiments,"Pataks Tikka Masala Paste Pots 2X70g, £1.49 each",2 heaped tbsp tikka paste,1,£1.49,2 tbsp,tikka paste,tikka paste,
-54,Condiments,"Tesco Harissa Paste 90G, £2.10 each",1.5 tbsp harissa paste,1,£2.10,1.5 tbsp,harissa paste,harissa paste,
-55,Condiments,"Tesco Chilli Sauce Mild 500G, £1.20 each",1 tsp chilli sauce,1,£1.20,1 tsp,chilli sauce,chilli sauce,
-55,Condiments,"Tesco Red Pesto 190G, £1.25 each",2 tbsp red pesto,1,£1.25,2 tbsp,red pesto,red pesto,
-57,Condiments,"Tesco Chipotle Chilli Paste 95G, £1.50 each",2 tsp chipotle paste,1,£1.50,2 tsp,chipotle paste,chipotle paste,
-58,Condiments,"Tesco Tomato Puree Tube 200G, £0.60 each",1 tbsp tomato purée,1,£0.60,1 tbsp,tomato purée,tomato purée,
-60,Condiments,"Crisp 'N Dry 100% Rapeseed Oil 1L, £3.25 each",2 tsp rapeseed oil,1,£3.25,2 tsp,rapeseed oil,cooking oil,
-60,Condiments,"Amoy Reduced Salt Soy Sauce 150Ml, £2.00 each",1.5 tbsp reduced-salt soy sauce,1,£2.00,1.5 tbsp,reduced-salt soy sauce,soy sauce,
-62,Condiments,"Growers Harvest Tomato Passata 500G, £0.45 each",500g passata,1,£0.45,500g,passata,passata,
-63,Condiments,"Crisp 'N Dry 100% Rapeseed Oil 1L, £3.25 each",3 tsp rapeseed oil,1,£3.25,3 tsp,rapeseed oil,cooking oil,
-63,Condiments,"Tesco Tomato Puree Tube 200G, £0.60 each",1 heaped tbsp tomato purée,1,£0.60,1 tbsp,tomato purée,tomato purée,
-64,Condiments,"Tesco Dijon Mustard 185G, £0.80 each",1 tsp dijon mustard,1,£0.80,1 tsp,dijon mustard,dijon mustard,
-65,Condiments,"Tesco Finest Caperberries 280G, £3.30 each",2 tbsp capers,1,£3.30,2 tbsp,capers,capers,
-65,Condiments,"Tesco White Wine Vinegar 350Ml, £1.05 each",75ml white wine vinegar,1,£1.05,75ml,white wine vinegar,white wine vinegar,
-66,Condiments,"Tesco Shaoxing Rice Wine 150Ml, £3.15 each",1 tsp shaoxing rice wine,1,£3.15,1 tsp,shaoxing rice wine,shaoxing rice wine,! Change to white wine and drinks 
-66,Condiments,"Tesco Lighter Than Light Mayonnaise 450Ml, £1.15 each",4 tbsp light mayo,1,£1.15,4 tbsp,light mayo,mayonnaise,
-66,Condiments,"Lee Kum Kee Premium Light Soy Sauce 150Ml Plus Free Sauce, £1.40 each",1 tsp light soy sauce,1,£1.40,1 tsp,light soy sauce,soy sauce,
-66,Condiments,"Yutaka Japanese Rice Vinegar 150Ml, £2.10 each",1 tbsp rice vinegar,1,£2.10,1 tbsp,rice vinegar,rice wine vinegar,
-66,Condiments,"Lee Kum Kee Wok Sesame Oil 207Ml, £2.40 each",1 tsp sesame oil,1,£2.40,1 tsp,sesame oil,sesame oil,
-66,Condiments,"Frylight Sunflower Oil Spray 190Ml, £2.75 each",sunflower oil spray,1,£2.75,,sunflower oil spray,cooking oil,
-69,Condiments,"Pataks Tikka Masala Paste Pots 2X70g, £1.49 each",2 tsp tikka curry paste,1,£1.49,2 tsp,tikka curry paste,tikka paste,
-70,Condiments,"Tesco Pitted Black Olives 330G, £1.05 each",6 pitted black olives,1,£1.05,6,pitted black olives,pitted black olives,
-72,Condiments,"Crisp 'N Dry 100% Rapeseed Oil 1L, £3.25 each",2 tbsp rapeseed oil,1,£3.25,2 tbsp,rapeseed oil,cooking oil,
-73,Condiments,"Tesco Dijon Mustard 185G, £0.80 each",1 tsp dijon mustard,1,£0.80,1 tsp,dijon mustard,dijon mustard,
-73,Condiments,"Tesco Classic Green Pesto 190G, £1.25 each",2 tbsp green pesto,1,£1.25,2 tbsp,green pesto,green pesto,
-74,Condiments,"Amoy Reduced Salt Soy Sauce 150Ml, £2.00 each",3 tbsp reduced-salt soy sauce,1,£2.00,3 tbsp,reduced-salt soy sauce,soy sauce,
-76,Condiments,"Tesco Whole Pickled Gherkins 680G, £1.70 each",30g gherkins,1,£1.70,30g,gherkins,gherkins,
-76,Condiments,"Cooks & Co Green Chillies 300G, £1.80 each",2 green pickled chillies,1,£1.80,2,green pickled chillies,jalapeños ,
-76,Condiments,"Frylight Sunflower Oil Spray 190Ml, £2.75 each",sunflower oil spray,1,£2.75,,sunflower oil spray,cooking oil,
-76,Condiments,"Tesco White Wine Vinegar 350Ml, £1.05 each",4 tbsp white wine vinegar,1,£1.05,4 tbsp,white wine vinegar,white wine vinegar,
-78,Condiments,"Tesco Groundnut Oil 500Ml, £2.00 each",1 tbsp groundnut oil,1,£2.00,1 tbsp,groundnut oil,groundnut oil,
-79,Condiments,"Flora Pure Sunflower Oil 1Lt Plus 25%, £3.50 each",3 tbsp sunflower oil,1,£3.50,3 tbsp,sunflower oil,cooking oil,
-79,Condiments,"Tesco Wholegrain Mustard 180G, £0.80 each",1 tbsp wholegrain mustard,1,£0.80,1 tbsp,wholegrain mustard,wholegrain mustard,
-79,Condiments,"Lea & Perrins Worcestershire Sauce 150Ml, £1.70 each",2 tbsp worcestershire sauce,1,£1.70,2 tbsp,worcestershire sauce,worcestershire sauce,
-80,Condiments,"Tesco Tomato Puree Tube 200G, £0.60 each",3 tbsp tomato purée,1,£0.60,3 tbsp,tomato purée,tomato purée,
-81,Condiments,"Amoy Reduced Salt Soy Sauce 150Ml, £2.00 each",1 tbsp reduced-salt soy sauce,1,£2.00,1 tbsp,reduced-salt soy sauce,soy sauce,
-81,Condiments,"Lee Kum Kee Wok Sesame Oil 207Ml, £2.40 each",1 tsp sesame oil,1,£2.40,1 tsp,sesame oil,sesame oil,
-83,Condiments,"Tesco Dijon Mustard 185G, £0.80 each",1 tbsp dijon mustard,1,£0.80,1 tbsp,dijon mustard,dijon mustard,
-83,Condiments,"Tesco Wholegrain Mustard 180G, £0.80 each",1 tbsp wholegrain mustard,1,£0.80,1 tbsp,wholegrain mustard,wholegrain mustard,
-84,Condiments,"Tesco Organic Balsamic Vinegar Of Modena 250Ml, £2.00 each",3 tbsp balsamic vinegar,1,£2.00,3 tbsp,balsamic vinegar,balsamic vinegar,
-85,Condiments,"Nandos Medium Peri Peri Sauce 125G, £2.00 each",peri peri sauce,1,£2.00,,peri peri sauce,peri peri sauce,
-87,Condiments,"Tesco Guacamole 163G, £1.20 each",guacamole,1,£1.20,,guacamole,guacamole,
-87,Condiments,"Flora Pure Sunflower Oil 1Lt Plus 25%, £3.50 each",2 tbsp sunflower oil,1,£3.50,2 tbsp,sunflower oil,cooking oil,
-88,Condiments,"Tesco Harissa Paste 90G, £2.10 each",harissa paste,1,£2.10,,harissa paste,harissa paste,
-90,Condiments,"Blue Dragon Fish Sauce 150Ml, £1.75 each",4 tbsp fish sauce,1,£1.75,4 tbsp,fish sauce,fish sauce,
-90,Condiments,"Kikkoman Soy Sauce 1 Litre, £6.90 each",80ml soy sauce,1,£6.90,80ml,soy sauce,soy sauce,
-92,Condiments,"Aspall Organic Cyder Vinegar 350Ml, £2.00 each",150ml cider vinegar,1,£2.00,150ml,cider vinegar,cider vinegar,
-96,Condiments,"Tesco Finest Caperberries 280G, £3.30 each",1 tbsp capers,1,£3.30,1 tbsp,capers,capers,
-97,Condiments,"Tesco Bbq Sauce 440G, £1.20 each",2 tbsp bbq sauce,1,£1.20,2 tbsp,bbq sauce,bbq sauce,
-99,Condiments,"Tesco Tomato Puree Tube 200G, £0.60 each",2 tbsp tomato purée,1,£0.60,2 tbsp,tomato purée,tomato purée,
-102,Condiments,"Tesco Organic Balsamic Vinegar Of Modena 250Ml, £2.00 each",2 tsp balsamic vinegar,1,£2.00,2 tsp,balsamic vinegar,balsamic vinegar,
-103,Condiments,"Tesco Dijon Mustard 185G, £0.80 each",1 tsp dijon mustard,1,£0.80,1 tsp,dijon mustard,dijon mustard,
-104,Condiments,"Tesco Finest Basil Pesto 190G, £2.10 each",142.5g spinach and ricotta pesto,1,£2.10,142.5g,spinach and ricotta pesto,green pesto,
-105,Condiments,"Tesco Pickled Red Cabbage 340G, £1.10 each",170g pickled red cabbage,1,£1.10,170g,pickled red cabbage,pickled red cabbage,
-107,Condiments,"Aleyna Roasted Red Peppers 480G, £1.70 each",150g roasted red peppers,1,£1.70,150g,roasted red peppers,roasted red peppers,
-111,Condiments,"Tesco Classic Green Pesto 190G, £1.25 each",75g pesto,1,£1.25,75g,pesto,green pesto,
-112,Condiments,"Blue Dragon Fish Sauce 150Ml, £1.75 each",3 tbsp fish sauce,1,£1.75,3 tbsp,fish sauce,fish sauce,
-112,Condiments,"Flora Pure Sunflower Oil 1Lt Plus 25%, £3.50 each",2 tbsp sunflower oil,1,£3.50,2 tbsp,sunflower oil,cooking oil,
-115,Condiments,"Amoy Reduced Salt Soy Sauce 150Ml, £2.00 each",2 tbsp reduced salt soy sauce,1,£2.00,2 tbsp,reduced salt soy sauce,soy sauce,
-115,Condiments,"Blue Dragon Sesame Oil 150Ml, £2.70 each",2 tbsp sesame oil,1,£2.70,2 tbsp,sesame oil,sesame oil,
-115,Condiments,"Tesco Sriracha Hot Chilli Sauce 285G, £1.95 each",4 tbsp sriracha,1,£1.95,4 tbsp,sriracha,sriracha,
-117,Condiments,"Heinz Seriously Good Mayonnaise 215G, £1.68 each",4.5 tbsp mayonnaise,1,£1.68,4.5 tbsp,mayonnaise,mayonnaise,
-117,Condiments,"Flora Pure Sunflower Oil 1Lt Plus 25%, £3.50 each",sunflower oil,1,£3.50,,sunflower oil,cooking oil,
-119,Condiments,"Tesco Massaman Curry Paste 200G, £1.90 each",1 tsp massaman curry paste,1,£1.90,1 tsp,massaman curry paste,massaman curry paste,
-119,Condiments,"Nuts About Nature Peanut Butter Smooth 340G, £1.85 each",1 tsp smooth peanut butter,1,£1.85,1 tsp,smooth peanut butter,smooth peanut butter,
-121,Condiments,"Tesco Red Wine Vinegar 350Ml, £1.05 each",150ml red wine vinegar,1,£1.05,150ml,red wine vinegar,red wine vinegar,
-122,Condiments,"Flora Pure Sunflower Oil 1Lt Plus 25%, £3.50 each",50ml sunflower oil,1,£3.50,50ml,sunflower oil,cooking oil,
-128,Condiments,"Tesco Tomato Puree Tube 200G, £0.60 each",3 tbsp tomato purée,1,£0.60,3 tbsp,tomato purée,tomato purée,
-130,Condiments,"Tesco Finest Horseradish Sauce 165G, £2.00 each",horseradish sauce,1,£2.00,,horseradish sauce,horseradish sauce,
-132,Condiments,"Tesco Finest Caperberries 280G, £3.30 each",2 tbsp capers,1,£3.30,2 tbsp,capers,capers,
-132,Condiments,"Tesco Pitted Queen Olives 340G, £1.60 each",100g pitted queen olives,1,£1.60,100g,pitted queen olives,pitted green olives,
-132,Condiments,"Tesco Tahini 300G, £2.60 each",3 tbsp tahini,1,£2.60,3 tbsp,tahini,tahini,
-133,Condiments,"Tesco Wholegrain Mustard 180G, £0.80 each",1 tsp grainy mustard,1,£0.80,1 tsp,grainy mustard,wholegrain mustard,
-134,Condiments,"Blue Dragon Fish Sauce 150Ml, £1.75 each",1 tsp fish sauce,1,£1.75,1 tsp,fish sauce,fish sauce,
-134,Condiments,"Tesco Groundnut Oil 500Ml, £2.00 each",405ml groundnut oil,1,£2.00,405ml,groundnut oil,groundnut oil,
-134,Condiments,"Blue Dragon Thai Red Paste Pot For Two 50G, £1.20 each",2 tbsp thai red curry paste,1,£1.20,2 tbsp,thai red curry paste,thai red curry paste,
-134,Condiments,"Tesco Rice Wine Vinegar 150Ml, £2.00 each",0.5 tsp rice wine vinegar,1,£2.00,0.5 tsp,rice wine vinegar,rice wine vinegar,
-134,Condiments,"Kikkoman Soy Sauce 1 Litre, £6.90 each",1 tbsp soy sauce,1,£6.90,1 tbsp,soy sauce,soy sauce,
-139,Condiments,"Tesco Red Wine Vinegar 350Ml, £1.05 each",1 tbsp red wine vinegar,1,£1.05,1 tbsp,red wine vinegar,red wine vinegar,
-140,Condiments,"Tesco Pitted Black Olives 330G, £1.05 each",140g pitted black olives,1,£1.05,140g,pitted black olives,pitted black olives,
-145,Condiments,"Tesco Pitted Black Olives 330G, £1.05 each",25g pitted black olives,1,£1.05,25g,pitted black olives,pitted black olives,
-145,Condiments,"Tesco Red Wine Vinegar 350Ml, £1.05 each",4 tsp red wine vinegar,1,£1.05,4 tsp,red wine vinegar,red wine vinegar,
-146,Condiments,"Aspall Organic Cyder Vinegar 350Ml, £2.00 each",150ml cider vinegar,1,£2.00,150ml,cider vinegar,cider vinegar,
-149,Condiments,"Amoy Reduced Salt Soy Sauce 150Ml, £2.00 each",1 tbsp reduced-salt soy sauce,1,£2.00,1 tbsp,reduced-salt soy sauce,soy sauce,
-149,Condiments,"Tesco Tomato Puree Tube 200G, £0.60 each",1 tbsp tomato purée,1,£0.60,1 tbsp,tomato purée,tomato purée,
+﻿recipe_id,section,item,ingredient,quantity,price,quantities,raw_ingredients,simplified_ingredients
+0,Condiments,"Aleyna Sliced Red Jalapeno Peppers 480G, £1.15 each",6 tbsp drained sliced green jalapeños in brine,1,£1.15,6 tbsp,drained sliced green jalapeños in brine,jalapeños 
+1,Condiments,"Tesco Tomato Puree Tube 200G, £0.60 each",1.5 tbsp tomato purée,1,£0.60,1.5 tbsp,tomato purée,tomato purée
+1,Condiments,"Tesco Wholegrain Mustard 180G, £0.80 each",1.5 tbsp grainy mustard,1,£0.80,1.5 tbsp,grainy mustard,wholegrain mustard
+2,Fruits_and_vegetables,,0.5 tsp garlic paste,1,,1 clove,garlic paste,garlic 
+2,Fruits_and_vegetables,,0.5 tsp ginger paste,1,,5cm ,ginger paste ,ginger
+5,Condiments,"Tesco Hot Chilli Sauce 500G, £1.20 each",hot chilli sauce,1,£1.20,,hot chilli sauce,chilli sauce
+5,Condiments,"Lee Kum Kee Premium Light Soy Sauce 150Ml Plus Free Sauce, £1.40 each",3 tbsp low-salt soy sauce,1,£1.40,3 tbsp,low-salt soy sauce,soy sauce
+9,Condiments,"Frylight Rapeseed Oil Spray 190Ml, £2.75 each",spray oil,1,£2.75,,spray oil,cooking oil
+10,Condiments,"Sacla Vegan Basil Pesto 190G, £3.10 each",90g free from green pesto,1,£3.10,90g,free from green pesto,vegan green pesto
+11,Condiments,"Tesco Tomato Puree Tube 200G, £0.60 each",2 tbsp tomato purée,1,£0.60,2 tbsp,tomato purée,tomato purée
+12,Condiments,"Amoy Reduced Salt Soy Sauce 150Ml, £2.00 each",1 tbsp reduced-salt soy sauce,1,£2.00,1 tbsp,reduced-salt soy sauce,soy sauce
+12,Condiments,"Lee Kum Kee Wok Sesame Oil 207Ml, £2.40 each",2 tsp sesame oil,1,£2.40,2 tsp,sesame oil,sesame oil
+12,Condiments,"Nuts About Nature Peanut Butter Smooth 340G, £1.85 each",1 tbsp smooth peanut butter,1,£1.85,1 tbsp,smooth peanut butter,smooth peanut butter
+15,Condiments,"Tesco Thai Green Curry Paste 200G, £1.90 each",200g thai green curry paste,1,£1.90,200g,thai green curry paste,thai green curry paste
+16,Condiments,"Amoy Reduced Salt Soy Sauce 150Ml, £2.00 each",3 tbsp reduced-salt soy sauce,1,£2.00,3 tbsp,reduced-salt soy sauce,soy sauce
+17,Condiments,"Frylight Rapeseed Oil Spray 190Ml, £2.75 each",spray oil,1,£2.75,,spray oil,cooking oil
+17,Condiments,"Tesco Classic Green Pesto 190G, £1.25 each",1 tbsp green pesto,1,£1.25,1 tbsp,green pesto,green pesto
+17,Condiments,"Heinz Seriously Good Mayonnaise 215G, £1.68 each",3 tbsp mayonnaise,1,£1.68,3 tbsp,mayonnaise,mayonnaise
+19,Condiments,"Sacla Vegan Basil Pesto 190G, £3.10 each",100g free from green pesto,1,£3.10,100g,free from green pesto,vegan green pesto
+22,Condiments,"Tesco Pickled Red Cabbage 340G, £1.10 each",240g pickled red cabbage,1,£1.10,240g,pickled red cabbage,pickled red cabbage
+23,Condiments,"Tesco Rice Wine Vinegar 150Ml, £2.00 each",1 tsp rice wine vinegar,1,£2.00,1 tsp,rice wine vinegar,rice wine vinegar
+24,Condiments,"French's America Classic Yellow Mustard 226G Squeezy, £2.00 each",1 tbsp american yellow mustard,1,£2.00,1 tbsp,american yellow mustard,yellow mustard
+24,Condiments,"Frylight Rapeseed Oil Spray 190Ml, £2.75 each",spray oil,1,£2.75,,spray oil,cooking oil
+24,Condiments,"Heinz Seriously Good Mayonnaise 215G, £1.68 each",2 tbsp mayonnaise,1,£1.68,2 tbsp,mayonnaise,mayonnaise
+24,Condiments,"Tesco Wholegrain Mustard 180G, £0.80 each",1 tsp wholegrain mustard,1,£0.80,1 tsp,wholegrain mustard,wholegrain mustard
+25,Condiments,"Tesco Massaman Curry Paste 200G, £1.90 each",200g massaman curry paste,1,£1.90,200g,massaman curry paste,massaman curry paste
+27,Condiments,"Tesco Tomato Puree Tube 200G, £0.60 each",3 tbsp tomato purée,1,£0.60,3 tbsp,tomato purée,tomato purée
+27,Condiments,"Colman's White Sauce Mix 25G, £0.90 each",340g white sauce,2,£1.80,340g,white sauce,white sauce
+28,Condiments,"Fragata Capers 240G, £2.40 each",1 tbsp capers,1,£2.40,1 tbsp,capers,capers
+28,Condiments,"Tesco Pitted Black Olives 330G, £1.05 each",50g pitted black olives,1,£1.05,50g,pitted black olives,pitted black olives
+28,Condiments,"Tesco Tomato Puree Tube 200G, £0.60 each",4 tbsp tomato purée,1,£0.60,4 tbsp,tomato purée,tomato purée
+29,Condiments,"Lee Kum Kee Premium Light Soy Sauce 150Ml Plus Free Sauce, £1.40 each",3 tbsp light soy sauce,1,£1.40,3 tbsp,light soy sauce,soy sauce
+29,Condiments,"Yutaka Japanese Mirin 150Ml, £2.10 each",3 tbsp mirin,1,£2.10,3 tbsp,mirin,mirin
+29,Condiments,"Tesco Rice Wine Vinegar 150Ml, £2.00 each",2 tsp rice wine vinegar,1,£2.00,2 tsp,rice wine vinegar,rice wine vinegar
+29,Condiments,"Blue Dragon Sesame Oil 150Ml, £2.70 each",1.5 tbsp sesame oil,1,£2.70,1.5 tbsp,sesame oil,sesame oil
+30,Condiments,"Yutaka Japanese Rice Vinegar 150Ml, £2.10 each",1 tbsp rice vinegar,1,£2.10,1 tbsp,rice vinegar,rice wine vinegar
+31,Condiments,"Growers Harvest Tomato Passata 500G, £0.45 each",500g passata,1,£0.45,500g,passata,passata
+33,Condiments,"Tesco Organic Balsamic Vinegar Of Modena 250Ml, £2.00 each",balsamic vinegar,1,£2.00,,balsamic vinegar,balsamic vinegar
+33,Condiments,"Tesco Pitted Queen Olives 340G, £1.60 each",6 olives,1,£1.60,6,olives,pitted green olives
+33,Condiments,"Growers Harvest Tomato Passata 500G, £0.45 each",4 tbsp passata,1,£0.45,4 tbsp,passata,passata
+33,Condiments,"Tesco Red Pesto 190G, £1.25 each",1 tbsp vegetarian red pesto,1,£1.25,1 tbsp,vegetarian red pesto,red pesto
+34,Condiments,"Tesco Bbq Sauce 440G, £1.20 each",2 tbsp bbq sauce,1,£1.20,2 tbsp,bbq sauce,bbq sauce
+34,Condiments,"Tesco Garlic & Herb Passata 500G, £0.90 each",500g passata with garlic & herbs,1,£0.90,500g,passata with garlic & herbs,passata
+43,Condiments,"Geeta's Mango Chutney 320G, £2.30 each",1 tbsp mango chutney,1,£2.30,1 tbsp,mango chutney,mango chutney
+43,Condiments,"Tesco Lighter Than Light Mayonnaise 450Ml, £1.15 each",4 tbsp reduced-fat mayonnaise,1,£1.15,4 tbsp,reduced-fat mayonnaise,mayonnaise
+44,Condiments,"Lea & Perrins Worcestershire Sauce 150Ml, £1.70 each",1 tsp worcestershire sauce,1,£1.70,1 tsp,worcestershire sauce,worcestershire sauce
+45,Condiments,"Tesco Tomato Puree Tube 200G, £0.60 each",2 tbsp tomato purée,1,£0.60,2 tbsp,tomato purée,tomato purée
+46,Condiments,"Growers Harvest Tomato Passata 500G, £0.45 each",800g passata,2,£0.90,800g,passata,passata
+46,Condiments,"Flora Pure Sunflower Oil 1Lt Plus 25%, £3.50 each",2 tbsp sunflower oil,1,£3.50,2 tbsp,sunflower oil,cooking oil
+48,Fruits_and_vegetables,,2 tbsp garlic & ginger paste,1,,3 cloves,garlic ,garlic 
+48,Fruits_and_vegetables,,,1,,5cm ,ginger,ginger
+48,Condiments,"Tiptree Mango Chutney 220G, £2.50 each",mango chutney,1,£2.50,,mango chutney,mango chutney
+48,Condiments,"Crisp 'N Dry 100% Rapeseed Oil 1L, £3.25 each",2.5 tbsp rapeseed oil,1,£3.25,2.5 tbsp,rapeseed oil,cooking oil
+49,Condiments,"Tesco Harissa Paste 90G, £2.10 each",1 tsp harissa paste,1,£2.10,1 tsp,harissa paste,harissa paste
+50,Condiments,"Tesco Organic Balsamic Vinegar Of Modena 250Ml, £2.00 each",2 tbsp balsamic vinegar,1,£2.00,2 tbsp,balsamic vinegar,balsamic vinegar
+50,Condiments,"Lea & Perrins Worcestershire Sauce 150Ml, £1.70 each",3 tbsp worcestershire sauce,1,£1.70,3 tbsp,worcestershire sauce,worcestershire sauce
+51,Condiments,"Tesco Classic Green Pesto 190G, £1.25 each",6 tsp pesto,1,£1.25,6 tsp,pesto,green pesto
+52,Condiments,"Pataks Tikka Masala Paste Pots 2X70g, £1.49 each",2 heaped tbsp tikka paste,1,£1.49,2 tbsp,tikka paste,tikka paste
+54,Condiments,"Tesco Harissa Paste 90G, £2.10 each",1.5 tbsp harissa paste,1,£2.10,1.5 tbsp,harissa paste,harissa paste
+55,Condiments,"Tesco Chilli Sauce Mild 500G, £1.20 each",1 tsp chilli sauce,1,£1.20,1 tsp,chilli sauce,chilli sauce
+55,Condiments,"Tesco Red Pesto 190G, £1.25 each",2 tbsp red pesto,1,£1.25,2 tbsp,red pesto,red pesto
+57,Condiments,"Tesco Chipotle Chilli Paste 95G, £1.50 each",2 tsp chipotle paste,1,£1.50,2 tsp,chipotle paste,chipotle paste
+58,Condiments,"Tesco Tomato Puree Tube 200G, £0.60 each",1 tbsp tomato purée,1,£0.60,1 tbsp,tomato purée,tomato purée
+60,Condiments,"Crisp 'N Dry 100% Rapeseed Oil 1L, £3.25 each",2 tsp rapeseed oil,1,£3.25,2 tsp,rapeseed oil,cooking oil
+60,Condiments,"Amoy Reduced Salt Soy Sauce 150Ml, £2.00 each",1.5 tbsp reduced-salt soy sauce,1,£2.00,1.5 tbsp,reduced-salt soy sauce,soy sauce
+62,Condiments,"Growers Harvest Tomato Passata 500G, £0.45 each",500g passata,1,£0.45,500g,passata,passata
+63,Condiments,"Crisp 'N Dry 100% Rapeseed Oil 1L, £3.25 each",3 tsp rapeseed oil,1,£3.25,3 tsp,rapeseed oil,cooking oil
+63,Condiments,"Tesco Tomato Puree Tube 200G, £0.60 each",1 heaped tbsp tomato purée,1,£0.60,1 tbsp,tomato purée,tomato purée
+64,Condiments,"Tesco Dijon Mustard 185G, £0.80 each",1 tsp dijon mustard,1,£0.80,1 tsp,dijon mustard,dijon mustard
+65,Condiments,"Tesco Finest Caperberries 280G, £3.30 each",2 tbsp capers,1,£3.30,2 tbsp,capers,capers
+65,Condiments,"Tesco White Wine Vinegar 350Ml, £1.05 each",75ml white wine vinegar,1,£1.05,75ml,white wine vinegar,white wine vinegar
+66,Drinks,,1 tsp shaoxing rice wine,1,£3.15,1 tsp,shaoxing rice wine,white wine
+66,Condiments,"Tesco Lighter Than Light Mayonnaise 450Ml, £1.15 each",4 tbsp light mayo,1,£1.15,4 tbsp,light mayo,mayonnaise
+66,Condiments,"Lee Kum Kee Premium Light Soy Sauce 150Ml Plus Free Sauce, £1.40 each",1 tsp light soy sauce,1,£1.40,1 tsp,light soy sauce,soy sauce
+66,Condiments,"Yutaka Japanese Rice Vinegar 150Ml, £2.10 each",1 tbsp rice vinegar,1,£2.10,1 tbsp,rice vinegar,rice wine vinegar
+66,Condiments,"Lee Kum Kee Wok Sesame Oil 207Ml, £2.40 each",1 tsp sesame oil,1,£2.40,1 tsp,sesame oil,sesame oil
+66,Condiments,"Frylight Sunflower Oil Spray 190Ml, £2.75 each",sunflower oil spray,1,£2.75,,sunflower oil spray,cooking oil
+69,Condiments,"Pataks Tikka Masala Paste Pots 2X70g, £1.49 each",2 tsp tikka curry paste,1,£1.49,2 tsp,tikka curry paste,tikka paste
+70,Condiments,"Tesco Pitted Black Olives 330G, £1.05 each",6 pitted black olives,1,£1.05,6,pitted black olives,pitted black olives
+72,Condiments,"Crisp 'N Dry 100% Rapeseed Oil 1L, £3.25 each",2 tbsp rapeseed oil,1,£3.25,2 tbsp,rapeseed oil,cooking oil
+73,Condiments,"Tesco Dijon Mustard 185G, £0.80 each",1 tsp dijon mustard,1,£0.80,1 tsp,dijon mustard,dijon mustard
+73,Condiments,"Tesco Classic Green Pesto 190G, £1.25 each",2 tbsp green pesto,1,£1.25,2 tbsp,green pesto,green pesto
+74,Condiments,"Amoy Reduced Salt Soy Sauce 150Ml, £2.00 each",3 tbsp reduced-salt soy sauce,1,£2.00,3 tbsp,reduced-salt soy sauce,soy sauce
+76,Condiments,"Tesco Whole Pickled Gherkins 680G, £1.70 each",30g gherkins,1,£1.70,30g,gherkins,gherkins
+76,Condiments,"Cooks & Co Green Chillies 300G, £1.80 each",2 green pickled chillies,1,£1.80,2,green pickled chillies,jalapeños 
+76,Condiments,"Frylight Sunflower Oil Spray 190Ml, £2.75 each",sunflower oil spray,1,£2.75,,sunflower oil spray,cooking oil
+76,Condiments,"Tesco White Wine Vinegar 350Ml, £1.05 each",4 tbsp white wine vinegar,1,£1.05,4 tbsp,white wine vinegar,white wine vinegar
+78,Condiments,"Tesco Groundnut Oil 500Ml, £2.00 each",1 tbsp groundnut oil,1,£2.00,1 tbsp,groundnut oil,groundnut oil
+79,Condiments,"Flora Pure Sunflower Oil 1Lt Plus 25%, £3.50 each",3 tbsp sunflower oil,1,£3.50,3 tbsp,sunflower oil,cooking oil
+79,Condiments,"Tesco Wholegrain Mustard 180G, £0.80 each",1 tbsp wholegrain mustard,1,£0.80,1 tbsp,wholegrain mustard,wholegrain mustard
+79,Condiments,"Lea & Perrins Worcestershire Sauce 150Ml, £1.70 each",2 tbsp worcestershire sauce,1,£1.70,2 tbsp,worcestershire sauce,worcestershire sauce
+80,Condiments,"Tesco Tomato Puree Tube 200G, £0.60 each",3 tbsp tomato purée,1,£0.60,3 tbsp,tomato purée,tomato purée
+81,Condiments,"Amoy Reduced Salt Soy Sauce 150Ml, £2.00 each",1 tbsp reduced-salt soy sauce,1,£2.00,1 tbsp,reduced-salt soy sauce,soy sauce
+81,Condiments,"Lee Kum Kee Wok Sesame Oil 207Ml, £2.40 each",1 tsp sesame oil,1,£2.40,1 tsp,sesame oil,sesame oil
+83,Condiments,"Tesco Dijon Mustard 185G, £0.80 each",1 tbsp dijon mustard,1,£0.80,1 tbsp,dijon mustard,dijon mustard
+83,Condiments,"Tesco Wholegrain Mustard 180G, £0.80 each",1 tbsp wholegrain mustard,1,£0.80,1 tbsp,wholegrain mustard,wholegrain mustard
+84,Condiments,"Tesco Organic Balsamic Vinegar Of Modena 250Ml, £2.00 each",3 tbsp balsamic vinegar,1,£2.00,3 tbsp,balsamic vinegar,balsamic vinegar
+85,Condiments,"Nandos Medium Peri Peri Sauce 125G, £2.00 each",peri peri sauce,1,£2.00,,peri peri sauce,peri peri sauce
+87,Condiments,"Tesco Guacamole 163G, £1.20 each",guacamole,1,£1.20,,guacamole,guacamole
+87,Condiments,"Flora Pure Sunflower Oil 1Lt Plus 25%, £3.50 each",2 tbsp sunflower oil,1,£3.50,2 tbsp,sunflower oil,cooking oil
+88,Condiments,"Tesco Harissa Paste 90G, £2.10 each",harissa paste,1,£2.10,,harissa paste,harissa paste
+90,Condiments,"Blue Dragon Fish Sauce 150Ml, £1.75 each",4 tbsp fish sauce,1,£1.75,4 tbsp,fish sauce,fish sauce
+90,Condiments,"Kikkoman Soy Sauce 1 Litre, £6.90 each",80ml soy sauce,1,£6.90,80ml,soy sauce,soy sauce
+92,Condiments,"Aspall Organic Cyder Vinegar 350Ml, £2.00 each",150ml cider vinegar,1,£2.00,150ml,cider vinegar,cider vinegar
+96,Condiments,"Tesco Finest Caperberries 280G, £3.30 each",1 tbsp capers,1,£3.30,1 tbsp,capers,capers
+97,Condiments,"Tesco Bbq Sauce 440G, £1.20 each",2 tbsp bbq sauce,1,£1.20,2 tbsp,bbq sauce,bbq sauce
+99,Condiments,"Tesco Tomato Puree Tube 200G, £0.60 each",2 tbsp tomato purée,1,£0.60,2 tbsp,tomato purée,tomato purée
+102,Condiments,"Tesco Organic Balsamic Vinegar Of Modena 250Ml, £2.00 each",2 tsp balsamic vinegar,1,£2.00,2 tsp,balsamic vinegar,balsamic vinegar
+103,Condiments,"Tesco Dijon Mustard 185G, £0.80 each",1 tsp dijon mustard,1,£0.80,1 tsp,dijon mustard,dijon mustard
+104,Condiments,"Tesco Finest Basil Pesto 190G, £2.10 each",142.5g spinach and ricotta pesto,1,£2.10,142.5g,spinach and ricotta pesto,green pesto
+105,Condiments,"Tesco Pickled Red Cabbage 340G, £1.10 each",170g pickled red cabbage,1,£1.10,170g,pickled red cabbage,pickled red cabbage
+107,Condiments,"Aleyna Roasted Red Peppers 480G, £1.70 each",150g roasted red peppers,1,£1.70,150g,roasted red peppers,roasted red peppers
+111,Condiments,"Tesco Classic Green Pesto 190G, £1.25 each",75g pesto,1,£1.25,75g,pesto,green pesto
+112,Condiments,"Blue Dragon Fish Sauce 150Ml, £1.75 each",3 tbsp fish sauce,1,£1.75,3 tbsp,fish sauce,fish sauce
+112,Condiments,"Flora Pure Sunflower Oil 1Lt Plus 25%, £3.50 each",2 tbsp sunflower oil,1,£3.50,2 tbsp,sunflower oil,cooking oil
+115,Condiments,"Amoy Reduced Salt Soy Sauce 150Ml, £2.00 each",2 tbsp reduced salt soy sauce,1,£2.00,2 tbsp,reduced salt soy sauce,soy sauce
+115,Condiments,"Blue Dragon Sesame Oil 150Ml, £2.70 each",2 tbsp sesame oil,1,£2.70,2 tbsp,sesame oil,sesame oil
+115,Condiments,"Tesco Sriracha Hot Chilli Sauce 285G, £1.95 each",4 tbsp sriracha,1,£1.95,4 tbsp,sriracha,sriracha
+117,Condiments,"Heinz Seriously Good Mayonnaise 215G, £1.68 each",4.5 tbsp mayonnaise,1,£1.68,4.5 tbsp,mayonnaise,mayonnaise
+117,Condiments,"Flora Pure Sunflower Oil 1Lt Plus 25%, £3.50 each",sunflower oil,1,£3.50,,sunflower oil,cooking oil
+119,Condiments,"Tesco Massaman Curry Paste 200G, £1.90 each",1 tsp massaman curry paste,1,£1.90,1 tsp,massaman curry paste,massaman curry paste
+119,Condiments,"Nuts About Nature Peanut Butter Smooth 340G, £1.85 each",1 tsp smooth peanut butter,1,£1.85,1 tsp,smooth peanut butter,smooth peanut butter
+121,Condiments,"Tesco Red Wine Vinegar 350Ml, £1.05 each",150ml red wine vinegar,1,£1.05,150ml,red wine vinegar,red wine vinegar
+122,Condiments,"Flora Pure Sunflower Oil 1Lt Plus 25%, £3.50 each",50ml sunflower oil,1,£3.50,50ml,sunflower oil,cooking oil
+128,Condiments,"Tesco Tomato Puree Tube 200G, £0.60 each",3 tbsp tomato purée,1,£0.60,3 tbsp,tomato purée,tomato purée
+130,Condiments,"Tesco Finest Horseradish Sauce 165G, £2.00 each",horseradish sauce,1,£2.00,,horseradish sauce,horseradish sauce
+132,Condiments,"Tesco Finest Caperberries 280G, £3.30 each",2 tbsp capers,1,£3.30,2 tbsp,capers,capers
+132,Condiments,"Tesco Pitted Queen Olives 340G, £1.60 each",100g pitted queen olives,1,£1.60,100g,pitted queen olives,pitted green olives
+132,Condiments,"Tesco Tahini 300G, £2.60 each",3 tbsp tahini,1,£2.60,3 tbsp,tahini,tahini
+133,Condiments,"Tesco Wholegrain Mustard 180G, £0.80 each",1 tsp grainy mustard,1,£0.80,1 tsp,grainy mustard,wholegrain mustard
+134,Condiments,"Blue Dragon Fish Sauce 150Ml, £1.75 each",1 tsp fish sauce,1,£1.75,1 tsp,fish sauce,fish sauce
+134,Condiments,"Tesco Groundnut Oil 500Ml, £2.00 each",405ml groundnut oil,1,£2.00,405ml,groundnut oil,groundnut oil
+134,Condiments,"Blue Dragon Thai Red Paste Pot For Two 50G, £1.20 each",2 tbsp thai red curry paste,1,£1.20,2 tbsp,thai red curry paste,thai red curry paste
+134,Condiments,"Tesco Rice Wine Vinegar 150Ml, £2.00 each",0.5 tsp rice wine vinegar,1,£2.00,0.5 tsp,rice wine vinegar,rice wine vinegar
+134,Condiments,"Kikkoman Soy Sauce 1 Litre, £6.90 each",1 tbsp soy sauce,1,£6.90,1 tbsp,soy sauce,soy sauce
+139,Condiments,"Tesco Red Wine Vinegar 350Ml, £1.05 each",1 tbsp red wine vinegar,1,£1.05,1 tbsp,red wine vinegar,red wine vinegar
+140,Condiments,"Tesco Pitted Black Olives 330G, £1.05 each",140g pitted black olives,1,£1.05,140g,pitted black olives,pitted black olives
+145,Condiments,"Tesco Pitted Black Olives 330G, £1.05 each",25g pitted black olives,1,£1.05,25g,pitted black olives,pitted black olives
+145,Condiments,"Tesco Red Wine Vinegar 350Ml, £1.05 each",4 tsp red wine vinegar,1,£1.05,4 tsp,red wine vinegar,red wine vinegar
+146,Condiments,"Aspall Organic Cyder Vinegar 350Ml, £2.00 each",150ml cider vinegar,1,£2.00,150ml,cider vinegar,cider vinegar
+149,Condiments,"Amoy Reduced Salt Soy Sauce 150Ml, £2.00 each",1 tbsp reduced-salt soy sauce,1,£2.00,1 tbsp,reduced-salt soy sauce,soy sauce
+149,Condiments,"Tesco Tomato Puree Tube 200G, £0.60 each",1 tbsp tomato purée,1,£0.60,1 tbsp,tomato purée,tomato purée
