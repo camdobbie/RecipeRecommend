@@ -7,7 +7,7 @@ Created on Wed Apr  5 12:08:00 2023
 
 import pandas as pd
 
-data=pd.read_csv('ingredients_150_recipes.csv')
+data=pd.read_csv('ingredients2.csv')
 data.head()
 
 ingredients = data['ingredient']
@@ -27,6 +27,8 @@ for i in range(0,len(ingredients)):
     sep_ing.append(array)
 
 #merges tbsp etc with number to get quantity as 1 string - if we add more recipes we will need to see if there are any other measurement words   
+#if we used it for more recipes we would need to add bulb, clove, cloves, stick, stalk, teaspoon, tablespoon, can, c m, sprig, sprigs but I can't remember 
+#how my code works and I think it only includes words at the start- would esp be helpful for sticks and cloves  
 units = ['tsp', 'tbsp', 'head', 'cm', 'leaves', 'bunch', 'sticks', 'tin', 'tins']
 for j in range(len(sep_ing)):
     arr = sep_ing[j]
@@ -51,17 +53,17 @@ for i in range(0,len(sep_ing)):
                 sep_ing[i].remove(string)
                 break
     if len(quantity) == 0:
-        quantities.append('')
+        quantities.append([])
     else:
-        quantities.append(quantity[0])
+        quantities.append(quantity)
    
+    
 data['quantities'] = quantities
-
 
 merged = [' '.join(item) for item in sep_ing]
 data['raw_ingredients'] = merged
 
-data.to_csv('ingredients_150_recipes.csv', index=False)
+data.to_csv('ingredients3.csv', index=False)
 
 
 
