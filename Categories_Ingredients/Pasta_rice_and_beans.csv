@@ -1,0 +1,58 @@
+﻿recipe_id,section,item,ingredient,quantity,price,quantities,raw_ingredients
+2,"Pasta, rice and beans","Natco Red Lentils 1Kg, £2.35 each",200g red lentils,1,£2.35,200g,red lentils
+5,"Pasta, rice and beans","Blue Dragon Whole Wheat Noodles 300G, £1.00 each",300g wholewheat noodles,1,£1.00,300g,wholewheat noodles
+6,"Pasta, rice and beans","Tesco Cous Cous 500G, £0.90 each",250g couscous,1,£0.90,250g,couscous
+10,"Pasta, rice and beans","De Cecco Gnocchi Di Patate 500G, £2.40 each",500g gnocchi,1,£2.40,500g,gnocchi
+11,"Pasta, rice and beans","Tesco Bulgur Wheat 500G, £1.40 each",100g bulgur wheat,1,£1.40,100g,bulgur wheat
+12,"Pasta, rice and beans","Tesco Medium Egg Noodles 250G, £1.05 each",250g medium egg noodles,1,£1.05,250g,medium egg noodles
+14,"Pasta, rice and beans","Tesco Farfalle Pasta Bows 500G, £0.95 each",150g dried pasta,1,£0.95,150g,dried pasta
+15,"Pasta, rice and beans","Tesco Basmati Rice 2Kg, £3.40 each",rice,1,£3.40,,rice
+16,"Pasta, rice and beans","Tilda Basmati Rice 500G, £3.00 each",250g basmati rice,1,£3.00,250g,basmati rice
+20,"Pasta, rice and beans","Gallo Risotto Rice 500G, £2.65 each",250g risotto rice,1,£2.65,250g,risotto rice
+21,"Pasta, rice and beans","Tilda Basmati Rice 500G, £3.00 each",300g basmati rice,1,£3.00,300g,basmati rice
+25,"Pasta, rice and beans","Laila Basmati Rice 2Kg, £4.00 each",cooked rice,1,£4.00,,cooked rice
+27,"Pasta, rice and beans","Hearty Food Co. Spaghetti Pasta 500G, £0.28 each",300g spaghetti,1,£0.28,300g,spaghetti
+28,"Pasta, rice and beans","Tilda Pure Steamed Basmati Rice Classic 250G, £0.95 each",250g microwaveable basmati rice,1,£0.95,250g,microwaveable basmati rice
+29,"Pasta, rice and beans","Tesco Straight To Wok Udon Noodles 300G, £1.00 each",udon noodles,2,£2.00,,udon noodles
+32,"Pasta, rice and beans","Tesco Linguine Pasta 500G, £0.95 each",300g dried pasta,1,£0.95,300g,dried pasta
+37,"Pasta, rice and beans","Barilla Lasagne 500G, £1.50 each",200g lasagne sheets,1,£1.50,200g,lasagne sheets
+40,"Pasta, rice and beans","Barilla Lasagne 500G, £1.50 each",300g lasagne sheets,1,£1.50,300g,lasagne sheets
+41,"Pasta, rice and beans","Grower Harvest Long Grain Rice 1Kg, £0.45 each",300g long-grain rice,1,£0.45,300g,long-grain rice
+45,"Pasta, rice and beans","Tilda Basmati Rice 500G, £3.00 each",400g basmati rice,1,£3.00,400g,basmati rice
+46,"Pasta, rice and beans","Tilda Basmati Rice 500G, £3.00 each",300g basmati rice,1,£3.00,300g,basmati rice
+47,"Pasta, rice and beans","Tesco Tagliatelle Pasta 500G, £0.95 each",400g dried tagliatelle,1,£0.95,400g,dried tagliatelle
+48,"Pasta, rice and beans","Tilda Brown Steamed Basmati Rice Classic 250G, £0.95 each",240g brown rice,1,£0.95,240g,brown rice
+55,"Pasta, rice and beans","Tesco Penne 300G, £1.15 each",300g dried pasta,1,£1.15,300g,dried pasta
+56,"Pasta, rice and beans","Napolina Penne Pasta 500G, £1.50 each",450g penne,1,£1.50,450g,penne
+60,"Pasta, rice and beans","Tesco Microwave Wholegrain Rice 250G, £0.65 each",250g microwaveable wholegrain rice,1,£0.65,250g,microwaveable wholegrain rice
+64,"Pasta, rice and beans","Tesco Cous Cous 500G, £0.90 each",50g couscous,1,£0.90,50g,couscous
+68,"Pasta, rice and beans","East End Green Lentils 500G, £1.45 each",500g lentilles vertes,1,£1.45,500g,lentilles vertes
+69,"Pasta, rice and beans","Natco Red Lentils 1Kg, £2.35 each",50g red lentils,1,£2.35,50g,red lentils
+70,"Pasta, rice and beans","Tesco Tagliatelle Pasta 500G, £0.95 each",300g dried tagliatelle,1,£0.95,300g,dried tagliatelle
+71,"Pasta, rice and beans","Hearty Food Co. Spaghetti Pasta 500G, £0.28 each",250g spaghetti,1,£0.28,250g,spaghetti
+74,"Pasta, rice and beans","Tesco Medium Egg Noodles 250G, £1.05 each",250g medium egg noodles,1,£1.05,250g,medium egg noodles
+75,"Pasta, rice and beans","Tesco Pearl Barley 500G, £0.65 each",150g pearl barley,1,£0.65,150g,pearl barley
+79,"Pasta, rice and beans","Tesco Macaroni Pasta 500G, £0.95 each",650g macaroni,2,£1.90,650g,macaroni
+81,"Pasta, rice and beans","Tesco Microwave Long Grain Rice 250G, £0.65 each",250g microwave long-grain rice,1,£0.65,250g,microwave long-grain rice
+82,"Pasta, rice and beans","Tesco Pearl Barley 500G, £0.65 each",350g pearl barley,1,£0.65,350g,pearl barley
+83,"Pasta, rice and beans","Tilda Pure Steamed Basmati Rice Classic 250G, £0.95 each",250g microwave basmati rice,1,£0.95,250g,microwave basmati rice
+85,"Pasta, rice and beans","Tesco Rigatoni Pasta 500G, £0.95 each",300g rigatoni pasta,1,£0.95,300g,rigatoni pasta
+86,"Pasta, rice and beans","Tilda Basmati Rice 1Kg, £5.00 each",100g basmati rice,1,£5.00,100g,basmati rice
+90,"Pasta, rice and beans","Tiger Tiger 5Mm Rice Sticks 400G, £2.40 each",600g rice noodles,2,£4.80,600g,rice noodles
+93,"Pasta, rice and beans","Tesco Tagliatelle Pasta 500G, £0.95 each",300g tagliatelle,1,£0.95,300g,tagliatelle
+96,"Pasta, rice and beans","Tesco Linguine Pasta 500G, £0.95 each",150g dried linguine,1,£0.95,150g,dried linguine
+104,"Pasta, rice and beans","Hearty Food Co. Spaghetti Pasta 500G, £0.28 each",350g dried spaghetti,1,£0.28,350g,dried spaghetti
+106,"Pasta, rice and beans","De Cecco Gnocchi Di Patate 500G, £2.40 each",500g potato gnocchi,1,£2.40,500g,potato gnocchi
+112,"Pasta, rice and beans","Thai Dragon Pad Thai Rice Noodles 200G, £1.20 each",pad thai noodle,2,£2.40,,pad thai noodle
+116,"Pasta, rice and beans","Tiger Tiger Rice Vermicelli 400G, £2.20 each",4 nests rice vermicelli noodles,1,£2.20,4,nests rice vermicelli noodles
+118,"Pasta, rice and beans","Tesco Red Lentil Fusilli Pasta Gluten Free 250G, £1.70 each",250g red lentil fusilli,1,£1.70,250g,red lentil fusilli
+119,"Pasta, rice and beans","Tesco Microwave Long Grain Rice 250G, £0.65 each",long grain white rice,1,£0.65,,long grain white rice
+122,"Pasta, rice and beans","Tilda Basmati Rice 1Kg, £5.00 each",200ml basmati rice,1,£5.00,200ml,basmati rice
+123,"Pasta, rice and beans","Hearty Food Co. Spaghetti Pasta 500G, £0.28 each",275g spaghetti,1,£0.28,275g,spaghetti
+129,"Pasta, rice and beans","Tesco Bulgur Wheat 500G, £1.40 each",375g bulgur wheat,1,£1.40,375g,bulgur wheat
+132,"Pasta, rice and beans","Hearty Food Co. Spaghetti Pasta 500G, £0.28 each",300g spaghetti,1,£0.28,300g,spaghetti
+138,"Pasta, rice and beans","Tesco Linguine Pasta 500G, £0.95 each",200g linguine,1,£0.95,200g,linguine
+139,"Pasta, rice and beans","Napolina Penne Pasta 500G, £1.50 each",350g penne,1,£1.50,350g,penne
+140,"Pasta, rice and beans","Tesco Farfalle Pasta Bows 500G, £0.95 each",250g farfalle,1,£0.95,250g,farfalle
+144,"Pasta, rice and beans","Tesco Linguine Pasta 500G, £0.95 each",300g linguine,1,£0.95,300g,linguine
+146,"Pasta, rice and beans","Tesco Cous Cous 500G, £0.90 each",couscous,1,£0.90,,couscous

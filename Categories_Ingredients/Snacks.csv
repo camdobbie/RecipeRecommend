@@ -1,0 +1,21 @@
+﻿recipe_id,section,item,ingredient,quantity,price,quantities,raw_ingredients
+0,Snacks,"Tesco Cool Tortilla Chips 200G, £1.00 each",20 tortilla chips,1,£1.00,20,tortilla chips
+5,Snacks,"Tesco Organic Fair Trade Cashew Nuts 150G, £3.20 each",50g unsalted cashew nuts,1,£3.20,50g,unsalted cashew nuts
+11,Snacks,"Wholefood Pine Nuts 100G, £3.80 each",50g pine nuts,1,£3.80,50g,pine nuts
+11,Snacks,"Whitworths Sunny Raisins 14 X 14G, £2.40 each",50g raisins,1,£2.40,50g,raisins
+15,Snacks,"Kp Unsalted Peanuts 250G, £3.00 each",25g unsalted peanuts,1,£3.00,25g,unsalted peanuts
+43,Snacks,"Whitworths Sunny Raisins 14 X 14G, £2.40 each",1 tbsp raisins,1,£2.40,1 tbsp,raisins
+65,Snacks,"Tesco Whole Blanched Almonds 100G, £1.60 each",50g blanched almonds,1,£1.60,50g,blanched almonds
+65,Snacks,"Whitworths Sunny Raisins 14 X 14G, £2.40 each",50g raisins,1,£2.40,50g,raisins
+67,Snacks,"Tesco Cashew Nuts 25G, £0.65 each",50g cashews,2,£1.30,50g,cashews
+90,Snacks,"Cofresh Sesame Coated Caramel Peanuts 150G, £1.45 each",100g peanuts,1,£1.45,100g,peanuts
+91,Snacks,"Whitworths Chopped Dates 250G, £2.00 each",50g dried dates,1,£2.00,50g,dried dates
+91,Snacks,"Tesco Pistachio Nuts 200G, £2.75 each",50g shelled unsalted pistachios,1,£2.75,50g,shelled unsalted pistachios
+103,Snacks,"Wholefood Pine Nuts 100G, £3.80 each",pine nuts,1,£3.80,,pine nuts
+103,Snacks,"Tesco Sultanas 500G, £1.25 each",sultanas,1,£1.25,,sultanas
+107,Snacks,"Wholefood Pine Nuts 100G, £3.80 each",100g pine nuts,1,£3.80,100g,pine nuts
+112,Snacks,"Cofresh Sesame Coated Caramel Peanuts 150G, £1.45 each",50g peanuts,1,£1.45,50g,peanuts
+119,Snacks,"Kp Original Salted Peanuts 50G, £0.90 each",10g roasted salted peanuts,1,£0.90,10g,roasted salted peanuts
+127,Snacks,"Merchant Gourmet Whole Chestnuts 180G, £2.40 each",80g cooked chestnuts,1,£2.40,80g,cooked chestnuts
+130,Snacks,"Wholefood Pine Nuts 100G, £3.80 each",25g pine nuts,1,£3.80,25g,pine nuts
+146,Snacks,"Tesco Pistachio Nuts 200G, £2.75 each",25g pistachios,1,£2.75,25g,pistachios

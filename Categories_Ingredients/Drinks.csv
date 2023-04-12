@@ -1,0 +1,13 @@
+﻿recipe_id,section,item,ingredient,quantity,price,quantities,raw_ingredients
+0,Drinks,"Tesco Ingredient Lime Juice 250Ml, £0.95 each",1 tbsp lime juice,1,£0.95,1 tbsp,lime juice
+1,Drinks,"Brewdog Planet Pale Ale 440Ml, £2.75 each",750ml pale ale,2,£5.50,750ml,pale ale
+30,Drinks,"Tesco Ingredient Lime Juice 250Ml, £0.95 each",2 tbsp lime juice,1,£0.95,2 tbsp,lime juice
+70,Drinks,"Ken Forrester Wine The Misfits Cinsault 750Ml, £9.00 each",2 tsp wine,1,£9.00,2 tsp,wine
+80,Drinks,"Marques De Carano Gran Reservado 75Cl, £6.00 each",300ml red wine,1,£6.00,300ml,red wine
+84,Drinks,"Marques De Carano Gran Reservado 75Cl, £6.00 each",250ml red wine,1,£6.00,250ml,red wine
+92,Drinks,"The Straw Hat Red 75Cl, £4.50 each",150ml red wine,1,£4.50,150ml,red wine
+94,Drinks,"The Straw Hat Red 75Cl, £4.50 each",100ml red wine,1,£4.50,100ml,red wine
+128,Drinks,"The Straw Hat Red 75Cl, £4.50 each",150ml red wine,1,£4.50,150ml,red wine
+146,Drinks,"Pomegreat Pomegranate Juice Drink 1 Litre, £1.85 each",1 ltr pomegranate juice,1,£1.85,1,ltr pomegranate juice
+147,Drinks,"Capri Sun Orange 330Ml, £1.30 each",1 tbsp orange juice,1,£1.30,1 tbsp,orange juice
+149,Drinks,"The Straw Hat Red 75Cl, £4.50 each",100ml red wine,1,£4.50,100ml,red wine
