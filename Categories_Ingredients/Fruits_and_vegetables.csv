@@ -1,129 +1,129 @@
-﻿recipe_id,section,item,ingredient,quantity,price,quantities,raw_ingredients
+recipe_id,section,item,ingredient,quantity,price,quantities,raw_ingredients
 0,Fruits and vegetables,"T.Ready To Eat Large Avocados Each, £0.89 each",1 avocado,1,£0.89,1,avocado
-0,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",4 tbsp chopped coriander leaves,1,£0.52,4 tbsp,chopped coriander leaves
-0,Fruits and vegetables,"Tesco Limes 5 Pack, £1.20 each",1 lime juiced,1,£1.20,1,lime juiced
-0,Fruits and vegetables,"Tesco Little Gem Lettuce 2 Pack, £0.85 each",4 leaves little gem lettuce,1,£0.85,4 leaves,little gem lettuce
-0,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",1 red onion,0.21,£0.21,1,red onion
-0,Fruits and vegetables,"Tesco Large Sweet Potatoes Loose Class 1 0.35kg, £0.39 / 0.35kg",600g sweet potatoes,0.7,£0.77,600g,sweet potatoes
-0,Fruits and vegetables,"Tesco Organic Large On The Vine Tomatoes 400G, £2.00 each",4 vine tomatoes,1,£2.00,4,vine tomatoes
+0,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",4 tbsp chopped coriander leaves,1,£0.52,4 tbsp,coriander
+0,Fruits and vegetables,"Tesco Limes 5 Pack, £1.20 each",1 lime juiced,1,£1.20,1,lime
+0,Fruits and vegetables,"Tesco Little Gem Lettuce 2 Pack, £0.85 each",4 leaves little gem lettuce,1,£0.85,4 leaves,lettuce
+0,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",1 red onion,0.21,£0.21,1,onion
+0,Fruits and vegetables,"Tesco Large Sweet Potatoes Loose Class 1 0.35kg, £0.39 / 0.35kg",600g sweet potatoes,0.7,£0.77,600g,potato
+0,Fruits and vegetables,"Tesco Organic Large On The Vine Tomatoes 400G, £2.00 each",4 vine tomatoes,1,£2.00,4,tomato
 1,Fruits and vegetables,"Tesco Celery Sticks 250G, £0.85 each",3 celery sticks,1,£0.85,3 sticks,celery
-1,Fruits and vegetables,"Chestnut Mushrooms 250G, £1.10 each",500g chestnut mushrooms,2,£2.20,500g,chestnut mushrooms
+1,Fruits and vegetables,"Chestnut Mushrooms 250G, £1.10 each",500g chestnut mushrooms,2,£2.20,500g,mushroom
 1,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",1 onion,0.12,£0.12,1,onion
 1,Fruits and vegetables,"Tesco Thyme 20G, £0.52 each",5 thyme sprigs,1,£0.52,5 sprigs,thyme
-2,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",1 juice of lemon,1,£0.55,1,juice of lemon
-2,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",onions,0.12,£0.12,,onions
-2,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",2 red chillies,1,£0.70,2,red chillies
+2,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",1 juice of lemon,1,£0.55,1,lemon
+2,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",onions,0.12,£0.12,,onion
+2,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",2 red chillies,1,£0.70,2,chilli
 2,Fruits and vegetables,"Tesco Finest Sugarbelle Tomatoes 400G, £3.15 each",1 tomato,1,£3.15,1,tomato
-2,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",1 white onion,0.12,£0.12,1,white onion
-3,Fruits and vegetables,"Tesco Fresh Cut Flat Leaf Parsley 30G, £0.60 each",10g flat-leaf parsley,1,£0.60,10g,flat-leaf parsley
+2,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",1 white onion,0.12,£0.12,1,onion
+3,Fruits and vegetables,"Tesco Fresh Cut Flat Leaf Parsley 30G, £0.60 each",10g flat-leaf parsley,1,£0.60,10g,parsley
 3,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",2 cloves garlic,1,£0.95,2 cloves,garlic
-4,Fruits and vegetables,"Tesco Tenderstem Broccoli 200G, £1.60 each",100g tenderstem broccoli,1,£1.60,100g,tenderstem broccoli
+4,Fruits and vegetables,"Tesco Tenderstem Broccoli 200G, £1.60 each",100g tenderstem broccoli,1,£1.60,100g,broccoli
 4,Fruits and vegetables,"Tesco Finest Extra Fine Beans 200G, £1.50 each",100g green beans,1,£1.50,100g,green beans
 5,Fruits and vegetables,"Tesco Broccoli 375G, £0.86 each",0.5 head broccoli,1,£0.86,0.5 head,broccoli
 5,Fruits and vegetables,"Tesco Carrots Loose 0.16kg, £0.08 / 0.16kg",1 carrot,0.16,£0.08,1,carrot
 5,Fruits and vegetables,"Tesco Organic Garlic 3 Pack, £1.00 each",4 garlic cloves,1,£1.00,4 cloves,garlic
 5,Fruits and vegetables,"Ginger Root Loose 0.10kg, £0.65 / 0.1kg",5 cm ginger,0.1,£0.65,5 cm,ginger
-5,Fruits and vegetables,"Tesco Limes 5 Pack, £1.20 each",3 limes,1,£1.20,3,limes
-5,Fruits and vegetables,"Chestnut Mushrooms 250G, £1.10 each",150g mushrooms,1,£1.10,150g,mushrooms
-5,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",3 fresh red chillies,1,£0.70,3,fresh red chillies
-5,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",1 bunch spring onions,1,£0.50,1 bunch,spring onions
-5,Fruits and vegetables,"Tesco Mangetout 150G, £1.05 each",150g sugarsnap peas,1,£1.05,150g,sugarsnap peas
+5,Fruits and vegetables,"Tesco Limes 5 Pack, £1.20 each",3 limes,1,£1.20,3,lime
+5,Fruits and vegetables,"Chestnut Mushrooms 250G, £1.10 each",150g mushrooms,1,£1.10,150g,mushroom
+5,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",3 fresh red chillies,1,£0.70,3,chilli
+5,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",1 bunch spring onions,1,£0.50,1 bunch,spring onion
+5,Fruits and vegetables,"Tesco Mangetout 150G, £1.05 each",150g sugarsnap peas,1,£1.05,150g,mangetout
 6,Fruits and vegetables,"Tesco Broccoli 375G, £0.86 each",0.5 head broccoli,1,£0.86,0.5 head,broccoli
-6,Fruits and vegetables,"Suntrail Farms Orange Minimum 5 Pack, £0.80 each",2 oranges,1,£0.80,2,oranges
-6,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",1 red onions,0.21,£0.21,1,red onions
-6,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",2 spring onions,1,£0.50,2,spring onions
+6,Fruits and vegetables,"Suntrail Farms Orange Minimum 5 Pack, £0.80 each",2 oranges,1,£0.80,2,orange
+6,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",1 red onions,0.21,£0.21,1,onion
+6,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",2 spring onions,1,£0.50,2,spring onion
 8,Fruits and vegetables,"T.Ready To Eat Large Avocados Each, £0.89 each",1 avocado,1,£0.89,1,avocado
-8,Fruits and vegetables,"Tesco Baby Spinach 220G, £1.35 each",120g baby spinach leaves,1,£1.35,120g,baby spinach leaves
-8,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",15g fresh coriander,1,£0.52,15g,fresh coriander
+8,Fruits and vegetables,"Tesco Baby Spinach 220G, £1.35 each",120g baby spinach leaves,1,£1.35,120g,spinach
+8,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",15g fresh coriander,1,£0.52,15g,coriander
 8,Fruits and vegetables,"Tesco Whole Large Cucumber, £0.95 each",0.5 cucumber,1,£0.95,0.5,cucumber
 8,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",1 garlic clove,1,£0.95,1 clove,garlic
-8,Fruits and vegetables,"Tesco Limes 5 Pack, £1.20 each",1 lime zested,1,£1.20,1,lime zested
-9,Fruits and vegetables,"Tesco Organic Pepper 250G, £1.60 each",0.5 red pepper,1,£1.60,0.5,red pepper
+8,Fruits and vegetables,"Tesco Limes 5 Pack, £1.20 each",1 lime zested,1,£1.20,1,lime
+9,Fruits and vegetables,"Tesco Organic Pepper 250G, £1.60 each",0.5 red pepper,1,£1.60,0.5,pepper
 9,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",1 spring onion,1,£0.50,1,spring onion
 10,Fruits and vegetables,"Tesco Broccoli 375G, £0.86 each",0.5 head broccoli,1,£0.86,0.5 head,broccoli
 10,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",1 lemon,1,£0.55,1,lemon
-10,Fruits and vegetables,"Tesco Sweet Heart Cabbage Each Class 1, £0.67 each",0.5 sweetheart cabbage,1,£0.67,0.5,sweetheart cabbage
+10,Fruits and vegetables,"Tesco Sweet Heart Cabbage Each Class 1, £0.67 each",0.5 sweetheart cabbage,1,£0.67,0.5,cabbage
 11,Fruits and vegetables,"Tesco Organic Garlic 3 Pack, £1.00 each",6 garlic cloves,1,£1.00,6 cloves,garlic
-11,Fruits and vegetables,"Tesco Mint 30G, £0.52 each",15g fresh mint,1,£0.52,15g,fresh mint
+11,Fruits and vegetables,"Tesco Mint 30G, £0.52 each",15g fresh mint,1,£0.52,15g,mint
 11,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",1 onion,0.12,£0.12,1,onion
 12,Fruits and vegetables,"Tesco Baby Corn 130G, £1.25 each",130g baby corn,1,£1.25,130g,baby corn
 12,Fruits and vegetables,"Tesco Carrots Loose 0.16kg, £0.08 / 0.16kg",1 carrot,0.16,£0.08,1,carrot
-12,Fruits and vegetables,"Tesco Limes 5 Pack, £1.20 each",2 limes juiced,1,£1.20,2,limes juiced
-12,Fruits and vegetables,"Tesco Sweet Heart Cabbage Each Class 1, £0.67 each",300g sweetheart cabbage,1,£0.67,300g,sweetheart cabbage
-12,Fruits and vegetables,"Tesco Organic Pepper 250G, £1.60 each",1 red pepper,1,£1.60,1,red pepper
-12,Fruits and vegetables,"Tesco Mangetout 150G, £1.05 each",150g sugarsnap peas,1,£1.05,150g,sugarsnap peas
-13,Fruits and vegetables,"Tesco Baby Potatoes 1Kg, £1.20 each",1kg baby potatoes,1,£1.20,1kg,baby potatoes
-13,Fruits and vegetables,"Tesco Fresh Cut Flat Leaf Parsley 30G, £0.60 each",60g fresh flat-leaf parsley,2,£1.20,60g,fresh flat-leaf parsley
+12,Fruits and vegetables,"Tesco Limes 5 Pack, £1.20 each",2 limes juiced,1,£1.20,2,lime
+12,Fruits and vegetables,"Tesco Sweet Heart Cabbage Each Class 1, £0.67 each",300g sweetheart cabbage,1,£0.67,300g,cabbage
+12,Fruits and vegetables,"Tesco Organic Pepper 250G, £1.60 each",1 red pepper,1,£1.60,1,pepper
+12,Fruits and vegetables,"Tesco Mangetout 150G, £1.05 each",150g sugarsnap peas,1,£1.05,150g,mangetout
+13,Fruits and vegetables,"Tesco Baby Potatoes 1Kg, £1.20 each",1kg baby potatoes,1,£1.20,1kg,baby potato
+13,Fruits and vegetables,"Tesco Fresh Cut Flat Leaf Parsley 30G, £0.60 each",60g fresh flat-leaf parsley,2,£1.20,60g,parsley
 13,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",2 garlic cloves,1,£0.95,2 cloves,garlic
-13,Fruits and vegetables,"Tesco Finger Chillies 80G, £1.00 each",1 green chilli,1,£1.00,1,green chilli
+13,Fruits and vegetables,"Tesco Finger Chillies 80G, £1.00 each",1 green chilli,1,£1.00,1,chilli
 13,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",1 lemon,1,£0.55,1,lemon
 14,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",2 garlic cloves,1,£0.95,2 cloves,garlic
 14,Fruits and vegetables,"Leeks Loose Class 2 0.25kg, £0.63 / 0.25kg",200g leek,0.25,£0.63,200g,leek
 14,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",1 lemon,1,£0.55,1,lemon
 14,Fruits and vegetables,"Tesco Watercress 85G, £1.35 each",85g watercress,1,£1.35,85g,watercress
-15,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",15g fresh coriander,1,£0.52,15g,fresh coriander
-15,Fruits and vegetables,"Tesco Limes 5 Pack, £1.20 each",2 limes,1,£1.20,2,limes
+15,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",15g fresh coriander,1,£0.52,15g,coriander
+15,Fruits and vegetables,"Tesco Limes 5 Pack, £1.20 each",2 limes,1,£1.20,2,lime
 15,Fruits and vegetables,"Tesco Mangetout 150G, £1.05 each",150g mangetout,1,£1.05,150g,mangetout
-15,Fruits and vegetables,"Tesco Purple Sprouting Broccoli 200G, £1.80 each",200g purple sprouting broccoli,1,£1.80,200g,purple sprouting broccoli
-15,Fruits and vegetables,"Tesco Sliced Mushrooms 250G, £1.20 each",250g mushrooms sliced,1,£1.20,250g,mushrooms sliced
+15,Fruits and vegetables,"Tesco Purple Sprouting Broccoli 200G, £1.80 each",200g purple sprouting broccoli,1,£1.80,200g,broccoli
+15,Fruits and vegetables,"Tesco Sliced Mushrooms 250G, £1.20 each",250g mushrooms sliced,1,£1.20,250g,mushroom
 16,Fruits and vegetables,"Tesco Large Broccoli Pack 500G, £1.00 each",450g broccoli,1,£1.00,450g,broccoli
-16,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",fresh coriander,1,£0.52,,fresh coriander
-16,Fruits and vegetables,"Tesco Limes 5 Pack, £1.20 each",2 limes juiced,1,£1.20,2,limes juiced
+16,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",fresh coriander,1,£0.52,,coriander
+16,Fruits and vegetables,"Tesco Limes 5 Pack, £1.20 each",2 limes juiced,1,£1.20,2,lime juiced
 16,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",2 garlic cloves,1,£0.95,2 cloves,garlic
-16,Fruits and vegetables,"Ginger Root Loose 0.10kg, £0.65 / 0.1kg",10g fresh ginger,0.1,£0.65,10g,fresh ginger
-16,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",100g spring onions,1,£0.50,100g,spring onions
-17,Fruits and vegetables,"Large Potatoes Baking Loose 0.30kg, £0.21 / 0.3kg",400g baking potatoes,0.6,£0.42,400g,baking potatoes
+16,Fruits and vegetables,"Ginger Root Loose 0.10kg, £0.65 / 0.1kg",10g fresh ginger,0.1,£0.65,10g,ginger
+16,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",100g spring onions,1,£0.50,100g,spring onion
+17,Fruits and vegetables,"Large Potatoes Baking Loose 0.30kg, £0.21 / 0.3kg",400g baking potatoes,0.6,£0.42,400g,potato
 17,Fruits and vegetables,"Tesco British Frilly Leaf Salad 120G, £1.10 each",80g mixed leaf salad,1,£1.10,80g,mixed leaf salad
 18,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",0.5 lemon,1,£0.55,0.5,lemon
 18,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",2 garlic cloves,1,£0.95,2 cloves,garlic
-18,Fruits and vegetables,"Shallots Onions 300G, £1.30 each",2 shallots,1,£1.30,2,shallots
+18,Fruits and vegetables,"Shallots Onions 300G, £1.30 each",2 shallots,1,£1.30,2,onion
 18,Fruits and vegetables,"Tesco Sliced Greens 300G, £1.45 each",300g spring greens,1,£1.45,300g,spring greens
 19,Fruits and vegetables,"Tesco Carrots Loose 0.16kg, £0.08 / 0.16kg",1 carrot,0.16,£0.08,1,carrot
 19,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",2 garlic cloves,1,£0.95,2 cloves,garlic
-19,Fruits and vegetables,"Tesco Sweet Heart Cabbage Each Class 1, £0.67 each",0.5 sweetheart cabbage,1,£0.67,0.5,sweetheart cabbage
-19,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",1 red onion,0.21,£0.21,1,red onion
+19,Fruits and vegetables,"Tesco Sweet Heart Cabbage Each Class 1, £0.67 each",0.5 sweetheart cabbage,1,£0.67,0.5,cabbage
+19,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",1 red onion,0.21,£0.21,1,onion
 20,Fruits and vegetables,"Asparagus Tips 125G Class 1, £2.00 each",250g asparagus,2,£4.00,250g,asparagus
 20,Fruits and vegetables,"Courgettes Loose Class 1 0.20kg, £0.58 / 0.2kg",1 courgette,0.2,£0.58,1,courgette
 20,Fruits and vegetables,"Tesco Organic Garlic 3 Pack, £1.00 each",3 garlic cloves,1,£1.00,3 cloves,garlic
 20,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",1 lemon,1,£0.55,1,lemon
-20,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",1 bunch spring onions,1,£0.50,1 bunch,spring onions
+20,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",1 bunch spring onions,1,£0.50,1 bunch,spring onion
 21,Fruits and vegetables,"Tesco Aubergine Each, £0.85 each",700g aubergines,2,£1.70,700g,aubergines
 21,Fruits and vegetables,"Cauliflower Extra Large Each, £1.50 each",1 cauliflower,1,£1.50,1,cauliflower
 21,Fruits and vegetables,"Tesco Organic Garlic 3 Pack, £1.00 each",8 garlic cloves,1,£1.00,8 cloves,garlic
-21,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",lemon wedges,1,£0.55,,lemon wedges
-21,Fruits and vegetables,"Tesco Extra Large Brown Onions 2 Pack, £1.00 each",2 onions,1,£1.00,2,onions
+21,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",lemon wedges,1,£0.55,,lemon
+21,Fruits and vegetables,"Tesco Extra Large Brown Onions 2 Pack, £1.00 each",2 onions,1,£1.00,2,onion
 21,Fruits and vegetables,"Tesco Pomegranate Seeds 80G, £1.15 each",40g pomegranate seeds,1,£1.15,40g,pomegranate seeds
-21,Fruits and vegetables,"Tesco Sweet Vine Ripened Tomatoes 255G, £1.20 each",200g vine tomatoes,1,£1.20,200g,vine tomatoes
+21,Fruits and vegetables,"Tesco Sweet Vine Ripened Tomatoes 255G, £1.20 each",200g vine tomatoes,1,£1.20,200g,tomato
 22,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",10g coriander,1,£0.52,10g,coriander
 22,Fruits and vegetables,"Suntrail Farms Kiwi X6, £0.95 each",2 kiwis,1,£0.95,2,kiwis
 22,Fruits and vegetables,"Tesco Limes 5 Pack, £1.20 each",1 lime,1,£1.20,1,lime
-22,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",4 spring onions,1,£0.50,4,spring onions
-23,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",fresh coriander,1,£0.52,,fresh coriander
+22,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",4 spring onions,1,£0.50,4,spring onion
+23,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",fresh coriander,1,£0.52,,coriander
 23,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",1 clove garlic,1,£0.95,1 clove,garlic
-25,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",10g fresh coriander,1,£0.52,10g,fresh coriander
+25,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",10g fresh coriander,1,£0.52,10g,coriander
 25,Fruits and vegetables,"Tesco Mangetout 150G, £1.05 each",150g mangetout,1,£1.05,150g,mangetout
-26,Fruits and vegetables,"Tesco Cut Chives 20G, £1.00 each",15g fresh chives,1,£1.00,15g,fresh chives
+26,Fruits and vegetables,"Tesco Cut Chives 20G, £1.00 each",15g fresh chives,1,£1.00,15g,chives
 26,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",1 clove garlic,1,£0.95,1 clove,garlic
-26,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",0.5 zest lemon,1,£0.55,0.5,zest lemon
-26,Fruits and vegetables,"Tesco Large Sweet Potatoes Loose Class 1 0.35kg, £0.39 / 0.35kg",600g sweet potatoes,1.05,£0.77,600g,sweet potatoes
+26,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",0.5 zest lemon,1,£0.55,0.5,lemon
+26,Fruits and vegetables,"Tesco Large Sweet Potatoes Loose Class 1 0.35kg, £0.39 / 0.35kg",600g sweet potatoes,1.05,£0.77,600g,potato
 27,Fruits and vegetables,"Tesco Organic Garlic 3 Pack, £1.00 each",3 garlic cloves,1,£1.00,3 cloves,garlic
 27,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",1 onion,0.12,£0.12,1,onion
 28,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",2 garlic cloves,1,£0.95,2 cloves,garlic
-28,Fruits and vegetables,"Tesco Fresh Cut Curled Parsley 30G, £0.60 each",10g fresh parsley,1,£0.60,10g,fresh parsley
+28,Fruits and vegetables,"Tesco Fresh Cut Curled Parsley 30G, £0.60 each",10g fresh parsley,1,£0.60,10g,parsley
 29,Fruits and vegetables,"Pak Choi 250G, £1.35 each",2 pak choi,4,£5.40,2,pak choi
 29,Fruits and vegetables,"Tesco Carrots Loose 0.16kg, £0.08 / 0.16kg",1 carrot,0.16,£0.08,1,carrot
-29,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",2 garlic cloves,1,£0.95,2 garlic,cloves
-29,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",1 red chilli,1,£0.70,1,red chilli
-29,Fruits and vegetables,"Tesco Finest Shiitake Mushroom 125G, £1.75 each",125g shiitake mushrooms,1,£1.75,125g,shiitake mushrooms
-29,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",4 spring onions,1,£0.50,4,spring onions
+29,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",2 garlic cloves,1,£0.95,2 garlic,garlic
+29,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",1 red chilli,1,£0.70,1,chilli
+29,Fruits and vegetables,"Tesco Finest Shiitake Mushroom 125G, £1.75 each",125g shiitake mushrooms,1,£1.75,125g,mushroom
+29,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",4 spring onions,1,£0.50,4,spring onion
 30,Fruits and vegetables,"Tesco Beansprouts 300G, £0.71 each",100g beansprouts,1,£0.71,100g,beansprouts
-30,Fruits and vegetables,"Tesco Butterhead Lettuce, £0.65 each",butterhead lettuce,1,£0.65,,butterhead lettuce
+30,Fruits and vegetables,"Tesco Butterhead Lettuce, £0.65 each",butterhead lettuce,1,£0.65,,lettuce
 30,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",2 garlic cloves,1,£0.95,2 cloves,garlic
 30,Fruits and vegetables,"Tesco Cut Chives 20G, £1.00 each",fresh herbs,1,£1.00,,fresh herbs
-30,Fruits and vegetables,"Tesco Limes 5 Pack, £1.20 each",lime wedges,1,£1.20,,lime wedges
-30,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",1 red chilli,1,£0.70,1,red chilli
-30,Fruits and vegetables,"Shallots Onions 300G, £1.30 each",2 shallots,1,£1.30,2,shallots
-30,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",2 spring onions,1,£0.50,2,spring onions
+30,Fruits and vegetables,"Tesco Limes 5 Pack, £1.20 each",lime wedges,1,£1.20,,lime
+30,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",1 red chilli,1,£0.70,1,chilli
+30,Fruits and vegetables,"Shallots Onions 300G, £1.30 each",2 shallots,1,£1.30,2,onion
+30,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",2 spring onions,1,£0.50,2,spring onion
 31,Fruits and vegetables,"Tesco Cut Basil 30G, £0.52 each",15g basil,1,£0.52,15g,basil
 31,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",2 garlic cloves,1,£0.95,2 cloves,garlic
 32,Fruits and vegetables,"Tesco Organic Celery, £1.20 each",2 sticks celery,1,£1.20,2 sticks,celery
@@ -133,233 +133,233 @@
 32,Fruits and vegetables,"Tesco Wild Rocket 60G, £1.10 each",60g rocket,1,£1.10,60g,rocket
 33,Fruits and vegetables,"Courgettes Loose Class 1 0.20kg, £0.58 / 0.2kg",1 courgette,0.2,£0.58,1,courgette
 33,Fruits and vegetables,"Tesco Organic Lettuce Each, £1.50 each",1 lettuce,2,£3.00,1,lettuce
-34,Fruits and vegetables,"Tesco Finest Baby Potatoes 750G, £1.40 each",500g baby potatoes,1,£1.40,500g,baby potatoes
-34,Fruits and vegetables,"Tesco Carrots Loose 0.16kg, £0.08 / 0.16kg",200g carrots,0.32,£0.16,200g,carrots
+34,Fruits and vegetables,"Tesco Finest Baby Potatoes 750G, £1.40 each",500g baby potatoes,1,£1.40,500g,baby potato
+34,Fruits and vegetables,"Tesco Carrots Loose 0.16kg, £0.08 / 0.16kg",200g carrots,0.32,£0.16,200g,carrot
 34,Fruits and vegetables,"Tesco Celery Sticks 250G, £0.85 each",2 celery sticks,1,£0.85,2 sticks,celery
-34,Fruits and vegetables,"Tesco Cut Chives 20G, £1.00 each",5g fresh chives,1,£1.00,5g,fresh chives
+34,Fruits and vegetables,"Tesco Cut Chives 20G, £1.00 each",5g fresh chives,1,£1.00,5g,chives
 34,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",1 onion,0.12,£0.12,1,onion
-34,Fruits and vegetables,"Tesco Organic Pepper 250G, £1.60 each",1 red pepper,1,£1.60,1,red pepper
+34,Fruits and vegetables,"Tesco Organic Pepper 250G, £1.60 each",1 red pepper,1,£1.60,1,pepper
 35,Fruits and vegetables,"Tesco Broccoli 375G, £0.86 each",1 head broccoli,1,£0.86,1 head,broccoli
-35,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",15g fresh coriander,1,£0.52,15g,fresh coriander
-35,Fruits and vegetables,"Love Beets Cooked Beetroot 250G, £0.65 each",500g cooked beetroot,2,£1.30,500g,cooked beetroot
+35,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",15g fresh coriander,1,£0.52,15g,coriander
+35,Fruits and vegetables,"Love Beets Cooked Beetroot 250G, £0.65 each",500g cooked beetroot,2,£1.30,500g,beetroot
 35,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",1 garlic clove,1,£0.95,1 clove,garlic
-35,Fruits and vegetables,"Tesco Radish Pack 240G, £0.55 each",120g radishes,1,£0.55,120g,radishes
-35,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",1.5 red onions,0.21,£0.21,1.5,red onions
-36,Fruits and vegetables,"Nightingale Farms Cherry Tomatoes 250G, £0.65 each",250g cherry tomatoes,1,£0.65,250g,cherry tomatoes
+35,Fruits and vegetables,"Tesco Radish Pack 240G, £0.55 each",120g radishes,1,£0.55,120g,radish
+35,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",1.5 red onions,0.21,£0.21,1.5,onion
+36,Fruits and vegetables,"Nightingale Farms Cherry Tomatoes 250G, £0.65 each",250g cherry tomatoes,1,£0.65,250g,tomato
 36,Fruits and vegetables,"Tesco Whole Large Cucumber, £0.95 each",0.5 cucumber,1,£0.95,0.5,cucumber
 36,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",0.5 lemon,1,£0.55,0.5,lemon
-36,Fruits and vegetables,"Tesco Thyme 20G, £0.52 each",5g fresh thyme,1,£0.52,5g,fresh thyme
+36,Fruits and vegetables,"Tesco Thyme 20G, £0.52 each",5g fresh thyme,1,£0.52,5g,thyme
 36,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",2 garlic cloves,1,£0.95,2 cloves,garlic
-36,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",0.5 red onion,0.21,£0.21,0.5,red onion
-37,Fruits and vegetables,"Tesco Thyme 20G, £0.52 each",10g fresh thyme,1,£0.52,10g,fresh thyme
+36,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",0.5 red onion,0.21,£0.21,0.5,onion
+37,Fruits and vegetables,"Tesco Thyme 20G, £0.52 each",10g fresh thyme,1,£0.52,10g,thyme
 37,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",2 garlic cloves,1,£0.95,2 cloves,garlic
-38,Fruits and vegetables,"Tesco Fresh Cut Flat Leaf Parsley 30G, £0.60 each",15g fresh flat-leaf parsley,1,£0.60,15g,fresh flat-leaf parsley
+38,Fruits and vegetables,"Tesco Fresh Cut Flat Leaf Parsley 30G, £0.60 each",15g fresh flat-leaf parsley,1,£0.60,15g,parsley
 38,Fruits and vegetables,"Tesco Organic Garlic 3 Pack, £1.00 each",1 garlic bulb,1,£1.00,1 bulb,garlic
-38,Fruits and vegetables,"Tesco Extra Large Brown Onions 2 Pack, £1.00 each",210g roughly chopped onion,1,£1.00,210g,roughly chopped onion
+38,Fruits and vegetables,"Tesco Extra Large Brown Onions 2 Pack, £1.00 each",210g roughly chopped onion,1,£1.00,210g,onion
 39,Fruits and vegetables,"Tesco Aubergine Each, £0.85 each",2 aubergines,2,£1.70,2,aubergines
-39,Fruits and vegetables,"Tesco Fresh Cut Flat Leaf Parsley 30G, £0.60 each",15g fresh flat-leaf parsley,1,£0.60,15g,fresh flat-leaf parsley
+39,Fruits and vegetables,"Tesco Fresh Cut Flat Leaf Parsley 30G, £0.60 each",15g fresh flat-leaf parsley,1,£0.60,15g,parsley
 39,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",1 garlic clove,1,£0.95,1 clove,garlic
-39,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",1 red onion,0.21,£0.21,1,red onion
-40,Fruits and vegetables,"Tesco Closed Cup Mushrooms 400G, £1.25 each",300g closed-cup mushrooms,1,£1.25,300g,closed-cup mushrooms
-40,Fruits and vegetables,"Tesco Thyme 20G, £0.52 each",5g fresh thyme,1,£0.52,5g,fresh thyme
+39,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",1 red onion,0.21,£0.21,1,onion
+40,Fruits and vegetables,"Tesco Closed Cup Mushrooms 400G, £1.25 each",300g closed-cup mushrooms,1,£1.25,300g,mushroom
+40,Fruits and vegetables,"Tesco Thyme 20G, £0.52 each",5g fresh thyme,1,£0.52,5g,thyme
 40,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",2 garlic cloves,1,£0.95,2 cloves,garlic
-41,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",15g fresh coriander,1,£0.52,15g,fresh coriander
+41,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",15g fresh coriander,1,£0.52,15g,coriander
 41,Fruits and vegetables,"Tesco Whole Large Cucumber, £0.95 each",0.5 cucumber,1,£0.95,0.5,cucumber
 41,Fruits and vegetables,"Tesco Limes 5 Pack, £1.20 each",1 lime,1,£1.20,1,lime
-41,Fruits and vegetables,"Tesco Radish Pack 240G, £0.55 each",120g radishes,1,£0.55,120g,radishes
-41,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",50g spring onions,1,£0.50,50g,spring onions
-42,Fruits and vegetables,"Tesco Fresh Cut Flat Leaf Parsley 30G, £0.60 each",30g flat-leaf parsley,1,£0.60,30g,flat-leaf parsley
+41,Fruits and vegetables,"Tesco Radish Pack 240G, £0.55 each",120g radishes,1,£0.55,120g,radish
+41,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",50g spring onions,1,£0.50,50g,spring onion
+42,Fruits and vegetables,"Tesco Fresh Cut Flat Leaf Parsley 30G, £0.60 each",30g flat-leaf parsley,1,£0.60,30g,parsley
 42,Fruits and vegetables,"Tesco Organic Garlic 3 Pack, £1.00 each",1 garlic bulb,1,£1.00,1 bulb,garlic
 42,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",1 lemon,1,£0.55,1,lemon
-43,Fruits and vegetables,"Large Potatoes Baking Loose 0.30kg, £0.21 / 0.3kg",2 baking potatoes,0.6,£0.42,2,baking potatoes
-43,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",5g fresh coriander,1,£0.52,5g,fresh coriander
+43,Fruits and vegetables,"Large Potatoes Baking Loose 0.30kg, £0.21 / 0.3kg",2 baking potatoes,0.6,£0.42,2,potato
+43,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",5g fresh coriander,1,£0.52,5g,coriander
 43,Fruits and vegetables,"Tesco British Frilly Leaf Salad 120G, £1.10 each",salad leaves,1,£1.10,,salad leaves
 44,Fruits and vegetables,"Tesco Bay Leaves 3G, £0.90 each",1 bay leaf,1,£0.90,1,bay leaf
 44,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",1 onion,0.12,£0.12,1,onion
 44,Fruits and vegetables,"Tesco Hand Shelled Peas 160G, £1.75 each",peas,1,£1.75,,peas
 44,Fruits and vegetables,"Lfhw Potatoes 2.5Kg Mu, £0.90 each",potato,1,£0.90,,potato
-45,Fruits and vegetables,"Tesco Fresh Cut Flat Leaf Parsley 30G, £0.60 each",30g fresh flat-leaf parsley,1,£0.60,30g,fresh flat-leaf parsley
+45,Fruits and vegetables,"Tesco Fresh Cut Flat Leaf Parsley 30G, £0.60 each",30g fresh flat-leaf parsley,1,£0.60,30g,parsley
 45,Fruits and vegetables,"Tesco Organic Garlic 3 Pack, £1.00 each",6 garlic cloves,1,£1.00,6 cloves,garlic
-45,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",3 onions,0.36,£0.36,3,onions
+45,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",3 onions,0.36,£0.36,3,onion
 45,Fruits and vegetables,"Tesco Cranberries 100G, £1.85 each",300g rhubarb,3,£5.55,300g,rhubarb
-46,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",15g fresh coriander,1,£0.52,15g,fresh coriander
+46,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",15g fresh coriander,1,£0.52,15g,coriander
 46,Fruits and vegetables,"Tesco Organic Garlic 3 Pack, £1.00 each",6 garlic cloves,1,£1.00,6 clove,garlic
 46,Fruits and vegetables,"Ginger Root Loose 0.10kg, £0.65 / 0.1kg",6 ginger,0.8,£5.20,6,ginger
-46,Fruits and vegetables,"Tesco Finger Chillies 80G, £1.00 each",4 green chillies,1,£1.00,4,green chillies
-46,Fruits and vegetables,"Tesco Extra Large Brown Onions 2 Pack, £1.00 each",2 onions,1,£1.00,2,onions
+46,Fruits and vegetables,"Tesco Finger Chillies 80G, £1.00 each",4 green chillies,1,£1.00,4,chilli
+46,Fruits and vegetables,"Tesco Extra Large Brown Onions 2 Pack, £1.00 each",2 onions,1,£1.00,2,onion
 47,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",1 garlic clove,1,£0.95,1 clove,garlic
-47,Fruits and vegetables,"Tesco Fresh Cut Curled Parsley 30G, £0.60 each",10g fresh parsley,1,£0.60,10g,fresh parsley
+47,Fruits and vegetables,"Tesco Fresh Cut Curled Parsley 30G, £0.60 each",10g fresh parsley,1,£0.60,10g,parsley
 48,Fruits and vegetables,"Tesco Aubergine Each, £0.85 each",2 aubergines,2,£1.70,2,aubergines
 48,Fruits and vegetables,"Tesco Organic Baby Spinach 100G, £1.35 each",100g baby spinach,1,£1.35,100g,baby spinach
 48,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",32.22g coriander,2,£1.04,32.22g,coriander
 48,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",1 onion,0.12,£0.12,1,onion
 49,Fruits and vegetables,"T.Ready To Eat Large Avocados Each, £0.89 each",1 avocado,1,£0.89,1,avocado
 49,Fruits and vegetables,"Tesco Organic Baby Spinach 100G, £1.35 each",50g baby spinach,1,£1.35,50g,baby spinach
-49,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",10g fresh coriander,1,£0.52,10g,fresh coriander
+49,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",10g fresh coriander,1,£0.52,10g,coriander
 49,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",1 onion,0.12,£0.12,1,onion
-49,Fruits and vegetables,"Tesco Organic Pepper 250G, £1.60 each",0.5 red pepper,1,£1.60,0.5,red pepper
+49,Fruits and vegetables,"Tesco Organic Pepper 250G, £1.60 each",0.5 red pepper,1,£1.60,0.5,pepper
 50,Fruits and vegetables,"Tesco Bay Leaves 3G, £0.90 each",1 bay leaf,1,£0.90,1,bay leaf
-50,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",800g onions,0.84,£0.84,800g,onions
+50,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",800g onions,0.84,£0.84,800g,onion
 50,Fruits and vegetables,"Tesco Thyme 20G, £0.52 each",10g thyme sprigs,1,£0.52,10g,thyme
-51,Fruits and vegetables,"Iceberg Lettuce Each, £0.70 each",1 iceberg lettuce,1,£0.70,1,iceberg lettuce
-52,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",15g fresh coriander,1,£0.52,15g,fresh coriander
+51,Fruits and vegetables,"Iceberg Lettuce Each, £0.70 each",1 iceberg lettuce,1,£0.70,1,lettuce
+52,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",15g fresh coriander,1,£0.52,15g,coriander
 52,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",0.5 lemon,1,£0.55,0.5,lemon
-52,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",2 red onions,0.21,£0.21,2,red onions
-53,Fruits and vegetables,"Tesco Cut Basil 30G, £0.52 each",10g fresh basil,1,£0.52,10g,fresh basil
-53,Fruits and vegetables,"Tesco Organic Pepper 250G, £1.60 each",2 mixed-coloured peppers,1,£1.60,2,mixed-coloured peppers
+52,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",2 red onions,0.21,£0.21,2,onion
+53,Fruits and vegetables,"Tesco Cut Basil 30G, £0.52 each",10g fresh basil,1,£0.52,10g,basil
+53,Fruits and vegetables,"Tesco Organic Pepper 250G, £1.60 each",2 mixed-coloured peppers,1,£1.60,2,pepper
 53,Fruits and vegetables,"Tesco British Frilly Leaf Salad 120G, £1.10 each",100g mixed leaf salad,1,£1.10,100g,mixed leaf salad
-53,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",1 red onion,0.21,£0.21,1,red onion
-54,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",2 lemons,1,£0.55,2,lemons
-54,Fruits and vegetables,"Tesco Mint 30G, £0.52 each",30g fresh mint,1,£0.52,30g,fresh mint
-54,Fruits and vegetables,"Tesco Red Cabbage Each, £0.65 each",320g red cabbage,1,£0.65,320g,red cabbage
-56,Fruits and vegetables,"Tesco Cut Basil 30G, £0.52 each",30g fresh basil,1,£0.52,30g,fresh basil
+53,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",1 red onion,0.21,£0.21,1,onion
+54,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",2 lemons,1,£0.55,2,lemon
+54,Fruits and vegetables,"Tesco Mint 30G, £0.52 each",30g fresh mint,1,£0.52,30g,mint
+54,Fruits and vegetables,"Tesco Red Cabbage Each, £0.65 each",320g red cabbage,1,£0.65,320g,cabbage
+56,Fruits and vegetables,"Tesco Cut Basil 30G, £0.52 each",30g fresh basil,1,£0.52,30g,basil
 56,Fruits and vegetables,"Tesco Organic Garlic 3 Pack, £1.00 each",4 garlic cloves,1,£1.00,4 cloves,garlic
-57,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",15g fresh coriander,1,£0.52,15g,fresh coriander
-57,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",2 red onions,0.21,£0.21,2,red onions
-58,Fruits and vegetables,"Tesco Finest Sugarbelle Tomatoes 220G, £1.80 each",200g cherry tomatoes,1,£1.80,200g,cherry tomatoes
+57,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",15g fresh coriander,1,£0.52,15g,coriander
+57,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",2 red onions,0.21,£0.21,2,onion
+58,Fruits and vegetables,"Tesco Finest Sugarbelle Tomatoes 220G, £1.80 each",200g cherry tomatoes,1,£1.80,200g,tomato
 58,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",10g coriander,1,£0.52,10g,coriander
-58,Fruits and vegetables,"Tesco Limes 5 Pack, £1.20 each",1 the juice of lime,1,£1.20,1,the juice of lime
+58,Fruits and vegetables,"Tesco Limes 5 Pack, £1.20 each",1 the juice of lime,1,£1.20,1,lime
 58,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",2 garlic cloves,1,£0.95,2 cloves,garlic
 58,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",1 onion,0.12,£0.12,1,onion
-58,Fruits and vegetables,"Tesco Organic Pepper 250G, £1.60 each",1 red pepper,1,£1.60,1,red pepper
-58,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",0.5 red chilli,1,£0.70,0.5,red chilli
-58,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",0.5 red onion,0.21,£0.21,0.5,red onion
-58,Fruits and vegetables,"Tesco Large Sweet Potatoes Loose Class 1 0.35kg, £0.39 / 0.35kg",500g sweet potatoes,0.7,£0.77,500g,sweet potatoes
-59,Fruits and vegetables,"Nightingale Farms Cherry Tomatoes 250G, £0.65 each",250g cherry tomatoes,1,£0.65,250g,cherry tomatoes
-59,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",10g fresh coriander,1,£0.52,10g,fresh coriander
+58,Fruits and vegetables,"Tesco Organic Pepper 250G, £1.60 each",1 red pepper,1,£1.60,1,pepper
+58,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",0.5 red chilli,1,£0.70,0.5,chilli
+58,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",0.5 red onion,0.21,£0.21,0.5,onion
+58,Fruits and vegetables,"Tesco Large Sweet Potatoes Loose Class 1 0.35kg, £0.39 / 0.35kg",500g sweet potatoes,0.7,£0.77,500g,potato
+59,Fruits and vegetables,"Nightingale Farms Cherry Tomatoes 250G, £0.65 each",250g cherry tomatoes,1,£0.65,250g,tomato
+59,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",10g fresh coriander,1,£0.52,10g,coriander
 59,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",0.5 lemon,1,£0.55,0.5,lemon
-59,Fruits and vegetables,"Tesco Organic Pepper 250G, £1.60 each",2 mixed peppers,1,£1.60,2,mixed peppers
-59,Fruits and vegetables,"Tesco Red Onions 3Pack Minimum, £1.00 each",2.5 red onions,1,£1.00,2.5,red onions
-59,Fruits and vegetables,"Iceberg Lettuce Each, £0.70 each",0.5 iceberg lettuce shredded,1,£0.70,0.5,iceberg lettuce shredded
+59,Fruits and vegetables,"Tesco Organic Pepper 250G, £1.60 each",2 mixed peppers,1,£1.60,2,pepper
+59,Fruits and vegetables,"Tesco Red Onions 3Pack Minimum, £1.00 each",2.5 red onions,1,£1.00,2.5,onion
+59,Fruits and vegetables,"Iceberg Lettuce Each, £0.70 each",0.5 iceberg lettuce shredded,1,£0.70,0.5,lettuce
 60,Fruits and vegetables,"Tesco Organic Garlic 3 Pack, £1.00 each",3 garlic cloves,1,£1.00,3 cloves,garlic
 60,Fruits and vegetables,"Tesco Limes 5 Pack, £1.20 each",1 lime,1,£1.20,1,lime
-60,Fruits and vegetables,"Tesco Shredded Savoy Cabbage 750G, £1.20 each",200g savoy cabbage,1,£1.20,200g,savoy cabbage
-60,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",100g spring onions,1,£0.50,100g,spring onions
-61,Fruits and vegetables,"Tesco Bay Leaves 3G, £0.90 each",2 bay leaves,1,£0.90,2,bay leaves
-61,Fruits and vegetables,"Tesco Carrots Loose 0.16kg, £0.08 / 0.16kg",3 carrots,0.32,£0.16,3,carrots
+60,Fruits and vegetables,"Tesco Shredded Savoy Cabbage 750G, £1.20 each",200g savoy cabbage,1,£1.20,200g,cabbage
+60,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",100g spring onions,1,£0.50,100g,spring onion
+61,Fruits and vegetables,"Tesco Bay Leaves 3G, £0.90 each",2 bay leaves,1,£0.90,2,bay leaf
+61,Fruits and vegetables,"Tesco Carrots Loose 0.16kg, £0.08 / 0.16kg",3 carrots,0.32,£0.16,3,carrot
 61,Fruits and vegetables,"Leeks Loose Class 2 0.25kg, £0.63 / 0.25kg",2 leeks,0.25,£0.63,2,leeks
-61,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",3 onions,0.36,£0.36,3,onions
-61,Fruits and vegetables,"Tesco Peeled Potatoes 700G, £1.25 each",2 potatoes,1,£1.25,2,potatoes
-62,Fruits and vegetables,"Nightingale Farms Cherry Tomatoes 250G, £0.65 each",250g cherry tomatoes,1,£0.65,250g,cherry tomatoes
+61,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",3 onions,0.36,£0.36,3,onion
+61,Fruits and vegetables,"Tesco Peeled Potatoes 700G, £1.25 each",2 potatoes,1,£1.25,2,potato
+62,Fruits and vegetables,"Nightingale Farms Cherry Tomatoes 250G, £0.65 each",250g cherry tomatoes,1,£0.65,250g,tomato
 62,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",0.5 chilli,1,£0.70,0.5,chilli
 62,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",15g coriander,1,£0.52,15g,coriander
 62,Fruits and vegetables,"Tesco Limes 5 Pack, £1.20 each",1 lime,1,£1.20,1,lime
-62,Fruits and vegetables,"Nightingale Farms Peppers 375G, £1.35 each",3 mixed peppers,1,£1.35,3,mixed peppers
-62,Fruits and vegetables,"Tesco Red Onions 3Pack Minimum, £1.00 each",3 red onions,1,£1.00,3,red onions
+62,Fruits and vegetables,"Nightingale Farms Peppers 375G, £1.35 each",3 mixed peppers,1,£1.35,3,pepper
+62,Fruits and vegetables,"Tesco Red Onions 3Pack Minimum, £1.00 each",3 red onions,1,£1.00,3,onion
 63,Fruits and vegetables,"Tesco Bay Leaves 3G, £0.90 each",1 bay leaf,1,£0.90,1,bay leaf
-63,Fruits and vegetables,"Tesco Carrots Loose 0.16kg, £0.08 / 0.16kg",3 carrots,0.32,£0.16,3,carrots
+63,Fruits and vegetables,"Tesco Carrots Loose 0.16kg, £0.08 / 0.16kg",3 carrots,0.32,£0.16,3,carrot
 63,Fruits and vegetables,"Tesco Celery Sticks 250G, £0.85 each",2 celery sticks,1,£0.85,2 sticks,celery
-63,Fruits and vegetables,"Tesco Fresh Cut Flat Leaf Parsley 30G, £0.60 each",30g fresh flat-leaf parsley,1,£0.60,30g,fresh flat-leaf parsley
+63,Fruits and vegetables,"Tesco Fresh Cut Flat Leaf Parsley 30G, £0.60 each",30g fresh flat-leaf parsley,1,£0.60,30g,parsley
 63,Fruits and vegetables,"Tesco Organic Garlic 3 Pack, £1.00 each",3 garlic cloves,1,£1.00,3 cloves,garlic
 63,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",1 onion,0.12,£0.12,1,onion
 63,Fruits and vegetables,"Tesco Swede, £0.80 each",1 swede,1,£0.80,1,swede
 64,Fruits and vegetables,"Tesco Celery Sticks 250G, £0.85 each",1 celery stick,1,£0.85,1 stick,celery
-64,Fruits and vegetables,"Tesco Finest Sugarbelle Tomatoes 220G, £1.80 each",8 cherry tomatoes,1,£1.80,8,cherry tomatoes
+64,Fruits and vegetables,"Tesco Finest Sugarbelle Tomatoes 220G, £1.80 each",8 cherry tomatoes,1,£1.80,8,tomato
 64,Fruits and vegetables,"Tesco Whole Large Cucumber, £0.95 each",0.3 cucumber,1,£0.95,0.3,cucumber
 64,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",1 lemon,1,£0.55,1,lemon
-64,Fruits and vegetables,"Tesco Fresh Cut Curled Parsley 30G, £0.60 each",30g fresh parsley,1,£0.60,30g,fresh parsley
-64,Fruits and vegetables,"Tesco Radish Pack 240G, £0.55 each",50g radishes,1,£0.55,50g,radishes
-64,Fruits and vegetables,"Tesco Mangetout 150G, £1.05 each",75g sugarsnap peas,1,£1.05,75g,sugarsnap peas
-65,Fruits and vegetables,"Organic Carrots 700G, £1.10 each",1kg carrots,2,£2.20,1kg,carrots
+64,Fruits and vegetables,"Tesco Fresh Cut Curled Parsley 30G, £0.60 each",30g fresh parsley,1,£0.60,30g,parsley
+64,Fruits and vegetables,"Tesco Radish Pack 240G, £0.55 each",50g radishes,1,£0.55,50g,radish
+64,Fruits and vegetables,"Tesco Mangetout 150G, £1.05 each",75g sugarsnap peas,1,£1.05,75g,mangetout
+65,Fruits and vegetables,"Organic Carrots 700G, £1.10 each",1kg carrots,2,£2.20,1kg,carrot
 65,Fruits and vegetables,"Celeriac Catchweight 0.20kg, £0.29 / 0.2kg",1 celeriac,0.6,£0.87,1,celeriac
 65,Fruits and vegetables,"Tesco Celery Sticks 250G, £0.85 each",4 celery sticks,1,£0.85,4 sticks,celery
 65,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",2 garlic cloves,1,£0.95,2 clove,garlic
-65,Fruits and vegetables,"Tesco Mint 30G, £0.52 each",mint leaves,1,£0.52,,mint leaves
-65,Fruits and vegetables,"Tesco Red Onions 3Pack Minimum, £1.00 each",3 red onions,1,£1.00,3,red onions
+65,Fruits and vegetables,"Tesco Mint 30G, £0.52 each",mint leaves,1,£0.52,,mint
+65,Fruits and vegetables,"Tesco Red Onions 3Pack Minimum, £1.00 each",3 red onions,1,£1.00,3,onion
 66,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",2 cloves garlic,1,£0.95,2 cloves,garlic
-66,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",1 red chilli,1,£0.70,1,red chilli
-66,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",2 spring onions,1,£0.50,2,spring onions
+66,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",1 red chilli,1,£0.70,1,chilli
+66,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",2 spring onions,1,£0.50,2,spring onion
 67,Fruits and vegetables,"Tesco Baby Spinach 220G, £1.35 each",125g baby spinach,1,£1.35,125g,baby spinach
 67,Fruits and vegetables,"Celeriac Catchweight 0.20kg, £0.29 / 0.2kg",1 celeriac,0.6,£0.87,1,celeriac
-67,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",15g fresh coriander,1,£0.52,15g,fresh coriander
+67,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",15g fresh coriander,1,£0.52,15g,coriander
 67,Fruits and vegetables,"Tesco Limes 5 Pack, £1.20 each",0.5 lime,1,£1.20,0.5,lime
 67,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",2 garlic cloves,1,£0.95,2 cloves,garlic
 67,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",1 onion,0.12,£0.12,1,onion
-68,Fruits and vegetables,"Tesco Bay Leaves 3G, £0.90 each",2 bay leaves,1,£0.90,2,bay leaves
-68,Fruits and vegetables,"Tesco Carrots Loose 0.16kg, £0.08 / 0.16kg",3 carrots,0.32,£0.16,3,carrots
+68,Fruits and vegetables,"Tesco Bay Leaves 3G, £0.90 each",2 bay leaves,1,£0.90,2,bay leaf
+68,Fruits and vegetables,"Tesco Carrots Loose 0.16kg, £0.08 / 0.16kg",3 carrots,0.32,£0.16,3,carrot
 68,Fruits and vegetables,"Tesco Celery Sticks 250G, £0.85 each",2 celery sticks,1,£0.85,2 sticks,celery
-68,Fruits and vegetables,"Chestnut Mushrooms 250G, £1.10 each",485g chestnut mushrooms,2,£2.20,485g,chestnut mushrooms
-68,Fruits and vegetables,"Tesco Flat Leaf Parsley 100G, £1.25 each",100g flat-leaf parsley,1,£1.25,100g,flat-leaf parsley
+68,Fruits and vegetables,"Chestnut Mushrooms 250G, £1.10 each",485g chestnut mushrooms,2,£2.20,485g,mushroom
+68,Fruits and vegetables,"Tesco Flat Leaf Parsley 100G, £1.25 each",100g flat-leaf parsley,1,£1.25,100g,parsley
 68,Fruits and vegetables,"Tesco Sage 20G, £0.60 each",15g fresh sage leaves,1,£0.60,15g,fresh sage leaves
 68,Fruits and vegetables,"Tesco Organic Garlic 3 Pack, £1.00 each",4 garlic cloves,1,£1.00,4 cloves,garlic
-68,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",3 onions,0.36,£0.36,3,onions
+68,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",3 onions,0.36,£0.36,3,onion
 69,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",coriander,1,£0.52,,coriander
-69,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",onions,0.12,£0.12,,onions
+69,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",onions,0.12,£0.12,,onion
 70,Fruits and vegetables,"Tesco Dill 20G, £0.60 each",20g fresh dill,1,£0.60,20g,fresh dill
 70,Fruits and vegetables,"Tesco Organic Garlic 3 Pack, £1.00 each",4 garlic cloves,1,£1.00,4 cloves,garlic
-70,Fruits and vegetables,"Tesco Extra Large Brown Onions 2 Pack, £1.00 each",2 onions,1,£1.00,2,onions
-71,Fruits and vegetables,"Tesco Mint 30G, £0.52 each",3 mint leaves,1,£0.52,3,mint leaves
+70,Fruits and vegetables,"Tesco Extra Large Brown Onions 2 Pack, £1.00 each",2 onions,1,£1.00,2,onion
+71,Fruits and vegetables,"Tesco Mint 30G, £0.52 each",3 mint leaves,1,£0.52,3,mint
 72,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",2 garlic cloves,1,£0.95,2 cloves,garlic
-72,Fruits and vegetables,"King Edward Potatoes 2.5Kg, £1.60 each",1kg king edward potatoes,1,£1.60,1kg,king edward potatoes
-72,Fruits and vegetables,"Tesco Rosemary 20G, £0.52 each",2 sprigs fresh rosemary,1,£0.52,2 sprigs,fresh rosemary
-73,Fruits and vegetables,"Tesco Tenderstem Broccoli 200G, £1.60 each",200g tenderstem broccoli,1,£1.60,200g,tenderstem broccoli
-73,Fruits and vegetables,"Tesco Cut Basil 30G, £0.52 each",10g fresh basil,1,£0.52,10g,fresh basil
+72,Fruits and vegetables,"King Edward Potatoes 2.5Kg, £1.60 each",1kg king edward potatoes,1,£1.60,1kg,potato
+72,Fruits and vegetables,"Tesco Rosemary 20G, £0.52 each",2 sprigs fresh rosemary,1,£0.52,2 sprigs,rosemary
+73,Fruits and vegetables,"Tesco Tenderstem Broccoli 200G, £1.60 each",200g tenderstem broccoli,1,£1.60,200g,broccoli
+73,Fruits and vegetables,"Tesco Cut Basil 30G, £0.52 each",10g fresh basil,1,£0.52,10g,basil
 73,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",2 garlic cloves,1,£0.95,2 cloves,garlic
-73,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",2 lemons,1,£0.55,2,lemons
-73,Fruits and vegetables,"Tesco Extra Large Brown Onions 2 Pack, £1.00 each",2 onions,1,£1.00,2,onions
-74,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",5g fresh coriander,1,£0.52,5g,fresh coriander
+73,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",2 lemons,1,£0.55,2,lemon
+73,Fruits and vegetables,"Tesco Extra Large Brown Onions 2 Pack, £1.00 each",2 onions,1,£1.00,2,onion
+74,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",5g fresh coriander,1,£0.52,5g,coriander
 74,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",1 garlic clove,1,£0.95,1 clove,garlic
-74,Fruits and vegetables,"Ginger Root Loose 0.10kg, £0.65 / 0.1kg",20g fresh ginger,0.1,£0.65,20g,fresh ginger
-74,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",2 red chillies,1,£0.70,2,red chillies
-74,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",100g spring onions,1,£0.50,100g,spring onions
+74,Fruits and vegetables,"Ginger Root Loose 0.10kg, £0.65 / 0.1kg",20g fresh ginger,0.1,£0.65,20g,ginger
+74,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",2 red chillies,1,£0.70,2,chilli
+74,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",100g spring onions,1,£0.50,100g,spring onion
 75,Fruits and vegetables,"Tesco Broccoli 375G, £0.86 each",1 head broccoli,1,£0.86,1 head,broccoli
-75,Fruits and vegetables,"Tesco Closed Cup Mushrooms 400G, £1.25 each",300g closed-cup mushrooms,1,£1.25,300g,closed-cup mushrooms
+75,Fruits and vegetables,"Tesco Closed Cup Mushrooms 400G, £1.25 each",300g closed-cup mushrooms,1,£1.25,300g,mushroom
 75,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",1 garlic clove,1,£0.95,1 clove,garlic
-75,Fruits and vegetables,"Tesco Fresh Cut Curled Parsley 30G, £0.60 each",15g fresh parsley,1,£0.60,15g,fresh parsley
-75,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",1 red onions,0.21,£0.21,1,red onions
-75,Fruits and vegetables,"Tesco Shredded Savoy Cabbage 750G, £1.20 each",0.5 savoy cabbage,1,£1.20,0.5,savoy cabbage
+75,Fruits and vegetables,"Tesco Fresh Cut Curled Parsley 30G, £0.60 each",15g fresh parsley,1,£0.60,15g,parsley
+75,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",1 red onions,0.21,£0.21,1,onion
+75,Fruits and vegetables,"Tesco Shredded Savoy Cabbage 750G, £1.20 each",0.5 savoy cabbage,1,£1.20,0.5,cabbage
 76,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",5g coriander,1,£0.52,5g,coriander
 76,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",2 cloves garlic,1,£0.95,2 cloves,garlic
 76,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",0.5 lemon,1,£0.55,0.5,lemon
-76,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",1 thinly sliced red onion,0.21,£0.21,1,thinly sliced red onion
-76,Fruits and vegetables,"Tesco Sweet Vine Ripened Tomatoes 255G, £1.20 each",1 salad tomato,1,£1.20,1,salad tomato
-77,Fruits and vegetables,"Tesco Carrots Loose 0.16kg, £0.08 / 0.16kg",2 carrots,0.32,£0.16,2,carrots
+76,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",1 thinly sliced red onion,0.21,£0.21,1,onion
+76,Fruits and vegetables,"Tesco Sweet Vine Ripened Tomatoes 255G, £1.20 each",1 salad tomato,1,£1.20,1,tomato
+77,Fruits and vegetables,"Tesco Carrots Loose 0.16kg, £0.08 / 0.16kg",2 carrots,0.32,£0.16,2,carrot
 77,Fruits and vegetables,"Tesco Celery Sticks 250G, £0.85 each",2 celery sticks,1,£0.85,2 sticks,celery
 77,Fruits and vegetables,"Tesco Green Beans 80G, £1.25 each",green beans,1,£1.25,,green beans
-77,Fruits and vegetables,"Tesco Fresh Cut Curled Parsley 30G, £0.60 each",5g fresh parsley,1,£0.60,5g,fresh parsley
+77,Fruits and vegetables,"Tesco Fresh Cut Curled Parsley 30G, £0.60 each",5g fresh parsley,1,£0.60,5g,parsley
 77,Fruits and vegetables,"Parsnips Loose Class 1 0.15kg, £0.19 / 0.15kg",300g parsnips,0.3,£0.37,300g,parsnips
-77,Fruits and vegetables,"Tesco Parmentier Potatoes 400G, £2.00 each",300g potatoes,1,£2.00,300g,potatoes
-77,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",1 red onion,0.21,£0.21,1,red onion
-77,Fruits and vegetables,"Tesco Rosemary 20G, £0.52 each",5g fresh rosemary,1,£0.52,5g,fresh rosemary
-78,Fruits and vegetables,"Tesco British Maris Piper 1.25Kg, £1.00 each",800g maris piper potatoes,1,£1.00,800g,maris piper potatoes
+77,Fruits and vegetables,"Tesco Parmentier Potatoes 400G, £2.00 each",300g potatoes,1,£2.00,300g,potato
+77,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",1 red onion,0.21,£0.21,1,onion
+77,Fruits and vegetables,"Tesco Rosemary 20G, £0.52 each",5g fresh rosemary,1,£0.52,5g,rosemary
+78,Fruits and vegetables,"Tesco British Maris Piper 1.25Kg, £1.00 each",800g maris piper potatoes,1,£1.00,800g,potato
 79,Fruits and vegetables,"Cauliflower Extra Large Each, £1.50 each",1 cauliflower,1,£1.50,1,cauliflower
 79,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",1 lemon,1,£0.55,1,lemon
-79,Fruits and vegetables,"Tesco Purple Sprouting Broccoli 200G, £1.80 each",200g purple sprouting broccoli,1,£1.80,200g,purple sprouting broccoli
-80,Fruits and vegetables,"Tesco Carrots Loose 0.16kg, £0.08 / 0.16kg",4 carrots,0.48,£0.24,4,carrots
+79,Fruits and vegetables,"Tesco Purple Sprouting Broccoli 200G, £1.80 each",200g purple sprouting broccoli,1,£1.80,200g,broccoli
+80,Fruits and vegetables,"Tesco Carrots Loose 0.16kg, £0.08 / 0.16kg",4 carrots,0.48,£0.24,4,carrot
 80,Fruits and vegetables,"Celeriac Catchweight 0.20kg, £0.29 / 0.2kg",500g celeriac,0.6,£0.87,500g,celeriac
 80,Fruits and vegetables,"Tesco Organic Garlic 3 Pack, £1.00 each",4 garlic cloves,1,£1.00,4 cloves,garlic
-80,Fruits and vegetables,"Tesco Extra Large Brown Onions 2 Pack, £1.00 each",2 onions,1,£1.00,2,onions
+80,Fruits and vegetables,"Tesco Extra Large Brown Onions 2 Pack, £1.00 each",2 onions,1,£1.00,2,onion
 80,Fruits and vegetables,"Parsnips Loose Class 1 0.15kg, £0.19 / 0.15kg",3 parsnips,0.3,£0.37,3,parsnips
-80,Fruits and vegetables,"Tesco Rosemary 20G, £0.52 each",10g fresh rosemary leaves,1,£0.52,10g,fresh rosemary leaves
-81,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",15g fresh coriander,1,£0.52,15g,fresh coriander
+80,Fruits and vegetables,"Tesco Rosemary 20G, £0.52 each",10g fresh rosemary leaves,1,£0.52,10g,rosemary
+81,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",15g fresh coriander,1,£0.52,15g,coriander
 81,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",2 garlic cloves,1,£0.95,2 cloves,garlic
 81,Fruits and vegetables,"Ginger Root Loose 0.10kg, £0.65 / 0.1kg",5 c m ginger,0.1,£0.65,5cm,ginger
 81,Fruits and vegetables,"Tesco Mangetout 150G, £1.05 each",150g mangetout,1,£1.05,150g,mangetout
-81,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",1 red chilli,1,£0.70,1,red chilli
-81,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",2 spring onions,1,£0.50,2,spring onions
+81,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",1 red chilli,1,£0.70,1,chilli
+81,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",2 spring onions,1,£0.50,2,spring onion
 81,Fruits and vegetables,"Tesco Swede, £0.80 each",0.5 swede,1,£0.80,0.5,swede
 82,Fruits and vegetables,"Tesco Organic Garlic 3 Pack, £1.00 each",3 garlic cloves,1,£1.00,3 cloves,garlic
 82,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",1 lemon,1,£0.55,1,lemon
-82,Fruits and vegetables,"Tesco Fresh Cut Curled Parsley 30G, £0.60 each",15g fresh parsley,1,£0.60,15g,fresh parsley
-82,Fruits and vegetables,"Tesco Shredded Savoy Cabbage 750G, £1.20 each",0.5 savoy cabbage,1,£1.20,0.5,savoy cabbage
+82,Fruits and vegetables,"Tesco Fresh Cut Curled Parsley 30G, £0.60 each",15g fresh parsley,1,£0.60,15g,parsley
+82,Fruits and vegetables,"Tesco Shredded Savoy Cabbage 750G, £1.20 each",0.5 savoy cabbage,1,£1.20,0.5,cabbage
 83,Fruits and vegetables,"Courgettes Loose Class 1 0.20kg, £0.58 / 0.2kg",1 courgette,0.2,£0.58,1,courgette
 83,Fruits and vegetables,"Tesco Finest Extra Fine Beans 200G, £1.50 each",100g fine beans,1,£1.50,100g,fine beans
 83,Fruits and vegetables,"Suntrail Farms Orange Minimum 5 Pack, £0.80 each",0.5 orange,1,£0.80,0.5,orange
-83,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",2 spring onions,1,£0.50,2,spring onions
-84,Fruits and vegetables,"Tesco Carrots Loose 0.16kg, £0.08 / 0.16kg",4 carrots,0.48,£0.24,4,carrots
+83,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",2 spring onions,1,£0.50,2,spring onion
+84,Fruits and vegetables,"Tesco Carrots Loose 0.16kg, £0.08 / 0.16kg",4 carrots,0.48,£0.24,4,carrot
 84,Fruits and vegetables,"Tesco Organic Garlic 3 Pack, £1.00 each",3 garlic cloves,1,£1.00,3 cloves,garlic
-84,Fruits and vegetables,"Tesco Extra Large Brown Onions 2 Pack, £1.00 each",2 onions,1,£1.00,2,onions
-84,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",1 red chilli,1,£0.70,1,red chilli
+84,Fruits and vegetables,"Tesco Extra Large Brown Onions 2 Pack, £1.00 each",2 onions,1,£1.00,2,onion
+84,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",1 red chilli,1,£0.70,1,chilli
 84,Fruits and vegetables,"Tesco Rosemary 20G, £0.52 each",3 tbsp rosemary,1,£0.52,3 tbsp,rosemary
-85,Fruits and vegetables,"Nightingale Farms Peppers 375G, £1.35 each",3 mixed peppers,1,£1.35,3,mixed peppers
-86,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",10g fresh coriander,1,£0.52,10g,fresh coriander
-86,Fruits and vegetables,"Tesco Fresh Cut Flat Leaf Parsley 30G, £0.60 each",10g fresh flat-leaf parsley,1,£0.60,10g,fresh flat-leaf parsley
+85,Fruits and vegetables,"Nightingale Farms Peppers 375G, £1.35 each",3 mixed peppers,1,£1.35,3,pepper
+86,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",10g fresh coriander,1,£0.52,10g,coriander
+86,Fruits and vegetables,"Tesco Fresh Cut Flat Leaf Parsley 30G, £0.60 each",10g fresh flat-leaf parsley,1,£0.60,10g,parsley
 86,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",1 garlic clove,1,£0.95,1 clove,garlic
-86,Fruits and vegetables,"Ginger Root Loose 0.10kg, £0.65 / 0.1kg",10g fresh ginger,0.1,£0.65,10g,fresh ginger
-86,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",lemon wedges,1,£0.55,,lemon wedges
+86,Fruits and vegetables,"Ginger Root Loose 0.10kg, £0.65 / 0.1kg",10g fresh ginger,0.1,£0.65,10g,ginger
+86,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",lemon wedges,1,£0.55,,lemon
 86,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",1 onion,0.12,£0.12,1,onion
 86,Fruits and vegetables,"Tesco Watercress 85G, £1.35 each",watercress,1,£1.35,,watercress
-87,Fruits and vegetables,"Tesco Cherry Tomatoes 330G, £1.00 each",cherry tomato,1,£1.00,,cherry tomato
+87,Fruits and vegetables,"Tesco Cherry Tomatoes 330G, £1.00 each",cherry tomato,1,£1.00,,tomato
 87,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",10g coriander,1,£0.52,10g,coriander
 87,Fruits and vegetables,"Tesco Curly Kale 180G, £0.80 each",100g curly kale,1,£0.80,100g,curly kale
 87,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",1 clove garlic,1,£0.95,1 clove,garlic
@@ -367,35 +367,35 @@
 87,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",1 onion,0.12,£0.12,1,onion
 87,Fruits and vegetables,"Tesco Dried Oregano 14G Jar, £0.90 each",1 tsp oregano,1,£0.90,1 tsp,oregano
 87,Fruits and vegetables,"Tesco Imperator Carrot 450G, £1.50 each",450g root vegetables,1,£1.50,450g,root vegetables
-87,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",2 spring onions,1,£0.50,2,spring onions
+87,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",2 spring onions,1,£0.50,2,spring onion
 88,Fruits and vegetables,"Cauliflower Extra Large Each, £1.50 each",1 cauliflower,1,£1.50,1,cauliflower
-88,Fruits and vegetables,"Tesco Large Sweet Potatoes Loose Class 1 0.35kg, £0.39 / 0.35kg",665g sweet potatoes,1.05,£0.77,665g,sweet potatoes
-89,Fruits and vegetables,"Tesco Thyme 20G, £0.52 each",0.5 bunch fresh thyme,1,£0.52,0.5 bunch,fresh thyme
+88,Fruits and vegetables,"Tesco Large Sweet Potatoes Loose Class 1 0.35kg, £0.39 / 0.35kg",665g sweet potatoes,1.05,£0.77,665g,potato
+89,Fruits and vegetables,"Tesco Thyme 20G, £0.52 each",0.5 bunch fresh thyme,1,£0.52,0.5 bunch,thyme
 89,Fruits and vegetables,"Leeks Loose Class 2 0.25kg, £0.63 / 0.25kg",1 leek,0.25,£0.63,1,leek
-90,Fruits and vegetables,"Tesco Carrots Loose 0.16kg, £0.08 / 0.16kg",3 carrots,0.32,£0.16,3,carrots
+90,Fruits and vegetables,"Tesco Carrots Loose 0.16kg, £0.08 / 0.16kg",3 carrots,0.32,£0.16,3,carrot
 90,Fruits and vegetables,"Tesco Whole Large Cucumber, £0.95 each",0.5 cucumber,1,£0.95,0.5,cucumber
 90,Fruits and vegetables,"Tesco Limes 5 Pack, £1.20 each",1 lime,1,£1.20,1,lime
 90,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",1 clove garlic,1,£0.95,1 clove,garlic
 90,Fruits and vegetables,"Ginger Root Loose 0.10kg, £0.65 / 0.1kg",2.5 ginger,0.3,£1.95,2.5,ginger
 90,Fruits and vegetables,"Tesco Mint 30G, £0.52 each",25g mint,1,£0.52,25g,mint
-90,Fruits and vegetables,"Tesco Red Cabbage Each, £0.65 each",0.3 red cabbage,1,£0.65,0.3,red cabbage
-90,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",1 red chilli,1,£0.70,1,red chilli
-90,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",6 spring onions,1,£0.50,6,spring onions
+90,Fruits and vegetables,"Tesco Red Cabbage Each, £0.65 each",0.3 red cabbage,1,£0.65,0.3,cabbage
+90,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",1 red chilli,1,£0.70,1,chilli
+90,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",6 spring onions,1,£0.50,6,spring onion
 91,Fruits and vegetables,"Cauliflower Extra Large Each, £1.50 each",250g cauliflower,1,£1.50,250g,cauliflower
-91,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",2 handfuls coriander leaves,1,£0.52,2,handfuls coriander leaves
+91,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",2 handfuls coriander leaves,1,£0.52,2,coriander
 91,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",2 garlic cloves,1,£0.95,2 cloves,garlic
 91,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",1 onion,0.12,£0.12,1,onion
-91,Fruits and vegetables,"Tesco Organic Pepper 250G, £1.60 each",1 red pepper,1,£1.60,1,red pepper
+91,Fruits and vegetables,"Tesco Organic Pepper 250G, £1.60 each",1 red pepper,1,£1.60,1,pepper
 92,Fruits and vegetables,"Suntrail Farms Orange Minimum 5 Pack, £0.80 each",1 orange,1,£0.80,1,orange
-92,Fruits and vegetables,"Tesco Red Cabbage Each, £0.65 each",1 red cabbage,1,£0.65,1,red cabbage
-92,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",1 red onion,0.21,£0.21,1,red onion
+92,Fruits and vegetables,"Tesco Red Cabbage Each, £0.65 each",1 red cabbage,1,£0.65,1,cabbage
+92,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",1 red onion,0.21,£0.21,1,onion
 92,Fruits and vegetables,"Tesco Thyme 20G, £0.52 each",5 thyme sprigs,1,£0.52,5 sprigs,thyme
-93,Fruits and vegetables,"Tesco Thyme 20G, £0.52 each",15g fresh thyme,1,£0.52,15g,fresh thyme
+93,Fruits and vegetables,"Tesco Thyme 20G, £0.52 each",15g fresh thyme,1,£0.52,15g,thyme
 93,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",2 garlic cloves,1,£0.95,2 cloves,garlic
 93,Fruits and vegetables,"Leeks Loose Class 2 0.25kg, £0.63 / 0.25kg",2 leeks,0.25,£0.63,2,leeks
 93,Fruits and vegetables,"Perfectly Imperfect Parsnips 500G, £0.50 each",500g parsnips,1,£0.50,500g,parsnips
-93,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",1 red chilli,1,£0.70,1,red chilli
-94,Fruits and vegetables,"Tesco Carrots Loose 0.16kg, £0.08 / 0.16kg",2 carrots,0.32,£0.16,2,carrots
+93,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",1 red chilli,1,£0.70,1,chilli
+94,Fruits and vegetables,"Tesco Carrots Loose 0.16kg, £0.08 / 0.16kg",2 carrots,0.32,£0.16,2,carrot
 94,Fruits and vegetables,"Tesco Celery Sticks 250G, £0.85 each",2 celery stalks,1,£0.85,2 sticks,celery
 94,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",2 garlic cloves,1,£0.95,2 cloves,garlic
 94,Fruits and vegetables,"Leeks Loose Class 2 0.25kg, £0.63 / 0.25kg",1 leek,0.25,£0.63,1,leek
@@ -403,252 +403,252 @@
 94,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",1 onion,0.12,£0.12,1,onion
 94,Fruits and vegetables,"Tesco Dried Oregano 14G Jar, £0.90 each",1 sprig oregano,1,£0.90,1 sprig,oregano
 94,Fruits and vegetables,"Tesco Rosemary 20G, £0.52 each",1 sprig rosemary,1,£0.52,1 sprig,rosemary
-95,Fruits and vegetables,"Tesco Bay Leaves 3G, £0.90 each",3 bay leaves,1,£0.90,3,bay leaves
+95,Fruits and vegetables,"Tesco Bay Leaves 3G, £0.90 each",3 bay leaves,1,£0.90,3,bay leaf
 95,Fruits and vegetables,"Leeks Loose Class 2 0.25kg, £0.63 / 0.25kg",2 leeks,0.25,£0.63,2,leeks
-95,Fruits and vegetables,"Tesco Sweet Heart Cabbage Each Class 1, £0.67 each",1 sweetheart cabbage,1,£0.67,1,sweetheart cabbage
-95,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",1 white onion,0.12,£0.12,1,white onion
-96,Fruits and vegetables,"Tesco Cut Basil 30G, £0.52 each",fresh basil leaves,1,£0.52,,fresh basil leaves
+95,Fruits and vegetables,"Tesco Sweet Heart Cabbage Each Class 1, £0.67 each",1 sweetheart cabbage,1,£0.67,1,cabbage
+95,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",1 white onion,0.12,£0.12,1,onion
+96,Fruits and vegetables,"Tesco Cut Basil 30G, £0.52 each",fresh basil leaves,1,£0.52,,basil
 96,Fruits and vegetables,"Courgettes Loose Class 1 0.20kg, £0.58 / 0.2kg",1 courgette,0.2,£0.58,1,courgette
 96,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",1 garlic clove,1,£0.95,1 clove,garlic
 96,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",0.5 lemon,1,£0.55,0.5,lemon
 96,Fruits and vegetables,"Tesco Wild Rocket 60G, £1.10 each",60g rocket,1,£1.10,60g,rocket
 97,Fruits and vegetables,"Tesco Organic Garlic 3 Pack, £1.00 each",3 garlic cloves,1,£1.00,3 cloves,garlic
-97,Fruits and vegetables,"Nightingale Farms Peppers 375G, £1.35 each",3 peppers,1,£1.35,3,peppers
-97,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",2 red onions,0.21,£0.21,2,red onions
-98,Fruits and vegetables,"Tesco Fresh Cut Flat Leaf Parsley 30G, £0.60 each",31g flat-leaf parsley,2,£1.20,31g,flat-leaf parsley
-98,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",0.5 lemon juice only,1,£0.55,0.5,lemon juice only
-98,Fruits and vegetables,"Iceberg Lettuce Each, £0.70 each",0.5 iceberg lettuce,1,£0.70,0.5,iceberg lettuce
-98,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",3 spring onions,1,£0.50,3,spring onions
+97,Fruits and vegetables,"Nightingale Farms Peppers 375G, £1.35 each",3 peppers,1,£1.35,3,pepper
+97,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",2 red onions,0.21,£0.21,2,onion
+98,Fruits and vegetables,"Tesco Fresh Cut Flat Leaf Parsley 30G, £0.60 each",31g flat-leaf parsley,2,£1.20,31g,parsley
+98,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",0.5 lemon juice only,1,£0.55,0.5,lemon
+98,Fruits and vegetables,"Iceberg Lettuce Each, £0.70 each",0.5 iceberg lettuce,1,£0.70,0.5,lettuce
+98,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",3 spring onions,1,£0.50,3,spring onion
 98,Fruits and vegetables,"Tesco Watermelon Wedges 550G, £3.00 each",800g watermelon,2,£6.00,800g,watermelon
-99,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",30g fresh coriander,1,£0.52,30g,fresh coriander
+99,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",30g fresh coriander,1,£0.52,30g,coriander
 99,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",2 garlic cloves,1,£0.95,2 cloves,garlic
-99,Fruits and vegetables,"Tesco Sweet Peppers 500G, £1.80 each",4 mixed peppers,1,£1.80,4,mixed peppers
+99,Fruits and vegetables,"Tesco Sweet Peppers 500G, £1.80 each",4 mixed peppers,1,£1.80,4,pepper
 99,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",1 onion,0.12,£0.12,1,onion
-99,Fruits and vegetables,"Tesco Peeled Potatoes 700G, £1.25 each",600g potatoes,1,£1.25,600g,potatoes
+99,Fruits and vegetables,"Tesco Peeled Potatoes 700G, £1.25 each",600g potatoes,1,£1.25,600g,potato
 99,Fruits and vegetables,"Florette Mixed Salad 150G, £1.20 each",370g salad,3,£3.60,370g,salad
 100,Fruits and vegetables,"T.Ready To Eat Large Avocados Each, £0.89 each",1 avocado,1,£0.89,1,avocado
-100,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",15g fresh coriander,1,£0.52,15g,fresh coriander
-100,Fruits and vegetables,"Tesco Limes 5 Pack, £1.20 each",2 limes,1,£1.20,2,limes
-100,Fruits and vegetables,"Tesco Red Cabbage Each, £0.65 each",0.3 red cabbage,1,£0.65,0.3,red cabbage
-100,Fruits and vegetables,"Tesco Organic Pepper 250G, £1.60 each",1 red pepper,1,£1.60,1,red pepper
-100,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",1 red chilli,1,£0.70,1,red chilli
-100,Fruits and vegetables,"Tesco Large Sweet Potatoes Loose Class 1 0.35kg, £0.39 / 0.35kg",4 sweet potatoes,1.4,£1.54,4,sweet potatoes
+100,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",15g fresh coriander,1,£0.52,15g,coriander
+100,Fruits and vegetables,"Tesco Limes 5 Pack, £1.20 each",2 limes,1,£1.20,2,lime
+100,Fruits and vegetables,"Tesco Red Cabbage Each, £0.65 each",0.3 red cabbage,1,£0.65,0.3,cabbage
+100,Fruits and vegetables,"Tesco Organic Pepper 250G, £1.60 each",1 red pepper,1,£1.60,1,pepper
+100,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",1 red chilli,1,£0.70,1,chilli
+100,Fruits and vegetables,"Tesco Large Sweet Potatoes Loose Class 1 0.35kg, £0.39 / 0.35kg",4 sweet potatoes,1.4,£1.54,4,potato
 101,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",2 garlic cloves,1,£0.95,2 cloves,garlic
-101,Fruits and vegetables,"Nightingale Farms Peppers 375G, £1.35 each",5 green peppers,2,£2.70,5,green peppers
+101,Fruits and vegetables,"Nightingale Farms Peppers 375G, £1.35 each",5 green peppers,2,£2.70,5,pepper
 101,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",1 onion,0.12,£0.12,1,onion
 102,Fruits and vegetables,"Cauliflower Extra Large Each, £1.50 each",600g cauliflower,2,£3.00,600g,cauliflower
 102,Fruits and vegetables,"Organic Leeks 400G, £1.90 each",375g leeks,1,£1.90,375g,leeks
-102,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",2 red onions,0.21,£0.21,2,red onions
-102,Fruits and vegetables,"Tesco Thyme 20G, £0.52 each",1 tsp fresh thyme leaves,1,£0.52,1 tsp,fresh thyme leaves
+102,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",2 red onions,0.21,£0.21,2,onion
+102,Fruits and vegetables,"Tesco Thyme 20G, £0.52 each",1 tsp fresh thyme leaves,1,£0.52,1 tsp,thyme leaves
 103,Fruits and vegetables,"Tesco Broccoli 375G, £0.86 each",1 head broccoli,1,£0.86,1 head,broccoli
 103,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",1 garlic clove,1,£0.95,1 clove,garlic
-103,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",1 red onion,0.21,£0.21,1,red onion
-103,Fruits and vegetables,"Tesco Large Sweet Potatoes Loose Class 1 0.35kg, £0.39 / 0.35kg",1 sweet potato,0.35,£0.39,1,sweet potato
+103,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",1 red onion,0.21,£0.21,1,onion
+103,Fruits and vegetables,"Tesco Large Sweet Potatoes Loose Class 1 0.35kg, £0.39 / 0.35kg",1 sweet potato,0.35,£0.39,1,potato
 103,Fruits and vegetables,"Tesco Tarragon 20G, £0.60 each",3 sprigs tarragon,1,£0.60,3 sprigs,tarragon
-104,Fruits and vegetables,"Tesco Cherry Tomatoes 330G, £1.00 each",330g cherry tomatoes,1,£1.00,330g,cherry tomatoes
+104,Fruits and vegetables,"Tesco Cherry Tomatoes 330G, £1.00 each",330g cherry tomatoes,1,£1.00,330g,tomato
 104,Fruits and vegetables,"Tesco Organic Garlic 3 Pack, £1.00 each",4 garlic cloves,1,£1.00,4 cloves,garlic
 104,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",1 lemon,1,£0.55,1,lemon
-105,Fruits and vegetables,"Tesco Carrots Loose 0.16kg, £0.08 / 0.16kg",300g carrots,0.48,£0.24,300g,carrots
+105,Fruits and vegetables,"Tesco Carrots Loose 0.16kg, £0.08 / 0.16kg",300g carrots,0.48,£0.24,300g,carrot
 105,Fruits and vegetables,"Courgettes Loose Class 1 0.20kg, £0.58 / 0.2kg",2 courgettes,0.4,£1.16,2,courgettes
-105,Fruits and vegetables,"Tesco Fresh Cut Flat Leaf Parsley 30G, £0.60 each",5g fresh flat-leaf parsley,1,£0.60,5g,fresh flat-leaf parsley
+105,Fruits and vegetables,"Tesco Fresh Cut Flat Leaf Parsley 30G, £0.60 each",5g fresh flat-leaf parsley,1,£0.60,5g,parsley
 105,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",2 garlic cloves,1,£0.95,2 cloves,garlic
-105,Fruits and vegetables,"Tesco Peeled Potatoes 700G, £1.25 each",750g potatoes,1,£1.25,750g,potatoes
-105,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",1 red chilli,1,£0.70,1,red chilli
-105,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",2 red onions,0.21,£0.21,2,red onions
-106,Fruits and vegetables,"Tesco Tenderstem Broccoli 200G, £1.60 each",200g tenderstem broccoli,1,£1.60,200g,tenderstem broccoli
-106,Fruits and vegetables,"Tesco Finest Sugarbelle Tomatoes 220G, £1.80 each",200g cherry tomatoes,1,£1.80,200g,cherry tomatoes
-107,Fruits and vegetables,"Tesco Organic Baby Spinach 100G, £1.35 each",baby spinach leaves,1,£1.35,,baby spinach leaves
-107,Fruits and vegetables,"Tesco Cut Basil 30G, £0.52 each",30g basil leaves,1,£0.52,30g,basil leaves
+105,Fruits and vegetables,"Tesco Peeled Potatoes 700G, £1.25 each",750g potatoes,1,£1.25,750g,potato
+105,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",1 red chilli,1,£0.70,1,chilli
+105,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",2 red onions,0.21,£0.21,2,onion
+106,Fruits and vegetables,"Tesco Tenderstem Broccoli 200G, £1.60 each",200g tenderstem broccoli,1,£1.60,200g,broccoli
+106,Fruits and vegetables,"Tesco Finest Sugarbelle Tomatoes 220G, £1.80 each",200g cherry tomatoes,1,£1.80,200g,tomato
+107,Fruits and vegetables,"Tesco Organic Baby Spinach 100G, £1.35 each",baby spinach leaves,1,£1.35,,spinach
+107,Fruits and vegetables,"Tesco Cut Basil 30G, £0.52 each",30g basil leaves,1,£0.52,30g,basil
 107,Fruits and vegetables,"Tesco Organic Garlic 3 Pack, £1.00 each",3 garlic cloves,1,£1.00,3 cloves,garlic
-107,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",1 bunch spring onions,1,£0.50,1 bunch,spring onions
+107,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",1 bunch spring onions,1,£0.50,1 bunch,spring onion
 108,Fruits and vegetables,"Tesco Dill 20G, £0.60 each",2 tbsp dill,1,£0.60,2 tbsp,dill
 108,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",1 onion,0.12,£0.12,1,onion
-108,Fruits and vegetables,"Tesco Fresh Cut Curled Parsley 30G, £0.60 each",1 tbsp fresh parsley,1,£0.60,1 tbsp,fresh parsley
-108,Fruits and vegetables,"Tesco Organic Spinach 200G, £1.90 each",1kg spinach leaves,5,£9.50,1kg,spinach leaves
+108,Fruits and vegetables,"Tesco Fresh Cut Curled Parsley 30G, £0.60 each",1 tbsp fresh parsley,1,£0.60,1 tbsp,parsley
+108,Fruits and vegetables,"Tesco Organic Spinach 200G, £1.90 each",1kg spinach leaves,5,£9.50,1kg,spinach
 109,Fruits and vegetables,"Tesco Cut Chives 20G, £1.00 each",2 tbsp chives,1,£1.00,2 tbsp,chives
-109,Fruits and vegetables,"Tesco British Maris Piper 1.25Kg, £1.00 each",550g floury potatoes,1,£1.00,550g,floury potatoes
+109,Fruits and vegetables,"Tesco British Maris Piper 1.25Kg, £1.00 each",550g floury potatoes,1,£1.00,550g,potato
 109,Fruits and vegetables,"Tesco Organic Garlic 3 Pack, £1.00 each",3 garlic cloves,1,£1.00,3 cloves,garlic
 109,Fruits and vegetables,"Leeks Loose Class 2 0.25kg, £0.63 / 0.25kg",3 leeks,0.5,£1.25,3,leeks
 109,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",1 onion,0.12,£0.12,1,onion
 109,Fruits and vegetables,"Tesco Rosemary 20G, £0.52 each",2 tbsp rosemary,1,£0.52,2 tbsp,rosemary
-110,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",1.5 lemons,1,£0.55,1.5,lemons
-110,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",0.5 red onion,0.21,£0.21,0.5,red onion
-110,Fruits and vegetables,"Tesco Sweet Vine Ripened Tomatoes 255G, £1.20 each",150g salad tomatoes,1,£1.20,150g,salad tomatoes
-110,Fruits and vegetables,"Tesco Large Sweet Potatoes Loose Class 1 0.35kg, £0.39 / 0.35kg",300g sweet potatoes,0.35,£0.39,300g,sweet potatoes
+110,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",1.5 lemons,1,£0.55,1.5,lemon
+110,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",0.5 red onion,0.21,£0.21,0.5,onion
+110,Fruits and vegetables,"Tesco Sweet Vine Ripened Tomatoes 255G, £1.20 each",150g salad tomatoes,1,£1.20,150g,tomato
+110,Fruits and vegetables,"Tesco Large Sweet Potatoes Loose Class 1 0.35kg, £0.39 / 0.35kg",300g sweet potatoes,0.35,£0.39,300g,potato
 110,Fruits and vegetables,"Tesco Watercress Spinach & Rocket 80G, £1.35 each",40g watercress spinach and rocket,1,£1.35,40g,watercress spinach and rocket
 111,Fruits and vegetables,"Tesco Wild Rocket 60G, £1.10 each",60g rocket,1,£1.10,60g,rocket
-111,Fruits and vegetables,"Tesco Large Sweet Potatoes Loose Class 1 0.35kg, £0.39 / 0.35kg",1 sweet potatoes,0.35,£0.39,1,sweet potatoes
+111,Fruits and vegetables,"Tesco Large Sweet Potatoes Loose Class 1 0.35kg, £0.39 / 0.35kg",1 sweet potatoes,0.35,£0.39,1,potato
 112,Fruits and vegetables,"Tesco Beansprouts 300G, £0.71 each",300g bean sprouts,1,£0.71,300g,bean sprouts
-112,Fruits and vegetables,"Tesco Carrots Loose 0.16kg, £0.08 / 0.16kg",2 carrots,0.32,£0.16,2,carrots
+112,Fruits and vegetables,"Tesco Carrots Loose 0.16kg, £0.08 / 0.16kg",2 carrots,0.32,£0.16,2,carrot
 112,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",1 clove garlic,1,£0.95,1 clove,garlic
-112,Fruits and vegetables,"Ginger Root Loose 0.10kg, £0.65 / 0.1kg",root ginger,0.1,£0.65,,root ginger
+112,Fruits and vegetables,"Ginger Root Loose 0.10kg, £0.65 / 0.1kg",root ginger,0.1,£0.65,,ginger
 112,Fruits and vegetables,"Tesco Limes 5 Pack, £1.20 each",1 lime,1,£1.20,1,lime
-112,Fruits and vegetables,"Tesco Fresh Cut Curled Parsley 30G, £0.60 each",parsley leaves,1,£0.60,,parsley leaves
-112,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",1 red chilli,1,£0.70,1,red chilli
-112,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",3 spring onions,1,£0.50,3,spring onions
-113,Fruits and vegetables,"Tesco Extra Large Brown Onions 2 Pack, £1.00 each",2 onions,1,£1.00,2,onions
+112,Fruits and vegetables,"Tesco Fresh Cut Curled Parsley 30G, £0.60 each",parsley leaves,1,£0.60,,parsley
+112,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",1 red chilli,1,£0.70,1,chilli
+112,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",3 spring onions,1,£0.50,3,spring onion
+113,Fruits and vegetables,"Tesco Extra Large Brown Onions 2 Pack, £1.00 each",2 onions,1,£1.00,2,onion
 113,Fruits and vegetables,"Tesco Sage 20G, £0.60 each",sage leaves,2,£1.20,,sage leaves
-114,Fruits and vegetables,"Tesco Family Pack Chestnut Mushroom 485G, £1.80 each",300g chestnut mushrooms,1,£1.80,300g,chestnut mushrooms
-114,Fruits and vegetables,"Finest Echalion Shallots 400G, £1.35 each",echalion shallot,1,£1.35,,echalion shallot
-114,Fruits and vegetables,"Tesco Fresh Cut Flat Leaf Parsley 30G, £0.60 each",flat-leaf parsley,1,£0.60,,flat-leaf parsley
+114,Fruits and vegetables,"Tesco Family Pack Chestnut Mushroom 485G, £1.80 each",300g chestnut mushrooms,1,£1.80,300g,mushroom
+114,Fruits and vegetables,"Finest Echalion Shallots 400G, £1.35 each",echalion shallot,1,£1.35,,onion
+114,Fruits and vegetables,"Tesco Fresh Cut Flat Leaf Parsley 30G, £0.60 each",flat-leaf parsley,1,£0.60,,parsley
 114,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",2 garlic cloves,1,£0.95,2 cloves,garlic
 114,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",1 lemon,1,£0.55,1,lemon
 115,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",0.5 lemon,1,£0.55,0.5,lemon
 115,Fruits and vegetables,"Tesco Organic Garlic 3 Pack, £1.00 each",3 garlic cloves,1,£1.00,3 cloves,garlic
 115,Fruits and vegetables,"Ginger Root Loose 0.10kg, £0.65 / 0.1kg",2.5 cm ginger,0.1,£0.65,2.5 cm,ginger
-115,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",2 spring onions,1,£0.50,2,spring onions
-116,Fruits and vegetables,"Tesco Bay Leaves 3G, £0.90 each",3 bay leaves,1,£0.90,3,bay leaves
+115,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",2 spring onions,1,£0.50,2,spring onion
+116,Fruits and vegetables,"Tesco Bay Leaves 3G, £0.90 each",3 bay leaves,1,£0.90,3,bay leaf
 116,Fruits and vegetables,"Tesco Carrots Loose 0.16kg, £0.08 / 0.16kg",1 carrot,0.16,£0.08,1,carrot
 116,Fruits and vegetables,"Tesco Celery Sticks 250G, £0.85 each",2 celery sticks,1,£0.85,2 sticks,celery
-116,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",fresh coriander leaves,1,£0.52,,fresh coriander leaves
+116,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",fresh coriander leaves,1,£0.52,,coriander
 116,Fruits and vegetables,"Tesco Thyme 20G, £0.52 each",3 sprigs thyme,1,£0.52,3 sprigs,thyme
 116,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",0.5 lemon,1,£0.55,0.5,lemon
 116,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",1 onion,0.12,£0.12,1,onion
-116,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",2 red chillies,1,£0.70,2,red chillies
-116,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",4 spring onions,1,£0.50,4,spring onions
-117,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",coriander leaves,1,£0.52,,coriander leaves
-117,Fruits and vegetables,"Tesco Limes 5 Pack, £1.20 each",2 limes,1,£1.20,2,limes
-117,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",1 red chilli,1,£0.70,1,red chilli
-117,Fruits and vegetables,"Tesco Shallots Onions 400G, £1.30 each",1 shallot,1,£1.30,1,shallot
+116,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",2 red chillies,1,£0.70,2,chilli
+116,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",4 spring onions,1,£0.50,4,spring onion
+117,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",coriander leaves,1,£0.52,,coriander
+117,Fruits and vegetables,"Tesco Limes 5 Pack, £1.20 each",2 limes,1,£1.20,2,lime
+117,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",1 red chilli,1,£0.70,1,chilli
+117,Fruits and vegetables,"Tesco Shallots Onions 400G, £1.30 each",1 shallot,1,£1.30,1,onion
 118,Fruits and vegetables,"Tesco Cut Basil 30G, £0.52 each",10g basil,1,£0.52,10g,basil
 118,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",2 garlic cloves,1,£0.95,2 cloves,garlic
 118,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",1 onion,0.12,£0.12,1,onion
-118,Fruits and vegetables,"Tesco Organic Pepper 250G, £1.60 each",2 red peppers,1,£1.60,2,red peppers
-119,Fruits and vegetables,"Tesco Organic Baby Spinach 100G, £1.35 each",20g baby spinach,1,£1.35,20g,baby spinach
-119,Fruits and vegetables,"Tesco Organic Pepper 250G, £1.60 each",0.5 yellow pepper,1,£1.60,0.5,yellow pepper
+118,Fruits and vegetables,"Tesco Organic Pepper 250G, £1.60 each",2 red peppers,1,£1.60,2,pepper
+119,Fruits and vegetables,"Tesco Organic Baby Spinach 100G, £1.35 each",20g baby spinach,1,£1.35,20g,spinach
+119,Fruits and vegetables,"Tesco Organic Pepper 250G, £1.60 each",0.5 yellow pepper,1,£1.60,0.5,pepper
 120,Fruits and vegetables,"Tesco Aubergine Each, £0.85 each",3 aubergines,3,£2.55,3,aubergines
 120,Fruits and vegetables,"Courgettes Loose Class 1 0.20kg, £0.58 / 0.2kg",3 courgettes,0.6,£1.74,3,courgettes
 120,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",1 garlic clove,1,£0.95,1 clove,garlic
 120,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",1 onion,0.12,£0.12,1,onion
 121,Fruits and vegetables,"Tesco Cut Basil 30G, £0.52 each",5 tbsp basil,1,£0.52,5 tbsp,basil
-121,Fruits and vegetables,"Tesco Bay Leaves 3G, £0.90 each",2 bay leaves,1,£0.90,2,bay leaves
-121,Fruits and vegetables,"Tesco Finest Sugarbelle Tomatoes 400G, £3.15 each",3 beef tomatoes,1,£3.15,3,beef tomatoes
-121,Fruits and vegetables,"Finest Echalion Shallots 400G, £1.35 each",4 banana shallots,1,£1.35,4,banana shallots
-121,Fruits and vegetables,"Tesco Fresh Cut Flat Leaf Parsley 30G, £0.60 each",5 tbsp flat-leaf parsley,1,£0.60,5 tbsp,flat-leaf parsley
+121,Fruits and vegetables,"Tesco Bay Leaves 3G, £0.90 each",2 bay leaves,1,£0.90,2,bay leaf
+121,Fruits and vegetables,"Tesco Finest Sugarbelle Tomatoes 400G, £3.15 each",3 beef tomatoes,1,£3.15,3,tomato
+121,Fruits and vegetables,"Finest Echalion Shallots 400G, £1.35 each",4 banana shallots,1,£1.35,4,onion
+121,Fruits and vegetables,"Tesco Fresh Cut Flat Leaf Parsley 30G, £0.60 each",5 tbsp flat-leaf parsley,1,£0.60,5 tbsp,parsley
 121,Fruits and vegetables,"Tesco Thyme 20G, £0.52 each",2 tsp thyme,1,£0.52,2 tsp,thyme
 121,Fruits and vegetables,"Tesco Organic Garlic 3 Pack, £1.00 each",10 peeled and finely chopped garlic cloves,1,£1.00,10 cloves,garlic
-121,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",1 red onion,0.21,£0.21,1,red onion
+121,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",1 red onion,0.21,£0.21,1,onion
 121,Fruits and vegetables,"Tesco Wild Rocket 60G, £1.10 each",200g rocket,4,£4.40,200g,rocket
 121,Fruits and vegetables,"Tesco Finest Sugarbelle Tomatoes 400G, £3.15 each",1kg tomato,3,£9.45,1kg,tomato
-122,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",0.5 juice of lemon,1,£0.55,0.5,juice of lemon
+122,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",0.5 juice of lemon,1,£0.55,0.5,lemon
 122,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",2 cloves garlic,1,£0.95,2 cloves,garlic
 122,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",1 onion,0.12,£0.12,1,onion
-122,Fruits and vegetables,"Tesco Fresh Cut Curled Parsley 30G, £0.60 each",parsley leaves,1,£0.60,,parsley leaves
-122,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",1 red chilli,1,£0.70,1,red chilli
+122,Fruits and vegetables,"Tesco Fresh Cut Curled Parsley 30G, £0.60 each",parsley leaves,1,£0.60,,parsley
+122,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",1 red chilli,1,£0.70,1,chilli
 123,Fruits and vegetables,"Tesco Broccoli 375G, £0.86 each",1 head broccoli,1,£0.86,1 head,broccoli
-123,Fruits and vegetables,"Tesco Thyme 20G, £0.52 each",4 sprigs fresh thyme,1,£0.52,4 sprigs,fresh thyme
+123,Fruits and vegetables,"Tesco Thyme 20G, £0.52 each",4 sprigs fresh thyme,1,£0.52,4 sprigs,thyme
 123,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",1 clove garlic,1,£0.95,1 clove,garlic
-123,Fruits and vegetables,"Tesco Fresh Cut Curled Parsley 30G, £0.60 each",1 tbsp fresh parsley,1,£0.60,1 tbsp,fresh parsley
-123,Fruits and vegetables,"Tesco Organic Unwaxed Lemons Minimum 3 Pack, £1.80 each",unwaxed lemon,1,£1.80,,unwaxed lemon
+123,Fruits and vegetables,"Tesco Fresh Cut Curled Parsley 30G, £0.60 each",1 tbsp fresh parsley,1,£0.60,1 tbsp,parsley
+123,Fruits and vegetables,"Tesco Organic Unwaxed Lemons Minimum 3 Pack, £1.80 each",unwaxed lemon,1,£1.80,,lemon
 124,Fruits and vegetables,"Asparagus Tips 125G Class 1, £2.00 each",100g asparagus spears,1,£2.00,100g,asparagus spears
 124,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",1 onion,0.12,£0.12,1,onion
-124,Fruits and vegetables,"Tesco Organic Pepper 250G, £1.60 each",1 red pepper,1,£1.60,1,red pepper
+124,Fruits and vegetables,"Tesco Organic Pepper 250G, £1.60 each",1 red pepper,1,£1.60,1,pepper
 124,Fruits and vegetables,"Tesco Wild Rocket 60G, £1.10 each",50g wild rocket,1,£1.10,50g,wild rocket
-125,Fruits and vegetables,"Tesco Cut Basil 30G, £0.52 each",20g fresh basil leaves,1,£0.52,20g,fresh basil leaves
+125,Fruits and vegetables,"Tesco Cut Basil 30G, £0.52 each",20g fresh basil leaves,1,£0.52,20g,basil
 125,Fruits and vegetables,"Tesco Organic Garlic 3 Pack, £1.00 each",2 garlic bulbs,1,£1.00,2 bulbs,garlic
-125,Fruits and vegetables,"Tesco Lemons 4 Pack, £1.35 each",4 lemons,1,£1.35,4,lemons
-125,Fruits and vegetables,"Tesco British Maris Piper 1.25Kg, £1.00 each",1kg maris piper potatoes,1,£1.00,1kg,maris piper potatoes
+125,Fruits and vegetables,"Tesco Lemons 4 Pack, £1.35 each",4 lemons,1,£1.35,4,lemon
+125,Fruits and vegetables,"Tesco British Maris Piper 1.25Kg, £1.00 each",1kg maris piper potatoes,1,£1.00,1kg,potato
 125,Fruits and vegetables,"Redmere Farms Fresh Greens, £0.65 each",greens,1,£0.65,,greens
 126,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",2 garlic cloves,1,£0.95,2 cloves,garlic
-126,Fruits and vegetables,"Tesco Mint 30G, £0.52 each",15g fresh mint leaves,1,£0.52,15g,fresh mint leaves
+126,Fruits and vegetables,"Tesco Mint 30G, £0.52 each",15g fresh mint leaves,1,£0.52,15g,mint
 126,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",1 onion,0.12,£0.12,1,onion
-126,Fruits and vegetables,"Tesco Organic Pepper 250G, £1.60 each",1 red pepper,1,£1.60,1,red pepper
+126,Fruits and vegetables,"Tesco Organic Pepper 250G, £1.60 each",1 red pepper,1,£1.60,1,pepper
 126,Fruits and vegetables,"Tesco British Frilly Leaf Salad 120G, £1.10 each",salad leaves,1,£1.10,,salad leaves
 127,Fruits and vegetables,"Tesco Bay Leaves 3G, £0.90 each",1 bay leaf,1,£0.90,1,bay leaf
-127,Fruits and vegetables,"Tesco Carrots Loose 0.16kg, £0.08 / 0.16kg",2 carrots,0.32,£0.16,2,carrots
+127,Fruits and vegetables,"Tesco Carrots Loose 0.16kg, £0.08 / 0.16kg",2 carrots,0.32,£0.16,2,carrot
 127,Fruits and vegetables,"Celeriac Catchweight 0.20kg, £0.29 / 0.2kg",1 celeriac,1,£1.45,1,celeriac
 127,Fruits and vegetables,"Tesco Celery Sticks 250G, £0.85 each",1 celery stalk,1,£0.85,1 stick,celery
-127,Fruits and vegetables,"Chestnut Mushrooms 250G, £1.10 each",750g mushrooms chestnut,3,£3.30,750g,mushrooms chestnut
+127,Fruits and vegetables,"Chestnut Mushrooms 250G, £1.10 each",750g mushrooms chestnut,3,£3.30,750g,mushroom 
 127,Fruits and vegetables,"Tesco Fennel 250G, £1.25 each",1 fennel,1,£1.25,1,fennel
 127,Fruits and vegetables,"Tesco Thyme 20G, £0.52 each",5 sprigs thyme,1,£0.52,5 sprigs,thyme
 127,Fruits and vegetables,"Tesco Organic Garlic 3 Pack, £1.00 each",3 roughly chopped garlic cloves,1,£1.00,3 cloves,garlic
-127,Fruits and vegetables,"Tesco Extra Large Brown Onions 2 Pack, £1.00 each",4 sliced onions,2,£2.00,4,sliced onions
+127,Fruits and vegetables,"Tesco Extra Large Brown Onions 2 Pack, £1.00 each",4 sliced onions,2,£2.00,4,onion
 127,Fruits and vegetables,"Tesco Fresh Cut Curled Parsley 30G, £0.60 each",parsley,2,£1.20,,parsley
-128,Fruits and vegetables,"Organic Carrots 700G, £1.10 each",500g carrots,1,£1.10,500g,carrots
+128,Fruits and vegetables,"Organic Carrots 700G, £1.10 each",500g carrots,1,£1.10,500g,carrot
 128,Fruits and vegetables,"Tesco Thyme 20G, £0.52 each",1 bunch thyme,2,£1.04,1 bunch,thyme
 128,Fruits and vegetables,"Tesco Organic Garlic 3 Pack, £1.00 each",1 garlic bulb,1,£1.00,1 bulb,garlic
 128,Fruits and vegetables,"Perfectly Imperfect Parsnips 500G, £0.50 each",500g parsnips,1,£0.50,500g,parsnips
-128,Fruits and vegetables,"Tesco Shallots Onions 400G, £1.30 each",12 shallots,1,£1.30,12,shallots
+128,Fruits and vegetables,"Tesco Shallots Onions 400G, £1.30 each",12 shallots,1,£1.30,12,onion
 129,Fruits and vegetables,"Tesco Cut Chives 20G, £1.00 each",1 bunch chives,2,£2.00,1 bunch,chives
 129,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",2 cloves garlic,1,£0.95,2 cloves,garlic
 129,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",1 onion,0.12,£0.12,1,onion
 130,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",1 clove garlic,1,£0.95,1 clove,garlic
-132,Fruits and vegetables,"Tesco Cut Basil 30G, £0.52 each",15g fresh basil,1,£0.52,15g,fresh basil
+132,Fruits and vegetables,"Tesco Cut Basil 30G, £0.52 each",15g fresh basil,1,£0.52,15g,basil
 132,Fruits and vegetables,"Tesco Organic Garlic 3 Pack, £1.00 each",3 garlic cloves,1,£1.00,3 cloves,garlic
-132,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",1 red onion,0.21,£0.21,1,red onion
+132,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",1 red onion,0.21,£0.21,1,onion
 133,Fruits and vegetables,"Cauliflower Extra Large Each, £1.50 each",1 cauliflower,1,£1.50,1,cauliflower
 133,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",0.5 lemon,1,£0.55,0.5,lemon
 133,Fruits and vegetables,"Tesco Wild Rocket 60G, £1.10 each",50g rocket,1,£1.10,50g,rocket
 134,Fruits and vegetables,"Tesco Whole Large Cucumber, £0.95 each",0.5 cucumber,1,£0.95,0.5,cucumber
 134,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",1 garlic clove,1,£0.95,1 clove,garlic
-134,Fruits and vegetables,"Tesco Makrut Lime Leaves 2 Per Pack, £1.10 each",2 kaffir lime leaves,1,£1.10,2,kaffir lime leaves
+134,Fruits and vegetables,"Tesco Makrut Lime Leaves 2 Per Pack, £1.10 each",2 kaffir lime leaves,1,£1.10,2,lime
 134,Fruits and vegetables,"Tesco Thai Lemon Grass Minimum 2 Stems, £0.60 each",1 lemongrass stalk,1,£0.60,1,lemongrass stalk
-134,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",2 red chilli,1,£0.70,2,red chilli
-134,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",2 spring onions,1,£0.50,2,spring onions
+134,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",2 red chilli,1,£0.70,2,chilli
+134,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",2 spring onions,1,£0.50,2,spring onion
 135,Fruits and vegetables,"Large Pink Lady Apples Class 1 Loose 0.17kg, £0.65 / 0.17kg",1 apple,0.17,£0.65,1,apple
 135,Fruits and vegetables,"Tesco Carrots Loose 0.16kg, £0.08 / 0.16kg",1 carrot,0.16,£0.08,1,carrot
 135,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",1 lemon,1,£0.55,1,lemon
-135,Fruits and vegetables,"Tesco Fresh Cut Curled Parsley 30G, £0.60 each",15g to serve fresh parsley leaves,1,£0.60,15g,to serve fresh parsley leaves
+135,Fruits and vegetables,"Tesco Fresh Cut Curled Parsley 30G, £0.60 each",15g to serve fresh parsley leaves,1,£0.60,15g,parsley
 136,Fruits and vegetables,"T.Ready To Eat Large Avocados Each, £0.89 each",1 avocado,1,£0.89,1,avocado
-136,Fruits and vegetables,"Tesco Fresh Cut Flat Leaf Parsley 30G, £0.60 each",flat-leaf parsley,1,£0.60,,flat-leaf parsley
+136,Fruits and vegetables,"Tesco Fresh Cut Flat Leaf Parsley 30G, £0.60 each",flat-leaf parsley,1,£0.60,,parsley
 136,Fruits and vegetables,"Tesco Limes 5 Pack, £1.20 each",0.5 lime,1,£1.20,0.5,lime
 136,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",1 garlic clove,1,£0.95,1 clove,garlic
-136,Fruits and vegetables,"Tesco Finger Chillies 80G, £1.00 each",1 green chilli,1,£1.00,1,green chilli
-136,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",1 red onion,0.21,£0.21,1,red onion
+136,Fruits and vegetables,"Tesco Finger Chillies 80G, £1.00 each",1 green chilli,1,£1.00,1,chilli
+136,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",1 red onion,0.21,£0.21,1,onion
 136,Fruits and vegetables,"Tesco Wild Rocket 60G, £1.10 each",rocket,1,£1.10,,rocket
-137,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",coriander leaves,1,£0.52,,coriander leaves
-137,Fruits and vegetables,"Tesco Flat Leaf Parsley 100G, £1.25 each",parsley leaves,1,£1.25,,parsley leaves
+137,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",coriander leaves,1,£0.52,,coriander
+137,Fruits and vegetables,"Tesco Flat Leaf Parsley 100G, £1.25 each",parsley leaves,1,£1.25,,parsley
 138,Fruits and vegetables,"Leeks Loose Class 2 0.25kg, £0.63 / 0.25kg",1 leek,0.25,£0.63,1,leek
 138,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",1 lemon,1,£0.55,1,lemon
-138,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",1 red chilli,1,£0.70,1,red chilli
-139,Fruits and vegetables,"Tesco Baby Spinach 220G, £1.35 each",150g baby spinach,1,£1.35,150g,baby spinach
-139,Fruits and vegetables,"Tesco Cut Basil 30G, £0.52 each",15g fresh basil,1,£0.52,15g,fresh basil
+138,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",1 red chilli,1,£0.70,1,chilli
+139,Fruits and vegetables,"Tesco Baby Spinach 220G, £1.35 each",150g baby spinach,1,£1.35,150g,spinach
+139,Fruits and vegetables,"Tesco Cut Basil 30G, £0.52 each",15g fresh basil,1,£0.52,15g,basil
 139,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",2 garlic cloves,1,£0.95,2 cloves,garlic
-139,Fruits and vegetables,"Nightingale Farms Peppers 375G, £1.35 each",3 mixed peppers,1,£1.35,3,mixed peppers
-139,Fruits and vegetables,"Tesco Extra Large Brown Onions 2 Pack, £1.00 each",2 onions,1,£1.00,2,onions
+139,Fruits and vegetables,"Nightingale Farms Peppers 375G, £1.35 each",3 mixed peppers,1,£1.35,3,pepper
+139,Fruits and vegetables,"Tesco Extra Large Brown Onions 2 Pack, £1.00 each",2 onions,1,£1.00,2,onion
 140,Fruits and vegetables,"Tesco Dill 20G, £0.60 each",30g dill,2,£1.20,30g,dill
 140,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",2 garlic cloves,1,£0.95,2 cloves,garlic
 140,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",1 onion,0.12,£0.12,1,onion
-141,Fruits and vegetables,"Tesco Cut Basil 30G, £0.52 each",10g fresh basil,1,£0.52,10g,fresh basil
+141,Fruits and vegetables,"Tesco Cut Basil 30G, £0.52 each",10g fresh basil,1,£0.52,10g,basil
 141,Fruits and vegetables,"Courgettes Loose Class 1 0.20kg, £0.58 / 0.2kg",2 courgettes,0.4,£1.16,2,courgettes
 142,Fruits and vegetables,"Tesco Butternut Squash Each, £1.35 each",0.5 butternut squash,1,£1.35,0.5,butternut squash
-142,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",30g fresh coriander,1,£0.52,30g,fresh coriander
-142,Fruits and vegetables,"Tesco Finger Chillies 80G, £1.00 each",1 green chilli,1,£1.00,1,green chilli
+142,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",30g fresh coriander,1,£0.52,30g,coriander
+142,Fruits and vegetables,"Tesco Finger Chillies 80G, £1.00 each",1 green chilli,1,£1.00,1,chilli
 142,Fruits and vegetables,"Tesco Limes 5 Pack, £1.20 each",1 lime,1,£1.20,1,lime
-142,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",1 red onion,0.21,£0.21,1,red onion
-143,Fruits and vegetables,"Tesco Trimmed Tenderstem Broccoli 80G, £1.25 each",150g tenderstem broccoli,2,£2.50,150g,tenderstem broccoli
-143,Fruits and vegetables,"Tesco Finest Baby Potatoes 360G, £2.50 each",250g new potatoes,1,£2.50,250g,new potatoes
+142,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",1 red onion,0.21,£0.21,1,onion
+143,Fruits and vegetables,"Tesco Trimmed Tenderstem Broccoli 80G, £1.25 each",150g tenderstem broccoli,2,£2.50,150g,broccoli
+143,Fruits and vegetables,"Tesco Finest Baby Potatoes 360G, £2.50 each",250g new potatoes,1,£2.50,250g,potato
 143,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",1 garlic clove,1,£0.95,1 clove,garlic
 143,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",0.5 onion,0.12,£0.12,0.5,onion
 143,Fruits and vegetables,"Tesco Finest Oyster Mushroom Cluster 150G, £1.80 each",300g oyster mushroom,2,£3.60,300g,oyster mushroom
 144,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",1 garlic clove,1,£0.95,1 clove,garlic
 144,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",1 lemon,1,£0.55,1,lemon
-144,Fruits and vegetables,"Tesco Fresh Cut Curled Parsley 30G, £0.60 each",15g fresh parsley,1,£0.60,15g,fresh parsley
-144,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",1 red chillies,1,£0.70,1,red chillies
-145,Fruits and vegetables,"Tesco Finest Baby Potatoes 750G, £1.40 each",450g baby potatoes,1,£1.40,450g,baby potatoes
+144,Fruits and vegetables,"Tesco Fresh Cut Curled Parsley 30G, £0.60 each",15g fresh parsley,1,£0.60,15g,parsley
+144,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",1 red chillies,1,£0.70,1,chilli
+145,Fruits and vegetables,"Tesco Finest Baby Potatoes 750G, £1.40 each",450g baby potatoes,1,£1.40,450g,baby potato
 145,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",2 garlic cloves,1,£0.95,2 cloves,garlic
 145,Fruits and vegetables,"Leeks Loose Class 2 0.25kg, £0.63 / 0.25kg",1 leek,0.25,£0.63,1,leek
-145,Fruits and vegetables,"Tesco Fresh Cut Curled Parsley 30G, £0.60 each",10g fresh parsley,1,£0.60,10g,fresh parsley
+145,Fruits and vegetables,"Tesco Fresh Cut Curled Parsley 30G, £0.60 each",10g fresh parsley,1,£0.60,10g,parsley
 145,Fruits and vegetables,"Redmere Farms Fresh Greens, £0.65 each",200g fresh greens,1,£0.65,200g,fresh greens
-146,Fruits and vegetables,"Tesco Thyme 20G, £0.52 each",15g fresh thyme,1,£0.52,15g,fresh thyme
+146,Fruits and vegetables,"Tesco Thyme 20G, £0.52 each",15g fresh thyme,1,£0.52,15g,thyme
 146,Fruits and vegetables,"Tesco Organic Garlic 3 Pack, £1.00 each",6 garlic cloves,1,£1.00,6 cloves,garlic
 146,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",1 lemon,1,£0.55,1,lemon
-146,Fruits and vegetables,"Tesco Mint 30G, £0.52 each",15g fresh mint leaves,1,£0.52,15g,fresh mint leaves
+146,Fruits and vegetables,"Tesco Mint 30G, £0.52 each",15g fresh mint leaves,1,£0.52,15g,mint
 146,Fruits and vegetables,"Tesco Pomegranate Seeds 80G, £1.15 each",1 pomegranate,2,£2.30,1,pomegranate
-146,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",2 red onions,0.21,£0.21,2,red onions
+146,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",2 red onions,0.21,£0.21,2,onion
 147,Fruits and vegetables,"Tesco Organic Garlic 3 Pack, £1.00 each",6 garlic cloves,1,£1.00,6 cloves,garlic
-148,Fruits and vegetables,"Large Potatoes Baking Loose 0.30kg, £0.21 / 0.3kg",4 baking potatoes,0.9,£0.63,4,baking potatoes
-148,Fruits and vegetables,"Tesco Carrots Loose 0.16kg, £0.08 / 0.16kg",250g carrots,0.48,£0.24,250g,carrots
+148,Fruits and vegetables,"Large Potatoes Baking Loose 0.30kg, £0.21 / 0.3kg",4 baking potatoes,0.9,£0.63,4,potato
+148,Fruits and vegetables,"Tesco Carrots Loose 0.16kg, £0.08 / 0.16kg",250g carrots,0.48,£0.24,250g,carrot
 148,Fruits and vegetables,"Love Beets Cooked Beetroot 250G, £0.65 each",200g beetroot,1,£0.65,200g,beetroot
-148,Fruits and vegetables,"Tesco Fresh Cut Flat Leaf Parsley 30G, £0.60 each",10g fresh flat-leaf parsley,1,£0.60,10g,fresh flat-leaf parsley
+148,Fruits and vegetables,"Tesco Fresh Cut Flat Leaf Parsley 30G, £0.60 each",10g fresh flat-leaf parsley,1,£0.60,10g,parsley
 148,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",2 garlic cloves,1,£0.95,2 cloves,garlic
 148,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",1 lemon,1,£0.55,1,lemon
-149,Fruits and vegetables,"Tesco Bay Leaves 3G, £0.90 each",2 bay leaves,1,£0.90,2,bay leaves
+149,Fruits and vegetables,"Tesco Bay Leaves 3G, £0.90 each",2 bay leaves,1,£0.90,2,bay leaf
 149,Fruits and vegetables,"Tesco Carrots Loose 0.16kg, £0.08 / 0.16kg",1 carrot,0.16,£0.08,1,carrot
 149,Fruits and vegetables,"Cauliflower Extra Large Each, £1.50 each",500g cauliflower,1,£1.50,500g,cauliflower
 149,Fruits and vegetables,"Tesco Celery Sticks 250G, £0.85 each",1 celery stick,1,£0.85,1 stick,celery
 149,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",2 garlic cloves,1,£0.95,2 cloves,garlic
 149,Fruits and vegetables,"Tesco Green Beans 80G, £1.25 each",green beans,1,£1.25,,green beans
-149,Fruits and vegetables,"Tesco Fresh Cut Curled Parsley 30G, £0.60 each",5g fresh parsley,1,£0.60,5g,fresh parsley
-149,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",1 red onion,0.21,£0.21,1,red onion
-149,Fruits and vegetables,"Tesco Finest Shiitake Mushrooms 125G, £1.75 each",shiitake mushroom,2,£3.50,,shiitake mushroom
+149,Fruits and vegetables,"Tesco Fresh Cut Curled Parsley 30G, £0.60 each",5g fresh parsley,1,£0.60,5g,parsley
+149,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",1 red onion,0.21,£0.21,1,onion
+149,Fruits and vegetables,"Tesco Finest Shiitake Mushrooms 125G, £1.75 each",shiitake mushroom,2,£3.50,,mushroom
