@@ -1,148 +1,148 @@
-﻿recipe_id,section,item,ingredient,quantity,price,quantities,raw_ingredients
-0,Dairy and eggs,"Tesco Finest Red Leicester Truckle 200G, £2.20 each",red leicester cheese,1,£2.20,,red leicester cheese
+recipe_id,section,item,ingredient,quantity,price,quantities,raw_ingredients
+0,Dairy and eggs,"Tesco Finest Red Leicester Truckle 200G, £2.20 each",red leicester cheese,1,£2.20,, cheese
 1,Dairy and eggs,"Happy Egg Co Large Free Range Eggs 6 Pack, £2.50 each",1 egg,1,£2.50,1,egg
 3,Dairy and eggs,"Tesco Organic Unsalted Butter 250G, £2.75 each",50g butter,1,£2.75,50g,butter
 3,Dairy and eggs,"Tesco Mozzarella 240G, £1.00 each",125g mozzarella,1,£1.00,125g,mozzarella
-3,Dairy and eggs,"Tesco British Medium Grated Cheddar 250G, £2.65 each",100g cheddar,1,£2.65,100g,cheddar
+3,Dairy and eggs,"Tesco British Medium Grated Cheddar 250G, £2.65 each",100g cheddar,1,£2.65,100g,cheese
 4,Dairy and eggs,"Tesco Organic Unsalted Butter 250G, £2.75 each",10g butter,1,£2.75,10g,butter
 4,Dairy and eggs,"Happy Egg Co Large Free Range Eggs 6 Pack, £2.50 each",1 egg,1,£2.50,1,egg
-4,Dairy and eggs,"Tesco Semi Skimmed Milk 568Ml/1 Pint, £0.95 each",75ml semi-skimmed milk,1,£0.95,75ml,semi-skimmed milk
-5,Dairy and eggs,"Happy Egg Co Large Free Range Eggs 6 Pack, £2.50 each",4 eggs,1,£2.50,4,eggs
-8,Dairy and eggs,"Alpro Plain No Sugars Yogurt Alternative 500G, £2.10 each",300g dairy-free yogurt alternative,1,£2.10,300g,dairy-free yogurt alternative
-9,Dairy and eggs,"Happy Egg Co Large Free Range Eggs 6 Pack, £2.50 each",4 eggs,1,£2.50,4,eggs
-10,Dairy and eggs,"Tesco Grated 30% Reduced Fat Mature Cheese 250G, £2.65 each",100g lighter cheddar,1,£2.65,100g,lighter cheddar
-10,Dairy and eggs,"Tesco Skimmed Milk 568Ml/1 Pint, £0.95 each",400ml skimmed milk,1,£0.95,400ml,skimmed milk
+4,Dairy and eggs,"Tesco Semi Skimmed Milk 568Ml/1 Pint, £0.95 each",75ml semi-skimmed milk,1,£0.95,75ml,milk
+5,Dairy and eggs,"Happy Egg Co Large Free Range Eggs 6 Pack, £2.50 each",4 eggs,1,£2.50,4,egg
+8,Dairy and eggs,"Alpro Plain No Sugars Yogurt Alternative 500G, £2.10 each",300g dairy-free yogurt alternative,1,£2.10,300g,dairy-free yogurt
+9,Dairy and eggs,"Happy Egg Co Large Free Range Eggs 6 Pack, £2.50 each",4 eggs,1,£2.50,4,egg
+10,Dairy and eggs,"Tesco Grated 30% Reduced Fat Mature Cheese 250G, £2.65 each",100g lighter cheddar,1,£2.65,100g,cheese
+10,Dairy and eggs,"Tesco Skimmed Milk 568Ml/1 Pint, £0.95 each",400ml skimmed milk,1,£0.95,400ml,milk
 11,Dairy and eggs,"Happy Egg Co Large Free Range Eggs 6 Pack, £2.50 each",1 egg,1,£2.50,1,egg
 11,Dairy and eggs,"Theos Filo Pastry Ready Rolled 250G, £1.70 each",250g filo pastry,1,£1.70,250g,filo pastry
-11,Dairy and eggs,"Yeo Valley Natural Yogurt 150G, £0.85 each",50g natural yogurt,1,£0.85,50g,natural yogurt
+11,Dairy and eggs,"Yeo Valley Natural Yogurt 150G, £0.85 each",50g natural yogurt,1,£0.85,50g,yogurt
 14,Dairy and eggs,"Tesco Parmigiano Reggiano 100G, £2.10 each",25g parmesan,1,£2.10,25g,parmesan
 17,Dairy and eggs,"Tesco Organic Unsalted Butter 250G, £2.75 each",30g butter,1,£2.75,30g,butter
 20,Dairy and eggs,"Tesco Soft Cheese Plain Full Fat 200G, £1.30 each",3 tbsp soft cheese,1,£1.30,3 tbsp,soft cheese
 20,Dairy and eggs,"Tesco Grated Parmigiano Reggiano 100G, £2.35 each",40g parmesan,1,£2.35,40g,parmesan
-21,Dairy and eggs,"Coconut Collaborative Dairy Free Natural Coconut Yogurt 350G, £2.95 each",soya yogurt,1,£2.95,,soya yogurt
-22,Dairy and eggs,"Tesco Soured Cream 150Ml, £0.75 each",4 tbsp soured cream,1,£0.75,4 tbsp,soured cream
+21,Dairy and eggs,"Coconut Collaborative Dairy Free Natural Coconut Yogurt 350G, £2.95 each",soya yogurt,1,£2.95,,dairy-free yogurt
+22,Dairy and eggs,"Tesco Soured Cream 150Ml, £0.75 each",4 tbsp soured cream,1,£0.75,4 tbsp,single cream
 23,Dairy and eggs,"The Tofoo Co. Naked Xl Extra Firm Organic Tofu 450G, £3.50 each",extra firm tofu,1,£3.50,,extra firm tofu
-24,Dairy and eggs,"Happy Egg Co Large Free Range Eggs 6 Pack, £2.50 each",2 eggs,1,£2.50,2,eggs
-26,Dairy and eggs,"Fage Total 5% Fat Greek Recipe Yogurt 150G, £1.50 each",200g greek yogurt,2,£3.00,200g,greek yogurt
+24,Dairy and eggs,"Happy Egg Co Large Free Range Eggs 6 Pack, £2.50 each",2 eggs,1,£2.50,2,egg
+26,Dairy and eggs,"Fage Total 5% Fat Greek Recipe Yogurt 150G, £1.50 each",200g greek yogurt,2,£3.00,200g,yogurt
 27,Dairy and eggs,"Creamfields Mozzarella 210G, £0.69 each",210g mozzarella,1,£0.69,210g,mozzarella
 30,Dairy and eggs,"Ayam Premium Coconut Milk 200Ml, £0.85 each",150ml coconut milk,1,£0.85,150ml,coconut milk
-33,Dairy and eggs,"Tesco Mozzarella Grated 250G, £2.65 each",120g grated mozzarella,1,£2.65,120g,grated mozzarella
-34,Dairy and eggs,"Tesco Reduced Fat Sour Cream & Chive Dip 200G, £1.20 each",200g reduced-fat soured cream & chive dip,1,£1.20,200g,reduced-fat soured cream & chive dip
-35,Dairy and eggs,"Yeo Valley Natural Yogurt 150G, £0.85 each",200g natural yogurt,2,£1.70,200g,natural yogurt
-36,Dairy and eggs,"Jus-Rol Puff Pastry Block 500G, £1.35 each",375g reduced-fat ready-rolled puff pastry,1,£1.35,375g,reduced-fat ready-rolled puff pastry
-36,Dairy and eggs,"Tesco Salad Cheese 200G ., £1.35 each",150g salad cheese,1,£1.35,150g,salad cheese
+33,Dairy and eggs,"Tesco Mozzarella Grated 250G, £2.65 each",120g grated mozzarella,1,£2.65,120g,mozzarella
+34,Dairy and eggs,"Tesco Reduced Fat Sour Cream & Chive Dip 200G, £1.20 each",200g reduced-fat soured cream & chive dip,1,£1.20,200g,single cream
+35,Dairy and eggs,"Yeo Valley Natural Yogurt 150G, £0.85 each",200g natural yogurt,2,£1.70,200g,yogurt
+36,Dairy and eggs,"Jus-Rol Puff Pastry Block 500G, £1.35 each",375g reduced-fat ready-rolled puff pastry,1,£1.35,375g,puff pastry
+36,Dairy and eggs,"Tesco Salad Cheese 200G ., £1.35 each",150g salad cheese,1,£1.35,150g,feta cheese
 38,Dairy and eggs,"Tesco Fresh Single Cream 150Ml, £0.80 each",75ml single cream,1,£0.80,75ml,single cream
-40,Dairy and eggs,"Tesco Reduced Fat Mozzarella 240G, £1.00 each",240g reduced-fat mozzarella,2,£2.00,240g,reduced-fat mozzarella
-40,Dairy and eggs,"Yeo Valley Natural Yogurt 150G, £0.85 each",100g natural yogurt,1,£0.85,100g,natural yogurt
-42,Dairy and eggs,"Mlekovita Butter 200G, £2.20 each",75g unsalted butter,1,£2.20,75g,unsalted butter
-44,Dairy and eggs,"Mlekovita Butter 200G, £2.20 each",2 tbsp unsalted butter,1,£2.20,2 tbsp,unsalted butter
+40,Dairy and eggs,"Tesco Reduced Fat Mozzarella 240G, £1.00 each",240g reduced-fat mozzarella,2,£2.00,240g,mozzarella
+40,Dairy and eggs,"Yeo Valley Natural Yogurt 150G, £0.85 each",100g natural yogurt,1,£0.85,100g,yogurt
+42,Dairy and eggs,"Mlekovita Butter 200G, £2.20 each",75g unsalted butter,1,£2.20,75g,butter
+44,Dairy and eggs,"Mlekovita Butter 200G, £2.20 each",2 tbsp unsalted butter,1,£2.20,2 tbsp,butter
 45,Dairy and eggs,"Tesco Organic Unsalted Butter 250G, £2.75 each",1 tbsp butter,1,£2.75,1 tbsp,butter
 46,Dairy and eggs,"Alpro Plain No Sugars Yogurt Alternative 500G, £2.10 each",150g dairy-free yogurt,1,£2.10,150g,dairy-free yogurt
 47,Dairy and eggs,"Tesco Organic Unsalted Butter 250G, £2.75 each",40g butter,1,£2.75,40g,butter
 47,Dairy and eggs,"Tesco Grated Parmigiano Reggiano 100G, £2.35 each",80g parmesan,1,£2.35,80g,parmesan
-48,Dairy and eggs,"Yeo Valley Natural Yogurt 150G, £0.85 each",natural yogurt,1,£0.85,,natural yogurt
-49,Dairy and eggs,"Happy Egg Co Large Free Range Eggs 6 Pack, £2.50 each",2 eggs,1,£2.50,2,eggs
-50,Dairy and eggs,"Tesco British Medium Grated Cheddar 250G, £2.65 each",75g cheddar,1,£2.65,75g,cheddar
-50,Dairy and eggs,"Mlekovita Butter 200G, £2.20 each",50g unsalted butter,1,£2.20,50g,unsalted butter
-51,Dairy and eggs,"Tesco Finest Coastal Bite Cheddar 200G, £2.30 each",50g cheddar,1,£2.30,50g,cheddar
-52,Dairy and eggs,"Yeo Valley Natural Yogurt 150G, £0.85 each",4 tbsp natural yogurt,1,£0.85,4 tbsp,natural yogurt
-53,Dairy and eggs,"Tesco Mozzarella 240G, £1.00 each",125g mozzarella cheese,1,£1.00,125g,mozzarella cheese
-54,Dairy and eggs,"Yeo Valley Natural Yogurt 150G, £0.85 each",100g natural yogurt,1,£0.85,100g,natural yogurt
+48,Dairy and eggs,"Yeo Valley Natural Yogurt 150G, £0.85 each",natural yogurt,1,£0.85,,yogurt
+49,Dairy and eggs,"Happy Egg Co Large Free Range Eggs 6 Pack, £2.50 each",2 eggs,1,£2.50,2,egg
+50,Dairy and eggs,"Tesco British Medium Grated Cheddar 250G, £2.65 each",75g cheddar,1,£2.65,75g,cheese
+50,Dairy and eggs,"Mlekovita Butter 200G, £2.20 each",50g unsalted butter,1,£2.20,50g,butter
+51,Dairy and eggs,"Tesco Finest Coastal Bite Cheddar 200G, £2.30 each",50g cheddar,1,£2.30,50g,cheese
+52,Dairy and eggs,"Yeo Valley Natural Yogurt 150G, £0.85 each",4 tbsp natural yogurt,1,£0.85,4 tbsp,yogurt
+53,Dairy and eggs,"Tesco Mozzarella 240G, £1.00 each",125g mozzarella cheese,1,£1.00,125g,mozzarella
+54,Dairy and eggs,"Yeo Valley Natural Yogurt 150G, £0.85 each",100g natural yogurt,1,£0.85,100g,yogurt
 55,Dairy and eggs,"Tesco Parmigiano Reggiano 100G, £2.10 each",80g cheese,1,£2.10,80g,cheese
 56,Dairy and eggs,"Tesco Soya Drink Sweetened 1Ltr, £1.25 each",200ml soya milk alternative,1,£1.25,200ml,soya milk alternative
-57,Dairy and eggs,"Tesco Finest Coastal Bite Cheddar 200G, £2.30 each",60g cheddar,1,£2.30,60g,cheddar
-59,Dairy and eggs,"Tesco Salad Cheese 200G ., £1.35 each",200g salad cheese,1,£1.35,200g,salad cheese
-60,Dairy and eggs,"Happy Egg Co Large Free Range Eggs 6 Pack, £2.50 each",2 eggs,1,£2.50,2,eggs
-66,Dairy and eggs,"Yeo Valley Natural Yogurt 150G, £0.85 each",100g natural yogurt,1,£0.85,100g,natural yogurt
+57,Dairy and eggs,"Tesco Finest Coastal Bite Cheddar 200G, £2.30 each",60g cheddar,1,£2.30,60g,cheese
+59,Dairy and eggs,"Tesco Salad Cheese 200G ., £1.35 each",200g salad cheese,1,£1.35,200g,feta cheese
+60,Dairy and eggs,"Happy Egg Co Large Free Range Eggs 6 Pack, £2.50 each",2 eggs,1,£2.50,2,egg
+66,Dairy and eggs,"Yeo Valley Natural Yogurt 150G, £0.85 each",100g natural yogurt,1,£0.85,100g,yogurt
 67,Dairy and eggs,"Shagun Paneer Cheese 0.05kg, £0.40 / 0.05kg",200g paneer,0.2,£1.58,200g,paneer
-67,Dairy and eggs,"Mlekovita Butter 200G, £2.20 each",1 tbsp unsalted butter,1,£2.20,1 tbsp,unsalted butter
+67,Dairy and eggs,"Mlekovita Butter 200G, £2.20 each",1 tbsp unsalted butter,1,£2.20,1 tbsp,butter
 68,Dairy and eggs,"Tesco Organic Unsalted Butter 250G, £2.75 each",15g butter,1,£2.75,15g,butter
-69,Dairy and eggs,"Yeo Valley Natural Yogurt 150G, £0.85 each",natural yogurt,1,£0.85,,natural yogurt
+69,Dairy and eggs,"Yeo Valley Natural Yogurt 150G, £0.85 each",natural yogurt,1,£0.85,,yogurt
 70,Dairy and eggs,"Happy Egg Co Large Free Range Eggs 6 Pack, £2.50 each",1 egg,1,£2.50,1,egg
-70,Dairy and eggs,"Tesco Salad Cheese 200G ., £1.35 each",200g salad cheese,1,£1.35,200g,salad cheese
+70,Dairy and eggs,"Tesco Salad Cheese 200G ., £1.35 each",200g salad cheese,1,£1.35,200g,feta cheese
 71,Dairy and eggs,"Tesco Ricotta 250G, £1.35 each",160g ricotta,1,£1.35,160g,ricotta
-74,Dairy and eggs,"Happy Egg Co Large Free Range Eggs 6 Pack, £2.50 each",4 eggs,1,£2.50,4,eggs
+74,Dairy and eggs,"Happy Egg Co Large Free Range Eggs 6 Pack, £2.50 each",4 eggs,1,£2.50,4,egg
 75,Dairy and eggs,"Tesco Soft Cheese Plain Full Fat 200G, £1.30 each",100g soft cheese,1,£1.30,100g,soft cheese
-75,Dairy and eggs,"Theos Filo Pastry Ready Rolled 250G, £1.70 each",6 sheets filo pastry,1,£1.70,6,sheets filo pastry
+75,Dairy and eggs,"Theos Filo Pastry Ready Rolled 250G, £1.70 each",6 sheets filo pastry,1,£1.70,6,filo pastry
 76,Dairy and eggs,"Tesco Houmous Red Pepper 182G, £1.20 each",100g red pepper houmous,1,£1.20,100g,red pepper houmous
-77,Dairy and eggs,"Cathedral City Mature Grated 180G, £2.30 each",100g mature cheddar,1,£2.30,100g,mature cheddar
+77,Dairy and eggs,"Cathedral City Mature Grated 180G, £2.30 each",100g mature cheddar,1,£2.30,100g,cheese
 79,Dairy and eggs,"Tesco Organic Unsalted Butter 250G, £2.75 each",40g butter,1,£2.75,40g,butter
 79,Dairy and eggs,"Tesco Whole Milk 568Ml/1 Pint, £0.95 each",550ml milk,1,£0.95,550ml,milk
-79,Dairy and eggs,"Cathedral City Mature Grated 180G, £2.30 each",300g mature cheddar,2,£4.60,300g,mature cheddar
-85,Dairy and eggs,"Tesco Soft Cheese 50% Less Fat Garlic & Herb 200G, £1.30 each",5 tbsp 50% less fat garlic and herb soft cheese,1,£1.30,5 tbsp,50% less fat garlic and herb soft cheese
-86,Dairy and eggs,"Happy Egg Co Large Free Range Eggs 6 Pack, £2.50 each",4 eggs,1,£2.50,4,eggs
-86,Dairy and eggs,"Jus-Rol Puff Pastry Block 500G, £1.35 each",375g lighter ready-rolled puff pastry,1,£1.35,375g,lighter ready-rolled puff pastry
-87,Dairy and eggs,"Tesco British Medium Grated Cheddar 250G, £2.65 each",150g cheddar,1,£2.65,150g,cheddar
-89,Dairy and eggs,"Tesco Finest Coastal Bite Cheddar 200G, £2.30 each",25g cheddar cheese,1,£2.30,25g,cheddar cheese
+79,Dairy and eggs,"Cathedral City Mature Grated 180G, £2.30 each",300g mature cheddar,2,£4.60,300g,cheese
+85,Dairy and eggs,"Tesco Soft Cheese 50% Less Fat Garlic & Herb 200G, £1.30 each",5 tbsp 50% less fat garlic and herb soft cheese,1,£1.30,5 tbsp,soft cheese
+86,Dairy and eggs,"Happy Egg Co Large Free Range Eggs 6 Pack, £2.50 each",4 eggs,1,£2.50,4,egg
+86,Dairy and eggs,"Jus-Rol Puff Pastry Block 500G, £1.35 each",375g lighter ready-rolled puff pastry,1,£1.35,375g,puff pastry
+87,Dairy and eggs,"Tesco British Medium Grated Cheddar 250G, £2.65 each",150g cheddar,1,£2.65,150g,cheese
+89,Dairy and eggs,"Tesco Finest Coastal Bite Cheddar 200G, £2.30 each",25g cheddar cheese,1,£2.30,25g,cheese
 89,Dairy and eggs,"Tesco Fresh Lasagne Sheets 250G, £1.60 each",250g fresh lasagne sheets,1,£1.60,250g,fresh lasagne sheets
-89,Dairy and eggs,"Tesco Semi Skimmed Milk 568Ml/1 Pint, £0.95 each",300ml semi-skimmed milk,1,£0.95,300ml,semi-skimmed milk
-92,Dairy and eggs,"Tesco British Salted Block Butter 250G ++, £1.99 each",150g salted butter,1,£1.99,150g,salted butter
-93,Dairy and eggs,"Tesco Parmigiano Reggiano 100G, £2.10 each",50g parmesan cheese,1,£2.10,50g,parmesan cheese
+89,Dairy and eggs,"Tesco Semi Skimmed Milk 568Ml/1 Pint, £0.95 each",300ml semi-skimmed milk,1,£0.95,300ml,milk
+92,Dairy and eggs,"Tesco British Salted Block Butter 250G ++, £1.99 each",150g salted butter,1,£1.99,150g,butter
+93,Dairy and eggs,"Tesco Parmigiano Reggiano 100G, £2.10 each",50g parmesan cheese,1,£2.10,50g,parmesan
 95,Dairy and eggs,"Tesco Organic Unsalted Butter 250G, £2.75 each",25g butter,1,£2.75,25g,butter
 96,Dairy and eggs,"Tesco Full Fat Creme Fraiche 300Ml, £1.05 each",creme fraiche,1,£1.05,,creme fraiche
-97,Dairy and eggs,"Tesco British Medium Grated Cheddar 250G, £2.65 each",60g cheddar cheese grated,1,£2.65,60g,cheddar cheese grated
-99,Dairy and eggs,"Cathedral City Lighter Cheddar 350G, £3.25 each",50g lighter mature cheddar,1,£3.25,50g,lighter mature cheddar
-101,Dairy and eggs,"Happy Egg Co Large Free Range Eggs 6 Pack, £2.50 each",6 eggs,1,£2.50,6,eggs
+97,Dairy and eggs,"Tesco British Medium Grated Cheddar 250G, £2.65 each",60g cheddar cheese grated,1,£2.65,60g,cheese
+99,Dairy and eggs,"Cathedral City Lighter Cheddar 350G, £3.25 each",50g lighter mature cheddar,1,£3.25,50g,cheese
+101,Dairy and eggs,"Happy Egg Co Large Free Range Eggs 6 Pack, £2.50 each",6 eggs,1,£2.50,6,egg
 102,Dairy and eggs,"Happy Egg Co Large Free Range Eggs 6 Pack, £2.50 each",1 egg,1,£2.50,1,egg
-102,Dairy and eggs,"Jus-Rol Puff Pastry Block 500G, £1.35 each",750g ready-rolled light puff pastry,2,£2.70,750g,ready-rolled light puff pastry
+102,Dairy and eggs,"Jus-Rol Puff Pastry Block 500G, £1.35 each",750g ready-rolled light puff pastry,2,£2.70,750g,puff pastry
 102,Dairy and eggs,"Tesco Whole Milk 568Ml/1 Pint, £0.95 each",300ml milk,1,£0.95,300ml,milk
-102,Dairy and eggs,"Cathedral City Mature Grated 180G, £2.30 each",100g strong cheddar,1,£2.30,100g,strong cheddar
-102,Dairy and eggs,"Mlekovita Butter 200G, £2.20 each",40g unsalted butter,1,£2.20,40g,unsalted butter
+102,Dairy and eggs,"Cathedral City Mature Grated 180G, £2.30 each",100g strong cheddar,1,£2.30,100g,cheese
+102,Dairy and eggs,"Mlekovita Butter 200G, £2.20 each",40g unsalted butter,1,£2.20,40g,butter
 103,Dairy and eggs,"Tesco Whole Milk 2 Pints/1.13L, £1.30 each",milk,1,£1.30,,milk
-103,Dairy and eggs,"Tesco Soured Cream 150Ml, £0.75 each",4 tbsp soured cream,1,£0.75,4 tbsp,soured cream
-105,Dairy and eggs,"Happy Egg Co Large Free Range Eggs 6 Pack, £2.50 each",4 eggs,1,£2.50,4,eggs
-106,Dairy and eggs,"Tesco White Stilton 180G, £2.30 each",125g gorgonzola,1,£2.30,125g,gorgonzola
-106,Dairy and eggs,"Tesco Grated Parmigiano Reggiano 100G, £2.35 each",3 tbsp grated parmesan,1,£2.35,3 tbsp,grated parmesan
+103,Dairy and eggs,"Tesco Soured Cream 150Ml, £0.75 each",4 tbsp soured cream,1,£0.75,4 tbsp,single cream
+105,Dairy and eggs,"Happy Egg Co Large Free Range Eggs 6 Pack, £2.50 each",4 eggs,1,£2.50,4,egg
+106,Dairy and eggs,"Tesco White Stilton 180G, £2.30 each",125g gorgonzola,1,£2.30,125g,cheese
+106,Dairy and eggs,"Tesco Grated Parmigiano Reggiano 100G, £2.35 each",3 tbsp grated parmesan,1,£2.35,3 tbsp,parmesan
 106,Dairy and eggs,"Tesco Fresh Single Cream 300Ml, £1.20 each",200ml single cream,1,£1.20,200ml,single cream
-107,Dairy and eggs,"Tesco Parmigiano Reggiano 100G, £2.10 each",100g hard cheese,1,£2.10,100g,hard cheese
+107,Dairy and eggs,"Tesco Parmigiano Reggiano 100G, £2.10 each",100g hard cheese,1,£2.10,100g,cheese
 107,Dairy and eggs,"Yeo Valley Natural Yogurt 150G, £0.85 each",yogurt,1,£0.85,,yogurt
 108,Dairy and eggs,"Mlekovita Butter 200G, £2.20 each",100g butter,1,£2.20,100g,butter
-108,Dairy and eggs,"Happy Egg Co Large Free Range Eggs 6 Pack, £2.50 each",2 eggs,1,£2.50,2,eggs
-108,Dairy and eggs,"Tesco Greek Cheese Feta 200G, £2.00 each",200g feta,1,£2.00,200g,feta
-108,Dairy and eggs,"Theos Filo Pastry Ready Rolled 250G, £1.70 each",8 sheets filo pastry,1,£1.70,8,sheets filo pastry
+108,Dairy and eggs,"Happy Egg Co Large Free Range Eggs 6 Pack, £2.50 each",2 eggs,1,£2.50,2,egg
+108,Dairy and eggs,"Tesco Greek Cheese Feta 200G, £2.00 each",200g feta,1,£2.00,200g,feta cheese
+108,Dairy and eggs,"Theos Filo Pastry Ready Rolled 250G, £1.70 each",8 sheets filo pastry,1,£1.70,8,filo pastry
 108,Dairy and eggs,"Tesco Ricotta 250G, £1.35 each",100g ricotta,1,£1.35,100g,ricotta
-109,Dairy and eggs,"Tesco Semi Skimmed Milk 568Ml/1 Pint, £0.95 each",200ml semi skimmed milk,1,£0.95,200ml,semi skimmed milk
-109,Dairy and eggs,"Mlekovita Butter 200G, £2.20 each",50g unsalted butter,1,£2.20,50g,unsalted butter
-110,Dairy and eggs,"Tesco Lighter Greek Salad Cheese 200G, £1.35 each",75g reduced-fat salad cheese,1,£1.35,75g,reduced-fat salad cheese
+109,Dairy and eggs,"Tesco Semi Skimmed Milk 568Ml/1 Pint, £0.95 each",200ml semi skimmed milk,1,£0.95,200ml,milk
+109,Dairy and eggs,"Mlekovita Butter 200G, £2.20 each",50g unsalted butter,1,£2.20,50g,butter
+110,Dairy and eggs,"Tesco Lighter Greek Salad Cheese 200G, £1.35 each",75g reduced-fat salad cheese,1,£1.35,75g,feta cheese
 111,Dairy and eggs,"Jus-Rol Sourdough Pizza Base 400G, £2.20 each",400g pizza dough,1,£2.20,400g,pizza dough
-111,Dairy and eggs,"Tesco British Medium Grated Cheddar 250G, £2.65 each",100g grated cheddar cheese,1,£2.65,100g,grated cheddar cheese
+111,Dairy and eggs,"Tesco British Medium Grated Cheddar 250G, £2.65 each",100g grated cheddar cheese,1,£2.65,100g,cheese
 112,Dairy and eggs,"Happy Egg Co Large Free Range Eggs 6 Pack, £2.50 each",1 egg,1,£2.50,1,egg
 114,Dairy and eggs,"Mlekovita Butter 200G, £2.20 each",100g butter,1,£2.20,100g,butter
 114,Dairy and eggs,"Tesco Gnocchi 500G, £1.90 each",800g fresh gnocchi,2,£3.80,800g,fresh gnocchi
 117,Dairy and eggs,"Happy Egg Co Large Free Range Eggs 6 Pack, £2.50 each",1 egg,1,£2.50,1,egg
-118,Dairy and eggs,"Yeo Valley Half Fat Organic Creme Fraiche 200G, £1.30 each",150ml 50% less fat crème fraîche,1,£1.30,150ml,50% less fat crème fraîche
+118,Dairy and eggs,"Yeo Valley Half Fat Organic Creme Fraiche 200G, £1.30 each",150ml 50% less fat crème fraîche,1,£1.30,150ml,single cream
 120,Dairy and eggs,"Tesco Grated Parmigiano Reggiano 100G, £2.35 each",50g parmesan,1,£2.35,50g,parmesan
 120,Dairy and eggs,"Tesco Mozzarella 240G, £1.00 each",450g mozzarella,2,£2.00,450g,mozzarella
-121,Dairy and eggs,"Happy Egg Co Large Free Range Eggs 6 Pack, £2.50 each",3 eggs,1,£2.50,3,eggs
+121,Dairy and eggs,"Happy Egg Co Large Free Range Eggs 6 Pack, £2.50 each",3 eggs,1,£2.50,3,egg
 122,Dairy and eggs,"Rajah Coconut Milk 400Ml, £1.00 each",400ml coconut milk,1,£1.00,400ml,coconut milk
-123,Dairy and eggs,"Tesco Soft Cheese Plain Full Fat 200G, £1.30 each",100g full-fat soft cheese,1,£1.30,100g,full-fat soft cheese
-123,Dairy and eggs,"Tesco Parmigiano Reggiano 100G, £2.10 each",25g finely grated parmesan,1,£2.10,25g,finely grated parmesan
+123,Dairy and eggs,"Tesco Soft Cheese Plain Full Fat 200G, £1.30 each",100g full-fat soft cheese,1,£1.30,100g,soft cheese
+123,Dairy and eggs,"Tesco Parmigiano Reggiano 100G, £2.10 each",25g finely grated parmesan,1,£2.10,25g,parmesan
 126,Dairy and eggs,"Jus-Rol Sourdough Pizza Base 400G, £2.20 each",560g pizza dough,2,£4.40,560g,pizza dough
-126,Dairy and eggs,"Tesco Lighter Greek Salad Cheese 200G, £1.35 each",100g reduced-fat salad cheese,1,£1.35,100g,reduced-fat salad cheese
-129,Dairy and eggs,"Tesco Soured Cream 150Ml, £0.75 each",4 tbsp sour cream,1,£0.75,4 tbsp,sour cream
+126,Dairy and eggs,"Tesco Lighter Greek Salad Cheese 200G, £1.35 each",100g reduced-fat salad cheese,1,£1.35,100g,feta cheese
+129,Dairy and eggs,"Tesco Soured Cream 150Ml, £0.75 each",4 tbsp sour cream,1,£0.75,4 tbsp,single cream
 130,Dairy and eggs,"Tesco Finest 6 Free Range Bluebell Aurancana Eggs, £2.50 each",egg,1,£2.50,,egg
-130,Dairy and eggs,"Jus-Rol Puff Pastry Ready Rolled Sheet 320G, £1.75 each",375g ready rolled puff pastry,2,£3.50,375g,ready rolled puff pastry
-130,Dairy and eggs,"Tesco White Stilton 180G, £2.30 each",50g stilton,1,£2.30,50g,stilton
-132,Dairy and eggs,"Tesco Greek Cheese Feta 200G, £2.00 each",crumbled feta cheese,1,£2.00,,crumbled feta cheese
-133,Dairy and eggs,"Capricorn Somerset Goat Cheese 85G, £2.50 each",50g goat’s cheese,1,£2.50,50g,goat’s cheese
+130,Dairy and eggs,"Jus-Rol Puff Pastry Ready Rolled Sheet 320G, £1.75 each",375g ready rolled puff pastry,2,£3.50,375g,puff pastry
+130,Dairy and eggs,"Tesco White Stilton 180G, £2.30 each",50g stilton,1,£2.30,50g,cheese
+132,Dairy and eggs,"Tesco Greek Cheese Feta 200G, £2.00 each",crumbled feta cheese,1,£2.00,,feta cheese
+133,Dairy and eggs,"Capricorn Somerset Goat Cheese 85G, £2.50 each",50g goat’s cheese,1,£2.50,50g,feta cheese
 134,Dairy and eggs,"Ayam Premium Coconut Milk 200Ml, £0.85 each",150ml coconut milk,1,£0.85,150ml,coconut milk
-134,Dairy and eggs,"Happy Egg Co Large Free Range Eggs 6 Pack, £2.50 each",2 eggs,1,£2.50,2,eggs
-135,Dairy and eggs,"Creamfields Greek Style Salad Cheese 200G, £0.85 each",80g greek cheese,1,£0.85,80g,greek cheese
-136,Dairy and eggs,"Tesco Greek Cheese Feta 200G, £2.00 each",75g feta,1,£2.00,75g,feta
+134,Dairy and eggs,"Happy Egg Co Large Free Range Eggs 6 Pack, £2.50 each",2 eggs,1,£2.50,2,egg
+135,Dairy and eggs,"Creamfields Greek Style Salad Cheese 200G, £0.85 each",80g greek cheese,1,£0.85,80g,feta cheese
+136,Dairy and eggs,"Tesco Greek Cheese Feta 200G, £2.00 each",75g feta,1,£2.00,75g,feta cheese
 136,Dairy and eggs,"Happy Egg Co Large Free Range Eggs 6 Pack, £2.50 each",1 egg,1,£2.50,1,egg
-136,Dairy and eggs,"Tesco Soured Cream 150Ml, £0.75 each",soured cream,1,£0.75,,soured cream
+136,Dairy and eggs,"Tesco Soured Cream 150Ml, £0.75 each",soured cream,1,£0.75,,single cream
 137,Dairy and eggs,"Tesco Full Fat Creme Fraiche 300Ml, £1.05 each",creme fraiche,1,£1.05,,creme fraiche
-137,Dairy and eggs,"Happy Egg Co Large Free Range Eggs 6 Pack, £2.50 each",4 small beaten egg,1,£2.50,4,small beaten egg
-137,Dairy and eggs,"Tesco Finest Reserve Swiss Gruyere 195G, £3.80 each",50g gruyere,1,£3.80,50g,gruyere
-137,Dairy and eggs,"Jus-Rol Shortcrust Pastry Ready Rolled Sheet 320G, £1.75 each",light ready rolled shortcrust pastry,1,£1.75,,light ready rolled shortcrust pastry
-137,Dairy and eggs,"Tesco Whole Milk 568Ml/1 Pint, £0.95 each",250ml whole milk,1,£0.95,250ml,whole milk
-140,Dairy and eggs,"Tesco Reduced Fat Mozzarella 240G, £1.00 each",1 ball half-fat mozzarella,1,£1.00,1,ball half-fat mozzarella
-141,Dairy and eggs,"Big & Free Large Free Range Eggs 6 Pack, £2.50 each",1 egg yolk,1,£2.50,1,egg yolk
-141,Dairy and eggs,"Tesco Mascarpone 250G, £1.80 each",200g lighter mascarpone,1,£1.80,200g,lighter mascarpone
-141,Dairy and eggs,"Jus-Rol Puff Pastry Block 500G, £1.35 each",375g lighter puff pastry ready rolled,1,£1.35,375g,lighter puff pastry ready rolled
-142,Dairy and eggs,"Tesco Soured Cream 150Ml, £0.75 each",soured cream,1,£0.75,,soured cream
+137,Dairy and eggs,"Happy Egg Co Large Free Range Eggs 6 Pack, £2.50 each",4 small beaten egg,1,£2.50,4,egg
+137,Dairy and eggs,"Tesco Finest Reserve Swiss Gruyere 195G, £3.80 each",50g gruyere,1,£3.80,50g,cheese
+137,Dairy and eggs,"Jus-Rol Shortcrust Pastry Ready Rolled Sheet 320G, £1.75 each",light ready rolled shortcrust pastry,1,£1.75,,puff pastry
+137,Dairy and eggs,"Tesco Whole Milk 568Ml/1 Pint, £0.95 each",250ml whole milk,1,£0.95,250ml,milk
+140,Dairy and eggs,"Tesco Reduced Fat Mozzarella 240G, £1.00 each",1 ball half-fat mozzarella,1,£1.00,1,mozzarella
+141,Dairy and eggs,"Big & Free Large Free Range Eggs 6 Pack, £2.50 each",1 egg yolk,1,£2.50,1,egg
+141,Dairy and eggs,"Tesco Mascarpone 250G, £1.80 each",200g lighter mascarpone,1,£1.80,200g,cheese
+141,Dairy and eggs,"Jus-Rol Puff Pastry Block 500G, £1.35 each",375g lighter puff pastry ready rolled,1,£1.35,375g,puff pastry
+142,Dairy and eggs,"Tesco Soured Cream 150Ml, £0.75 each",soured cream,1,£0.75,,single cream
 143,Dairy and eggs,"Vitalite Dairy Free Spread 500G, £1.95 each",1 tbsp dairy-free spread,1,£1.95,1 tbsp,dairy-free spread
 143,Dairy and eggs,"Oatly Longlife Milk Drink 1 Litre, £1.50 each",350ml oat milk alternative,1,£1.50,350ml,oat milk alternative
-145,Dairy and eggs,"Jus-Rol Puff Pastry Block 500G, £1.35 each",375g lighter puff pastry,1,£1.35,375g,lighter puff pastry
-146,Dairy and eggs,"Tesco Greek Style Natural Yogurt 1Kg, £1.90 each",1kg greek-style yogurt,1,£1.90,1kg,greek-style yogurt
+145,Dairy and eggs,"Jus-Rol Puff Pastry Block 500G, £1.35 each",375g lighter puff pastry,1,£1.35,375g,puff pastry
+146,Dairy and eggs,"Tesco Greek Style Natural Yogurt 1Kg, £1.90 each",1kg greek-style yogurt,1,£1.90,1kg,yogurt
 149,Dairy and eggs,"Vitalite Dairy Free Spread 500G, £1.95 each",70g dairy-free spread,1,£1.95,70g,dairy-free spread
