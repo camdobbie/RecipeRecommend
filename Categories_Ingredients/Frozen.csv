@@ -1,38 +1,38 @@
-﻿recipe_id,section,item,ingredient,quantity,price,quantities,raw_ingredients
-4,Frozen,"Birds Eye Garden Peas 375G, £1.60 each",100g frozen peas,1,£1.60,100g,frozen peas
-10,Frozen,"Birds Eye Garden Peas 375G, £1.60 each",300g frozen peas,1,£1.60,300g,frozen peas
-14,Frozen,"Birds Eye Garden Peas 375G, £1.60 each",160g frozen peas,1,£1.60,160g,frozen peas
-16,Frozen,"Birds Eye Garden Peas 375G, £1.60 each",250g frozen peas,1,£1.60,250g,frozen peas
-19,Frozen,"Birds Eye Garden Peas 375G, £1.60 each",300g frozen peas,1,£1.60,300g,frozen peas
-20,Frozen,"Birds Eye Garden Peas 375G, £1.60 each",125g peas,1,£1.60,125g,peas
-36,Frozen,"Tesco Spinach 500G, £1.77 each",500g frozen leaf spinach,1,£1.77,500g,frozen leaf spinach
-37,Frozen,"Tesco Organic Spinach 200G, £1.90 each",150g frozen leaf spinach,1,£1.90,150g,frozen leaf spinach
-40,Frozen,"Birds Eye Garden Peas 375G, £1.60 each",320g frozen peas,1,£1.60,320g,frozen peas
-40,Frozen,"Fresh & Naked Spinach 125G, £1.20 each",250g frozen leaf spinach,2,£2.40,250g,frozen leaf spinach
-41,Frozen,"Birds Eye Garden Peas 375G, £1.60 each",150g frozen peas,1,£1.60,150g,frozen peas
-47,Frozen,"Tesco Sliced Leeks 700G, £1.20 each",350g frozen sliced leeks,1,£1.20,350g,frozen sliced leeks
-51,Frozen,"Tesco Chopped Garlic 100G, £1.60 each",1 tsp frozen chopped garlic,1,£1.60,1 tsp,frozen chopped garlic
-52,Frozen,"Tesco Chopped Garlic 100G, £1.60 each",0.5 teaspoon frozen chopped garlic,1,£1.60,0.5 tsp,frozen chopped garlic
-52,Frozen,"Tesco Frozen Sweet Potato Chunks 600G, £1.80 each",500g frozen sweet potato chunks,1,£1.80,500g,frozen sweet potato chunks
-52,Frozen,"Nightingale Farms Peppers 375G, £1.35 each",320g frozen sliced peppers,1,£1.35,320g,frozen sliced peppers
-53,Frozen,"Tesco Chopped Garlic 100G, £1.60 each",1.5 tsp frozen chopped garlic,1,£1.60,1.5 tsp,frozen chopped garlic
-55,Frozen,"Tesco Butternut Squash Chunks 500G, £1.50 each",250g frozen butternut squash chunks,1,£1.50,250g,frozen butternut squash chunks
-55,Frozen,"Tesco Chopped Garlic 100G, £1.60 each",1.5 tsp frozen chopped garlic,1,£1.60,1.5 tsp,frozen chopped garlic
-55,Frozen,"Tesco Classic Vegetable Base Mix 600G, £1.20 each",400g frozen vegetable base mix,1,£1.20,400g,frozen vegetable base mix
-57,Frozen,"Tesco Organic Pepper 250G, £1.60 each",200g frozen sliced peppers,1,£1.60,200g,frozen sliced peppers
-60,Frozen,"Tesco Soya Beans 600G, £2.70 each",160g frozen soya beans,1,£2.70,160g,frozen soya beans
-62,Frozen,"Grower's Harvest Sweetcorn 907G, £1.22 each",300g frozen sweetcorn,1,£1.22,300g,frozen sweetcorn
-67,Frozen,"Birds Eye Garden Peas 375G, £1.60 each",320g frozen peas,1,£1.60,320g,frozen peas
-73,Frozen,"Birds Eye Garden Peas 375G, £1.60 each",150g frozen peas,1,£1.60,150g,frozen peas
-74,Frozen,"Tesco Butternut Squash Chunks 500G, £1.50 each",250g frozen squash,1,£1.50,250g,frozen squash
-74,Frozen,"Grower's Harvest Sweetcorn 907G, £1.22 each",400g frozen sweetcorn,1,£1.22,400g,frozen sweetcorn
-75,Frozen,"Tesco Butternut Squash Chunks 500G, £1.50 each",250g frozen squash,1,£1.50,250g,frozen squash
-89,Frozen,"Tesco Organic Spinach 200G, £1.90 each",160g frozen spinach,1,£1.90,160g,frozen spinach
-92,Frozen,"Tesco Cranberries 100G, £1.85 each",100g frozen cranberries,1,£1.85,100g,frozen cranberries
-95,Frozen,"Birds Eye Garden Peas 400G, £1.60 each",400g frozen peas,1,£1.60,400g,frozen peas
-119,Frozen,"Redmere Farms Brown Onion 1Kg, £0.55 each",20g frozen diced onions,1,£0.55,20g,frozen diced onions
-119,Frozen,"Tesco Frozen Sweet Potato Chunks 600G, £1.80 each",150g frozen sweet potato chunks,1,£1.80,150g,frozen sweet potato chunks
-131,Frozen,"Mccain Naked Oven Chips Straight 900G, £1.95 each",500g oven chips,1,£1.95,500g,oven chips
-140,Frozen,"Tesco Organic Spinach 200G, £1.90 each",200g frozen spinach,1,£1.90,200g,frozen spinach
-145,Frozen,"Birds Eye Garden Peas 375G, £1.60 each",200g frozen peas,1,£1.60,200g,frozen peas
-148,Frozen,"Birds Eye Garden Peas 375G, £1.60 each",320g frozen peas,1,£1.60,320g,frozen peas
+﻿recipe_id,section,item,ingredient,quantity,price,quantities,raw_ingredients,
+4,Frozen,"Birds Eye Garden Peas 375G, £1.60 each",100g frozen peas,1,£1.60,100g,frozen peas,peas
+10,Frozen,"Birds Eye Garden Peas 375G, £1.60 each",300g frozen peas,1,£1.60,300g,frozen peas,peas
+14,Frozen,"Birds Eye Garden Peas 375G, £1.60 each",160g frozen peas,1,£1.60,160g,frozen peas,peas
+16,Frozen,"Birds Eye Garden Peas 375G, £1.60 each",250g frozen peas,1,£1.60,250g,frozen peas,peas
+19,Frozen,"Birds Eye Garden Peas 375G, £1.60 each",300g frozen peas,1,£1.60,300g,frozen peas,peas
+20,Frozen,"Birds Eye Garden Peas 375G, £1.60 each",125g peas,1,£1.60,125g,peas,peas
+36,Frozen,"Tesco Spinach 500G, £1.77 each",500g frozen leaf spinach,1,£1.77,500g,frozen leaf spinach,spinach
+37,Frozen,"Tesco Organic Spinach 200G, £1.90 each",150g frozen leaf spinach,1,£1.90,150g,frozen leaf spinach,spinach
+40,Frozen,"Birds Eye Garden Peas 375G, £1.60 each",320g frozen peas,1,£1.60,320g,frozen peas,peas
+40,Frozen,"Fresh & Naked Spinach 125G, £1.20 each",250g frozen leaf spinach,2,£2.40,250g,frozen leaf spinach,spinach
+41,Frozen,"Birds Eye Garden Peas 375G, £1.60 each",150g frozen peas,1,£1.60,150g,frozen peas,peas
+47,Frozen,"Tesco Sliced Leeks 700G, £1.20 each",350g frozen sliced leeks,1,£1.20,350g,frozen sliced leeks,leaks
+51,Frozen,"Tesco Chopped Garlic 100G, £1.60 each",1 tsp frozen chopped garlic,1,£1.60,1 tsp,frozen chopped garlic,garlic
+52,Frozen,"Tesco Chopped Garlic 100G, £1.60 each",0.5 teaspoon frozen chopped garlic,1,£1.60,0.5 tsp,frozen chopped garlic,garlic
+52,Frozen,"Tesco Frozen Sweet Potato Chunks 600G, £1.80 each",500g frozen sweet potato chunks,1,£1.80,500g,frozen sweet potato chunks,sweet potato
+52,Frozen,"Nightingale Farms Peppers 375G, £1.35 each",320g frozen sliced peppers,1,£1.35,320g,frozen sliced peppers,UNSURE
+53,Frozen,"Tesco Chopped Garlic 100G, £1.60 each",1.5 tsp frozen chopped garlic,1,£1.60,1.5 tsp,frozen chopped garlic,garlic
+55,Frozen,"Tesco Butternut Squash Chunks 500G, £1.50 each",250g frozen butternut squash chunks,1,£1.50,250g,frozen butternut squash chunks,butternut squash
+55,Frozen,"Tesco Chopped Garlic 100G, £1.60 each",1.5 tsp frozen chopped garlic,1,£1.60,1.5 tsp,frozen chopped garlic,garlic
+55,Frozen,"Tesco Classic Vegetable Base Mix 600G, £1.20 each",400g frozen vegetable base mix,1,£1.20,400g,frozen vegetable base mix,mixed vegetables
+57,Frozen,"Tesco Organic Pepper 250G, £1.60 each",200g frozen sliced peppers,1,£1.60,200g,frozen sliced peppers,pepper
+60,Frozen,"Tesco Soya Beans 600G, £2.70 each",160g frozen soya beans,1,£2.70,160g,frozen soya beans,soya beans
+62,Frozen,"Grower's Harvest Sweetcorn 907G, £1.22 each",300g frozen sweetcorn,1,£1.22,300g,frozen sweetcorn,sweetcorn
+67,Frozen,"Birds Eye Garden Peas 375G, £1.60 each",320g frozen peas,1,£1.60,320g,frozen peas,peas
+73,Frozen,"Birds Eye Garden Peas 375G, £1.60 each",150g frozen peas,1,£1.60,150g,frozen peas,peas
+74,Frozen,"Tesco Butternut Squash Chunks 500G, £1.50 each",250g frozen squash,1,£1.50,250g,frozen squash,butternut squash
+74,Frozen,"Grower's Harvest Sweetcorn 907G, £1.22 each",400g frozen sweetcorn,1,£1.22,400g,frozen sweetcorn,sweetcorn
+75,Frozen,"Tesco Butternut Squash Chunks 500G, £1.50 each",250g frozen squash,1,£1.50,250g,frozen squash,butternut squash
+89,Frozen,"Tesco Organic Spinach 200G, £1.90 each",160g frozen spinach,1,£1.90,160g,frozen spinach,spinach
+92,Frozen,"Tesco Cranberries 100G, £1.85 each",100g frozen cranberries,1,£1.85,100g,frozen cranberries,cranberries
+95,Frozen,"Birds Eye Garden Peas 400G, £1.60 each",400g frozen peas,1,£1.60,400g,frozen peas,peas
+119,Frozen,"Redmere Farms Brown Onion 1Kg, £0.55 each",20g frozen diced onions,1,£0.55,20g,frozen diced onions,onion
+119,Frozen,"Tesco Frozen Sweet Potato Chunks 600G, £1.80 each",150g frozen sweet potato chunks,1,£1.80,150g,frozen sweet potato chunks,sweet potato
+131,Frozen,"Mccain Naked Oven Chips Straight 900G, £1.95 each",500g oven chips,1,£1.95,500g,oven chips,chips
+140,Frozen,"Tesco Organic Spinach 200G, £1.90 each",200g frozen spinach,1,£1.90,200g,frozen spinach,spinach
+145,Frozen,"Birds Eye Garden Peas 375G, £1.60 each",200g frozen peas,1,£1.60,200g,frozen peas,peas
+148,Frozen,"Birds Eye Garden Peas 375G, £1.60 each",320g frozen peas,1,£1.60,320g,frozen peas,peas
