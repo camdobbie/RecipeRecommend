@@ -1,4 +1,4 @@
-﻿recipe_id,section,item,ingredient,quantity,price,quantities,raw_ingredients,
+﻿recipe_id,section,item,ingredient,quantity,price,quantities,raw_ingredients,simplified_ingredients
 4,Frozen,"Birds Eye Garden Peas 375G, £1.60 each",100g frozen peas,1,£1.60,100g,frozen peas,pea
 10,Frozen,"Birds Eye Garden Peas 375G, £1.60 each",300g frozen peas,1,£1.60,300g,frozen peas,pea
 14,Frozen,"Birds Eye Garden Peas 375G, £1.60 each",160g frozen peas,1,£1.60,160g,frozen peas,pea

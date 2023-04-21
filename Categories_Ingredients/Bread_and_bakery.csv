@@ -9,8 +9,8 @@ recipe_id,section,item,ingredient,quantity,price,quantities,raw_ingredients,simp
 49,Bread and bakery,"Tesco 6 White Pitta Bread, £0.55 each",1 pitta,1,£0.55,1,pitta,pitta
 50,Bread and bakery,"Hovis White Bread 450G, £1.75 each",0.3 white baton,1,£1.75,0.3,white baton,baguette
 51,Bread and bakery,"Tesco Wholemeal Batch Rolls 6 Pack, £0.55 each",6 wholemeal buns,1,£0.55,6,wholemeal buns,rolls
-57,Bread and bakery,"Tesco 8 Wholemeal Tortilla Wraps, £1.10 each",4 wholemeal tortilla wraps,1,£1.10,4,wholemeal tortilla wraps,tortillas
-59,Bread and bakery,"Tesco 2 Homebake Baguettes, £1.10 each",2 baguettes,1,£1.10,2,baguettes,baguettes
+57,Bread and bakery,"Tesco 8 Wholemeal Tortilla Wraps, £1.10 each",4 wholemeal tortilla wraps,1,£1.10,4,wholemeal tortilla wraps,tortilla
+59,Bread and bakery,"Tesco 2 Homebake Baguettes, £1.10 each",2 baguettes,1,£1.10,2,baguettes,baguette
 62,Bread and bakery,"Old El Paso Super Soft Flour Tortillas Whole Wheat 8Pk 326G, £1.80 each",8 wholemeal tortillas,1,£1.80,8,wholemeal tortillas,tortilla
 63,Bread and bakery,"Tesco Ciabatta 270G, £1.05 each",crusty bread,1,£1.05,,crusty bread,crusty bread
 73,Bread and bakery,"Tesco Ciabatta 270G, £1.05 each",crusty bread,1,£1.05,,crusty bread,crusty bread

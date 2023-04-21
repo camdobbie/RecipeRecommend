@@ -6,9 +6,6 @@ def makeDict(category):
     #load Categories_Ingredients/Canned_foods.csv as a pandas dataframe
     df = pd.read_csv(f'Categories_Ingredients/{category}.csv')
 
-    #print(df)
-    print(df.shape)
-
     #create a dictionary with raw_ingredients as the keys and simplified_ingredients as the values
     d = dict(zip(df.raw_ingredients, df.simplified_ingredients))
 
@@ -21,4 +18,3 @@ def makeDict(category):
 
 for cat in cats:
     makeDict(cat)
-
