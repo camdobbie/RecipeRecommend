@@ -1,5 +1,5 @@
 recipe_id,section,item,ingredient,quantity,price,quantities,raw_ingredients
-0,Dairy and eggs,"Tesco Finest Red Leicester Truckle 200G, £2.20 each",red leicester cheese,1,£2.20,, cheese
+0,Dairy and eggs,"Tesco Finest Red Leicester Truckle 200G, £2.20 each",red leicester cheese,1,£2.20,,cheese
 1,Dairy and eggs,"Happy Egg Co Large Free Range Eggs 6 Pack, £2.50 each",1 egg,1,£2.50,1,egg
 3,Dairy and eggs,"Tesco Organic Unsalted Butter 250G, £2.75 each",50g butter,1,£2.75,50g,butter
 3,Dairy and eggs,"Tesco Mozzarella 240G, £1.00 each",125g mozzarella,1,£1.00,125g,mozzarella

@@ -13,9 +13,9 @@ recipe_id,section,item,ingredient,quantity,price,quantities,raw_ingredients,simp
 30,Baking,"Trade Aid Uk Pure Cane Caster Sugar 1Kg, £2.00 each",2 tbsp caster sugar,1,£2.00,2 tbsp,caster sugar,caster sugar
 31,Baking,"Trade Aid Uk Pure Cane Caster Sugar 1Kg, £2.00 each",0.5 tsp caster sugar,1,£2.00,0.5 tsp,caster sugar,caster sugar
 33,Baking,"Tesco Self Raising Flour 1.5Kg, £0.80 each",400g self-raising flour,1,£0.80,400g,self-raising flour,self-raising flour
-39,Baking,"Tesco Toasted Flaked Almonds 100G, £1.60 each",1 tbsp toasted flaked almonds,1,£1.60,1 tbsp,toasted flaked almonds,flaked almonds
-42,Baking,"Paxo Natural Breadcrumbs 227G, £1.55 each",50g fresh breadcrumbs,1,£1.55,50g,fresh breadcrumbs,breadcrumbs
-43,Baking,"Tesco Toasted Flaked Almonds 100G, £1.60 each",2 tsp flaked almonds,1,£1.60,2 tsp,flaked almonds,flaked almonds
+39,Baking,"Tesco Toasted Flaked Almonds 100G, £1.60 each",1 tbsp toasted flaked almonds,1,£1.60,1 tbsp,toasted flaked almonds,flaked almond
+42,Baking,"Paxo Natural Breadcrumbs 227G, £1.55 each",50g fresh breadcrumbs,1,£1.55,50g,fresh breadcrumbs,breadcrumb
+43,Baking,"Tesco Toasted Flaked Almonds 100G, £1.60 each",2 tsp flaked almonds,1,£1.60,2 tsp,flaked almonds,flaked almond
 44,Baking,"Tesco Plain Flour 1.5Kg, £0.80 each",3 tbsp plain flour,1,£0.80,3 tbsp,plain flour,plain flour
 50,Baking,"Tesco Plain Flour 1.5Kg, £0.80 each",1 tbsp plain flour,1,£0.80,1 tbsp,plain flour,plain flour
 50,Baking,"Trade Aid Uk Pure Cane Caster Sugar 1Kg, £2.00 each",2 tbsp caster sugar,1,£2.00,2 tbsp,caster sugar,caster sugar
@@ -24,29 +24,29 @@ recipe_id,section,item,ingredient,quantity,price,quantities,raw_ingredients,simp
 59,Baking,"Tesco Plain Flour 1.5Kg, £0.80 each",1 tbsp plain flour,1,£0.80,1 tbsp,plain flour,plain flour
 66,Baking,"Tesco Plain Flour 1.5Kg, £0.80 each",30g plain flour,1,£0.80,30g,plain flour,plain flour
 66,Baking,"Trade Aid Uk Pure Cane Caster Sugar 1Kg, £2.00 each",1 tbsp caster sugar,1,£2.00,1 tbsp,caster sugar,caster sugar
-70,Baking,"Tesco White Breadcrumbs 175G, £1.15 each",30g dried breadcrumbs,1,£1.15,30g,dried breadcrumbs,breadcrumbs
+70,Baking,"Tesco White Breadcrumbs 175G, £1.15 each",30g dried breadcrumbs,1,£1.15,30g,dried breadcrumbs,breadcrumb
 75,Baking,"Tesco Plain Flour 1.5Kg, £0.80 each",2 tbsp plain flour,1,£0.80,2 tbsp,plain flour,plain flour
 77,Baking,"Tesco Self Raising Flour 1.5Kg, £0.80 each",100g self-raising four,1,£0.80,100g,self-raising four,self-raising four
 79,Baking,"Tesco Plain Flour 1.5Kg, £0.80 each",65g plain flour,1,£0.80,65g,plain flour,plain flour
-79,Baking,"Paxo Natural Breadcrumbs 227G, £1.55 each",75g fresh breadcrumbs,1,£1.55,75g,fresh breadcrumbs,breadcrumbs
+79,Baking,"Paxo Natural Breadcrumbs 227G, £1.55 each",75g fresh breadcrumbs,1,£1.55,75g,fresh breadcrumbs,breadcrumb
 89,Baking,"Tesco Plain Flour 1.5Kg, £0.80 each",1 tablespoon plain flour,1,£0.80,1 tbsp,plain flour,plain flour
-89,Baking,"Paxo Natural Breadcrumbs 227G, £1.55 each",100g breadcrumbs,1,£1.55,100g,breadcrumbs,breadcrumbs
+89,Baking,"Paxo Natural Breadcrumbs 227G, £1.55 each",100g breadcrumbs,1,£1.55,100g,breadcrumbs,breadcrumb
 90,Baking,"Billingtons Light Brown Sugar 500G, £1.95 each",1 tbsp light brown sugar,1,£1.95,1 tbsp,light brown sugar,light brown sugar
-91,Baking,"Tesco Bulgur Wheat & Quinoa Mix 300G, £2.40 each",250g mixed grains,1,£2.40,250g,mixed grains,mixed grains
+91,Baking,"Tesco Bulgur Wheat & Quinoa Mix 300G, £2.40 each",250g mixed grains,1,£2.40,250g,mixed grains,mixed grain
 92,Baking,"Tesco Dark Soft Brown Sugar 500G, £1.35 each",150g soft dark brown sugar,1,£1.35,150g,soft dark brown sugar,dark brown sugar
 102,Baking,"Billingtons Dark Muscovado 500G, £2.00 each",1 tsp dark brown sugar,1,£2.00,1 tsp,dark brown sugar,dark brown sugar
 102,Baking,"Tesco Plain Flour 1.5Kg, £0.80 each",1 tbsp flour,1,£0.80,1 tbsp,flour,plain flour
-106,Baking,"Paxo Natural Breadcrumbs 227G, £1.55 each",breadcrumbs,1,£1.55,,breadcrumbs,breadcrumbs
-107,Baking,"Tesco White Breadcrumbs 175G, £1.15 each",25g fresh wholemeal breadcrumbs,1,£1.15,25g,fresh wholemeal breadcrumbs,breadcrumbs
+106,Baking,"Paxo Natural Breadcrumbs 227G, £1.55 each",breadcrumbs,1,£1.55,,breadcrumbs,breadcrumb
+107,Baking,"Tesco White Breadcrumbs 175G, £1.15 each",25g fresh wholemeal breadcrumbs,1,£1.15,25g,fresh wholemeal breadcrumbs,breadcrumb
 112,Baking,"Tesco Dark Soft Brown Sugar 500G, £1.35 each",1 tbsp brown sugar,1,£1.35,1 tbsp,brown sugar,brown sugar
 113,Baking,"Tesco Organic Plain Flour 1Kg, £1.40 each",3 tbsp seasoned flour,1,£1.40,3 tbsp,seasoned flour,plain flour
 115,Baking,"Billingtons Light Brown Sugar 500G, £1.95 each",1 tbsp light brown soft sugar,1,£1.95,1 tbsp,light brown soft sugar,light brown sugar
-120,Baking,"Prymat Breadcrumbs 400G, £1.00 each",25g breadcrumbs,1,£1.00,25g,breadcrumbs,breadcrumbs
-121,Baking,"Prymat Breadcrumbs 400G, £1.00 each",250g breadcrumbs,1,£1.00,250g,breadcrumbs,breadcrumbs
+120,Baking,"Prymat Breadcrumbs 400G, £1.00 each",25g breadcrumbs,1,£1.00,25g,breadcrumbs,breadcrumb
+121,Baking,"Prymat Breadcrumbs 400G, £1.00 each",250g breadcrumbs,1,£1.00,250g,breadcrumbs,breadcrumb
 121,Baking,"Trade Aid Uk Pure Cane Caster Sugar 1Kg, £2.00 each",50g caster sugar,1,£2.00,50g,caster sugar,caster sugar
 122,Baking,"Trade Aid Uk Pure Cane Caster Sugar 1Kg, £2.00 each",1 tsp caster sugar,1,£2.00,1 tsp,caster sugar,caster sugar
-135,Baking,"Tesco Bulgur Wheat & Quinoa Mix 300G, £2.40 each",150g bulgur wheat and quinoa mix,1,£2.40,150g,bulgur wheat and quinoa mix,mixed grains
-136,Baking,"Paxo Natural Breadcrumbs 227G, £1.55 each",50g breadcrumbs,1,£1.55,50g,breadcrumbs,breadcrumbs
+135,Baking,"Tesco Bulgur Wheat & Quinoa Mix 300G, £2.40 each",150g bulgur wheat and quinoa mix,1,£2.40,150g,bulgur wheat and quinoa mix,mixed grain
+136,Baking,"Paxo Natural Breadcrumbs 227G, £1.55 each",50g breadcrumbs,1,£1.55,50g,breadcrumbs,breadcrumb
 137,Baking,"Tesco Plain Flour 1.5Kg, £0.80 each",plain flour,1,£0.80,,plain flour,plain flour
 139,Baking,"Trade Aid Uk Pure Cane Caster Sugar 1Kg, £2.00 each",1.5 tsp caster sugar,1,£2.00,1.5 tsp,caster sugar,caster sugar
 143,Baking,"Tesco Plain Flour 1.5Kg, £0.80 each",1 tbsp plain flour,1,£0.80,1 tbsp,plain flour,plain flour

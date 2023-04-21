@@ -1,0 +1,151 @@
+recipe_id,name,servings,dietary
+0,Olly's 'thank you' Finest burgers recipe, 4,[]
+1,Steak and ale pie recipe, 6,['Dairy Free']
+2,Dhal soup recipe, 4-6,"['Vegan', 'Vegetarian', 'Gluten Free', 'Dairy Free']"
+3,Garlic crumpets recipe, 6,['Vegetarian']
+4,Air-fryer toad in the hole recipe, 2,[]
+5,Veggie noodle stir-fry recipe, 4,"['Vegetarian', 'Dairy Free']"
+6,"Chicken, broccoli, and orange couscous recipe", 4,['Dairy Free']
+7,Greek-style fish stew recipe, 4,"['Gluten Free', 'Dairy Free']"
+8,Spiced chickpea wraps with vegan raita recipe, 4,"['Vegan', 'Vegetarian', 'Dairy Free']"
+9,Air-fryer classic frittata recipe,  2,['Vegetarian']
+10,"Crispy gnocchi, broccoli and cheese bake recipe", 4,['Vegetarian']
+11,Lamb filo swirl pie recipe, 8,[]
+12,Nutty chicken noodle salad recipe, 4,['Dairy Free']
+13,Salt-crusted potatoes with green sauce recipe,  6 as a side,[]
+14,Jamie's spring watercress pasta recipe, 2,['Vegetarian']
+15,Thai green pork and broccoli curry recipe, 4,"['Gluten Free', 'Dairy Free']"
+16,Soy and honey chicken thighs with green rice recipe, 4,['Dairy Free']
+17,Air-fryer baked potato recipe, 2,[]
+18,Braised spring greens with bacon recipe, 4 as a side,"['Gluten Free', 'Dairy Free']"
+19,Corned beef and butter bean stew recipe, 4,['Dairy Free']
+20,No-stir baked risotto primavera recipe, 4,[]
+21,Middle Eastern rice 'cake' (Maqluba) recipe, 6,"['Vegan', 'Vegetarian', 'Gluten Free', 'Dairy Free']"
+22,Crispy basa tacos with kiwi salsa recipe, 4,[]
+23,Air-fryer crispy tofu recipe,  2,"['Vegan', 'Vegetarian']"
+24,Air-fryer chicken tenders recipe, 4,[]
+25,Tinned beef massaman recipe, 4,[]
+26,Air-fryer sweet potato fries recipe, 4,['Vegetarian']
+27,Spaghetti lasagne recipe, 4,[]
+28,Storecupboard puttanesca rice recipe, 2,[]
+29,Yaki udon recipe, 4,['Vegetarian']
+30,Bánh xéo recipe, 6,[]
+31,Basil and garlic tomato sauce recipe,Makes 500ml,"['Vegan', 'Vegetarian', 'Gluten Free', 'Dairy Free']"
+32,Jamie's tomato and mussel pasta recipe, 4,[]
+33,Jamie's quick folded pan pizza recipe,  4 (makes 2 pizzas),['Vegetarian']
+34,Smoky bangers and beans recipe, 4,['Dairy Free']
+35,"Meatball, beetroot and lentil bake recipe", 4,['Gluten Free']
+36,Spinach and feta turnovers recipe, 4,['Vegetarian']
+37,Pasta and bean soup recipe, 4,"['Vegan', 'Vegetarian', 'Dairy Free']"
+38,Garlic soup with homemade stock recipe, 4,[]
+39,Chickpea and aubergine stew recipe, 6,"['Vegan', 'Vegetarian', 'Gluten Free', 'Dairy Free']"
+40,Cheat's bacon and mushroom lasagne recipe, 4,[]
+41,Mackerel katsu rice bowls recipe, 4,[]
+42,Roast chicken Kyiv recipe,  4 plus 6 portions leftover,[]
+43,Coronation chicken stuffed potatoes recipe, 2,[]
+44,"Slow-cooker lamb's liver, bacon and onions recipe", 4,[]
+45,Slow-cooker Persian lamb and rhubarb stew recipe, 6,['Gluten Free']
+46,Chana masala curry with rice recipe, 4,"['Vegan', 'Vegetarian', 'Gluten Free', 'Dairy Free']"
+47,Chicken and leek alfredo recipe, 4,[]
+48,"Aubergine, black-eyed bean and spinach curry recipe", 4,"['Vegan', 'Vegetarian', 'Gluten Free', 'Dairy Free']"
+49,Microwave shakshuka recipe, 1,"['Vegetarian', 'Dairy Free']"
+50,Slow-cooker French onion soup recipe, 4,[]
+51,Jamie's more-veg sloppy Joes recipe, 6,[]
+52,Sweet potato & pepper tikka masala recipe, 4,"['Vegetarian', 'Gluten Free']"
+53,Veggie cheat’s folded pizzas recipe, 4,['Vegetarian']
+54,Jamie's harissa falafel recipe, 2,['Vegetarian']
+55,Odds and ends arrabbiata al forno recipe, 4,[]
+56,Creamy hidden-bean pasta sauce recipe, 6,"['Vegan', 'Vegetarian', 'Dairy Free']"
+57,Jamie's Mexican-inspired black bean bake recipe, 4,['Vegetarian']
+58,Sweet potato and black bean chilli bowls with cherry tomato salsa recipe, 6,"['Vegan', 'Vegetarian', 'Gluten Free', 'Dairy Free']"
+59,"Crispy new potato, pepper and feta traybake recipe", 4,['Vegetarian']
+60,Savoy cabbage and soya bean rice recipe, 2,"['Vegetarian', 'Dairy Free']"
+61,Batch-cook soup concentrate recipe, 8,"['Vegetarian', 'Gluten Free', 'Dairy Free']"
+62,Bean and corn enchiladas recipe, 4,"['Vegan', 'Vegetarian', 'Dairy Free']"
+63,Root veg cassoulet with chicken livers recipe, 6,"['Gluten Free', 'Dairy Free']"
+64,Spicy mackerel couscous bowl recipe, 2,[]
+65,Sausages with Sicilian-inspired carrot stew recipe, 4,['Dairy Free']
+66,Air-fryer crispy salt and pepper chicken wings recipe, 4,[]
+67,Muttar paneer cottage pie recipe, 6,"['Vegetarian', 'Gluten Free']"
+68,Green lentil stew with bacon and sage recipe, 8,['Gluten Free']
+69,Microwave red lentil dhal recipe, 1,"['Vegetarian', 'Gluten Free']"
+70,Lamb meatballs with cheese and dill recipe, 4,[]
+71,Carrot caponata spaghetti recipe, 4,['Vegetarian']
+72,Air-fryer roast potatoes recipe, 4,['Vegetarian']
+73,Pesto chicken one-pot recipe, 4,[]
+74,"Sweetcorn, squash and spring onion ramen recipe", 4,['Vegetarian']
+75,"Mushroom, squash and barley pie recipe", 4,['Vegetarian']
+76,Air-fryer falafel wraps recipe, 2,['Vegetarian']
+77,Beef stew with parsnip dumplings recipe, 4,[]
+78,Air-fryer chunky chips recipe, 4,['Vegetarian']
+79,Stovetop cauliflower and broccoli mac and cheese recipe, 8,['Vegetarian']
+80,Spiced turkey 'Bolognese' recipe, 8,"['Gluten Free', 'Dairy Free']"
+81,Pork and swede stir fry recipe, 2,['Dairy Free']
+82,Microwave pearl barley risotto recipe, 4,"['Vegan', 'Vegetarian', 'Dairy Free']"
+83,Air-fryer salmon with honey and mustard sauce recipe, 2,[]
+84,Rustic lamb stew recipe,  6-8,[]
+85,5-ingredient Piri-Piri pasta recipe, 4,[]
+86,Salmon kedgeree pie recipe, 6,['Dairy Free']
+87,Roasted root veg enchiladas recipe, 4,['Vegetarian']
+88,5-ingredient smoky cauliflower one-pot recipe, 4,"['Vegan', 'Vegetarian', 'Gluten Free', 'Dairy Free']"
+89,Jamie's one-pan turkey pasta recipe, 2,[]
+90,No-cook Vietnamese-style turkey noodle salad with peanut and mint recipe, 4,[]
+91,"Chickpea, date and pistachio pilaf recipe", 4,"['Vegan', 'Vegetarian', 'Dairy Free']"
+92,Slow-cooker braised red cabbage recipe,  6-8,['Vegetarian']
+93,Parsnip pasta recipe, 4,['Vegetarian']
+94,Italian bean stew recipe, 4,"['Vegan', 'Vegetarian', 'Dairy Free']"
+95,Rotisserie chicken with cabbage and leek boullion recipe, 4,[]
+96,Lemon and courgette linguine  recipe, 2,[]
+97,Cowboy beans recipe, 4,['Dairy Free']
+98,"Sticky lamb, sesame and watermelon salad recipe", 4,['Dairy Free']
+99,Sloppy-joe stuffed peppers with wedges recipe, 4,['Gluten Free']
+100,Baked sweet potatoes with tuna salsa recipe, 4,"['Gluten Free', 'Dairy Free']"
+101,Green pepper tortilla recipe, 4,['Dairy Free']
+102,Cauliflower cheese pithivier recipe, 8,['Vegetarian']
+103,Roasted broccoli salad recipe, 2-4,['Vegetarian']
+104,Tomato and pesto spaghetti recipe, 4,[]
+105,Full-of-veg hash recipe, 4,"['Gluten Free', 'Dairy Free']"
+106,Gnocchi with Gorgonzola recipe, 4,[]
+107,Chickpea and roasted red pepper burgers recipe, 6,['Vegetarian']
+108,Spanakopita recipe, 4,[]
+109,"Leek, potato and rosemary soup recipe", 4-6,[]
+110,Greek-style lamb and sweet potato salad recipe, 2,['Gluten Free']
+111,"Sweet potato, pesto and pepperoni pizza recipe", 4,[]
+112,Pad Thai noodles recipe, 4,['Dairy Free']
+113,Liver and onion casserole with pancetta recipe, 4,['Dairy Free']
+114,Brown butter gnocchi with mushrooms recipe, 4,['Vegetarian']
+115,Korean chicken wings recipe, 4,['Dairy Free']
+116,Chicken bone broth recipe, 4,[]
+117,Gluten-free crab cakes recipe, 4 (makes 12 crab cakes),['Gluten Free']
+118,Mackerel and red lentil fusilli with creamy pepper sauce recipe, 4,['Gluten Free']
+119,Sweet potato and peanut massaman curry recipe, 1,"['Vegetarian', 'Gluten Free']"
+120,Courgette and aubergine parmigiana recipe, 4,[]
+121,Nathan Outlaw’s cod burger with homemade tomato ketchup recipe, 10,['Dairy Free']
+122,"Chicken curry, mustard seeds and rice recipe", 4,[]
+123,Lemon and thyme chicken with spaghetti recipe, 4,[]
+124,Salmon and asparagus fajitas recipe, 4,['Dairy Free']
+125,Roast chicken with basil and lemon salsa and garlic potatoes recipe, 6,"['Gluten Free', 'Dairy Free']"
+126,Speedy Turkish pizzas recipe, 4 (makes 2 large pizzas),[]
+127,Celeriac boulangère recipe, 6,"['Vegan', 'Vegetarian', 'Gluten Free', 'Dairy Free']"
+128,Braised beef topside recipe, 6,[]
+129,Goulash recipe, 6,[]
+130,Beef wellington with stilton recipe, 8,[]
+131,Spiced fries recipe, 4,"['Vegan', 'Vegetarian', 'Gluten Free', 'Dairy Free']"
+132,"Tahini, caper and olive pasta recipe", 4,['Vegetarian']
+133,"Roast cauliflower steaks with puy lentil, goat’s cheese and pepper salad recipe", 4,['Vegetarian']
+134,Thai fishcakes with cucumber dipping sauce recipe,,[]
+135,"Carrot, apple and chicken grain bowls recipe", 4,[]
+136,Cajun bean and feta burgers recipe, 4,['Vegetarian']
+137,Tuna quiche recipe, 6,[]
+138,"Crab, chilli and leek linguine recipe", 2,['Dairy Free']
+139,One-tray baked pepper and butter bean pasta recipe, 4,"['Vegan', 'Vegetarian', 'Dairy Free']"
+140,Greek lamb pasta melt recipe, 4,[]
+141,Charred courgette and salmon tart recipe, 6,[]
+142,Pork fajitas with coriander salsa recipe, 4,[]
+143,Vegan 'steak' and chips with peppercorn sauce recipe, 2,"['Vegan', 'Vegetarian', 'Dairy Free']"
+144,Crab linguine recipe, 4,['Dairy Free']
+145,Spring greens and butter bean pot pie recipe, 4,"['Vegan', 'Vegetarian', 'Dairy Free']"
+146,Jon’s ‘laid-back’ Easter lamb recipe, 8,['Gluten Free']
+147,Rolled pork loin with fennel seed crust recipe, 4,"['Gluten Free', 'Dairy Free']"
+148,Beetroot falafel pitta with carrot slaw recipe, 4,"['Vegan', 'Vegetarian', 'Dairy Free']"
+149,Shiitake and lentil cottage pie with cauliflower mash recipe, 4,"['Vegan', 'Vegetarian', 'Dairy Free']"
