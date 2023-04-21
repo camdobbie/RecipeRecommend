@@ -1,11 +1,11 @@
 ﻿recipe_id,section,item,ingredient,quantity,price,quantities,raw_ingredients,simplified_ingredients
-0,Meats and seafood,"Tesco Finest The Ultimate Brisket & Chuck Burgers 340G, £3.15 each",beef burger patty,2,£6.30,,beef burger patty,beef burgers
+0,Meats and seafood,"Tesco Finest The Ultimate Brisket & Chuck Burgers 340G, £3.15 each",beef burger patty,2,£6.30,,beef burger patty,beef burger
 1,Meats and seafood,"Tesco Finest Diced Beef 400G, £5.30 each",900g lean diced beef,3,£15.90,900g,lean diced beef,diced beef
-4,Meats and seafood,"Simon Howie Premium Pork Sausages 300G, £2.19 each",4 pork sausages,1,£2.19,4,pork sausages,pork sausages
-6,Meats and seafood,"Willow Farm Chicken Wings 900G - 1.2Kg, £2.30 each",900g chicken wings,1,£2.30,900g,chicken wings,chicken wings
+4,Meats and seafood,"Simon Howie Premium Pork Sausages 300G, £2.19 each",4 pork sausages,1,£2.19,4,pork sausages,pork sausage
+6,Meats and seafood,"Willow Farm Chicken Wings 900G - 1.2Kg, £2.30 each",900g chicken wings,1,£2.30,900g,chicken wings,chicken wing
 11,Meats and seafood,"Tesco British Lamb Mince 20% Fat 500G, £5.10 each",500g 20% fat lamb mince,1,£5.10,500g,20% fat lamb mince,lamb mince
 15,Meats and seafood,"Fresh Pork Fillet 0.05kg, £0.40 / 0.05kg",400g pork fillet,0.4,£3.20,400g,pork fillet,pork fillet
-16,Meats and seafood,"Tesco British Chicken Thigh Fillets 1Kg, £6.00 each",1kg chicken thigh fillets,1,£6.00,1kg,chicken thigh fillets,chicken thigh fillets
+16,Meats and seafood,"Tesco British Chicken Thigh Fillets 1Kg, £6.00 each",1kg chicken thigh fillets,1,£6.00,1kg,chicken thigh fillets,chicken thigh fillet
 17,Meats and seafood,"Tesco Finest 2 Cornfed Free Range Chicken Fillets 270G-470G 0.05kg, £0.83 / 0.05kg",180g chicken breast,0.2,£3.30,180g,chicken breast,chicken breast
 18,Meats and seafood,"Tesco Smoked Lardons 200G, £2.70 each",100g smoked bacon lardons,1,£2.70,100g,smoked bacon lardons,bacon
 19,Meats and seafood,"Tesco Corned Beef 125G, £2.50 each",120g corned beef slices,1,£2.50,120g,corned beef slices,corned beef
@@ -13,8 +13,8 @@
 22,Meats and seafood,"Tesco 2 Skinless & Boneless Basa Fillets 250G, £2.75 each",4 basa fillets,2,£5.50,4,basa fillets,basa
 24,Meats and seafood,"Tesco Mini Chicken Fillets 650G, £5.40 each",650g mini chicken fillets,1,£5.40,650g,mini chicken fillets,chicken
 27,Meats and seafood,"Tesco Finest Aberdeen Angus Steak Mince 500G, £4.65 each",500g 20% fat beef mince,1,£4.65,500g,20% fat beef mince,beef mince
-30,Meats and seafood,"Seachill Cooked& Peeled King Prawns 150G, £2.59 each",150g king prawns,1,£2.59,150g,king prawns,prawns
-34,Meats and seafood,"Tesco 8 Reduced Fat Pork Sausages 454G, £2.30 each",8 reduced-fat pork sausages,1,£2.30,8,reduced-fat pork sausages,pork sausages
+30,Meats and seafood,"Seachill Cooked& Peeled King Prawns 150G, £2.59 each",150g king prawns,1,£2.59,150g,king prawns,prawn
+34,Meats and seafood,"Tesco 8 Reduced Fat Pork Sausages 454G, £2.30 each",8 reduced-fat pork sausages,1,£2.30,8,reduced-fat pork sausages,pork sausage
 34,Meats and seafood,"Tesco Smoked Lardons 200G, £2.70 each",60g smoked bacon lardons,1,£2.70,60g,smoked bacon lardons,bacon
 35,Meats and seafood,"Tesco 12 Beef Meatballs 336G, £3.20 each",beef meatballs,1,£3.20,,beef meatballs,beef meatballs
 38,Meats and seafood,"Tesco British Large Whole Chicken 1.5Kg - 1.9Kg, £4.80 each",1 chicken carcass,1,£4.80,1,chicken carcass,chicken carcass
@@ -24,39 +24,39 @@
 44,Meats and seafood,"Tesco Lamb Sliced Liver 0.05kg, £0.22 / 0.05kg",450g lamb’s liver,0.45,£1.98,450g,lamb’s liver,lamb liver
 44,Meats and seafood,"T Northern Ireland Smoked Back Bacon 250G, £2.10 each",4 rashers smoked back bacon,1,£2.10,4,rashers smoked back bacon,bacon
 45,Meats and seafood,"Lamb Whole Shoulder 0.30kg, £3.06 / 0.3kg",600g lamb shoulder,0.6,£6.12,600g,lamb shoulder,lamb shoulder
-47,Meats and seafood,"Tesco Finest British Cornfed Free Range Thigh Fillets 430G, £4.60 each",300g chicken thigh fillets,1,£4.60,300g,chicken thigh fillets,chicken thigh fillets
+47,Meats and seafood,"Tesco Finest British Cornfed Free Range Thigh Fillets 430G, £4.60 each",300g chicken thigh fillets,1,£4.60,300g,chicken thigh fillets,chicken thigh fillet
 51,Meats and seafood,"Tesco Finest Aberdeen Angus Steak Mince 500G, £4.65 each",500g meat & veg beef mince,1,£4.65,500g,meat & veg beef mince,beef mince
-63,Meats and seafood,"Tesco Fresh Chicken Livers 380G, £1.25 each",380g chicken livers,1,£1.25,380g,chicken livers,chicken livers
-65,Meats and seafood,"Tesco Reduced Fat Cumberland Sausage 454G, £2.30 each",8 50% reduced-fat cumberland pork sausages,1,£2.30,8,50% reduced-fat cumberland pork sausages,pork sausages
-66,Meats and seafood,"Willow Farm Chicken Wings 900G - 1.2Kg, £2.30 each",chicken wing,1,£2.30,,chicken wing,chicken wings
+63,Meats and seafood,"Tesco Fresh Chicken Livers 380G, £1.25 each",380g chicken livers,1,£1.25,380g,chicken livers,chicken liver
+65,Meats and seafood,"Tesco Reduced Fat Cumberland Sausage 454G, £2.30 each",8 50% reduced-fat cumberland pork sausages,1,£2.30,8,50% reduced-fat cumberland pork sausages,pork sausage
+66,Meats and seafood,"Willow Farm Chicken Wings 900G - 1.2Kg, £2.30 each",chicken wing,1,£2.30,,chicken wing,chicken wing
 68,Meats and seafood,"Tesco Smoked Streaky Rashers 250G Promo, £2.55 each",8 smoked streaky bacon rashers,1,£2.55,8,smoked streaky bacon rashers,bacon
 68,Meats and seafood,"Tesco Smoked Lardons 200G, £2.70 each",200g smoked bacon lardons,1,£2.70,200g,smoked bacon lardons,bacon
 70,Meats and seafood,"Tesco British Lamb Mince 20% Fat 500G, £5.10 each",500g lamb mince,1,£5.10,500g,lamb mince,lamb mince
-73,Meats and seafood,"Tesco British Chicken Thighs 1Kg, £3.00 each",8 bone-in chicken thighs,2,£6.00,8,bone-in chicken thighs,bone in chicken thighs
+73,Meats and seafood,"Tesco British Chicken Thighs 1Kg, £3.00 each",8 bone-in chicken thighs,2,£6.00,8,bone-in chicken thighs,bone in chicken thigh
 77,Meats and seafood,"Tesco Finest Diced Beef 400G, £5.30 each",400g diced beef,1,£5.30,400g,diced beef,diced beef
 81,Meats and seafood,"Tesco Pork Loin Steaks 2 Pack 270G, £3.50 each",270g pork loin steaks,1,£3.50,270g,pork loin steaks,pork loin
-83,Meats and seafood,"Tesco 2 Boneless Salmon Fillets 260G, £4.75 each",2 boneless salmon fillets,1,£4.75,2,boneless salmon fillets,salmon fillets
+83,Meats and seafood,"Tesco 2 Boneless Salmon Fillets 260G, £4.75 each",2 boneless salmon fillets,1,£4.75,2,boneless salmon fillets,salmon
 84,Meats and seafood,"Lamb Whole Shoulder 0.30kg, £3.06 / 0.3kg",1kg lamb breast joint,1.2,£12.24,1kg,lamb breast joint,lamb breast
 85,Meats and seafood,"Tesco 2 Piri Piri Chicken Breast Fillets 365G, £4.20 each",180g piri piri chicken,1,£4.20,180g,piri piri chicken,piri piri chicken
-86,Meats and seafood,"Tesco 4 Boneless Salmon Fillets 520G, £9.00 each",500g boneless salmon,1,£9.00,500g,boneless salmon,salmon fillets
+86,Meats and seafood,"Tesco 4 Boneless Salmon Fillets 520G, £9.00 each",500g boneless salmon,1,£9.00,500g,boneless salmon,salmon
 86,Meats and seafood,"Tesco Finest Mild & Delicate Smoked Salmon 120G, £5.25 each",120g smoked salmon,1,£5.25,120g,smoked salmon,smoked salmon
 89,Meats and seafood,"Tesco Finest Free Range Heritage Narragansett Whole Turkey Medium 4kg - 5.25kg Serves 10-12, £12.00 each",150g turkey,1,£12.00,150g,turkey,turkey
 90,Meats and seafood,"Tesco Finest Free Range Heritage Narragansett Whole Turkey Medium 4kg - 5.25kg Serves 10-12, £12.00 each",400g turkey,1,£12.00,400g,turkey,turkey
 95,Meats and seafood,"Tesco Roast In The Bag Rotisserie Style Whole Chicken 1.5Kg, £5.90 each",1 chicken,1,£5.90,1,chicken,whole chicken
-97,Meats and seafood,"Tesco Reduced Fat Cumberland Sausage 454G, £2.30 each",6 reduced-fat cumberland pork sausages,1,£2.30,6,reduced-fat cumberland pork sausages,pork sausages
-98,Meats and seafood,"Tesco 2 Lamb Rump Steaks 300G, £4.75 each",400g lamb steaks,2,£9.50,400g,lamb steaks,lamb steaks
+97,Meats and seafood,"Tesco Reduced Fat Cumberland Sausage 454G, £2.30 each",6 reduced-fat cumberland pork sausages,1,£2.30,6,reduced-fat cumberland pork sausages,pork sausage
+98,Meats and seafood,"Tesco 2 Lamb Rump Steaks 300G, £4.75 each",400g lamb steaks,2,£9.50,400g,lamb steaks,lamb steak
 105,Meats and seafood,"T Ni Unsmoked Streaky Bacon 250G, £2.55 each",100g streaky bacon,1,£2.55,100g,streaky bacon,bacon
 109,Meats and seafood,"Tesco 6 Prosciutto Crudo Slices 84G, £1.25 each",6 slices prosciutto,1,£1.25,6,slices prosciutto,prosciutto
-110,Meats and seafood,"Tesco Lamb Leg Steaks 300G, £4.75 each",150g lamb leg steak,1,£4.75,150g,lamb leg steak,lamb steaks
+110,Meats and seafood,"Tesco Lamb Leg Steaks 300G, £4.75 each",150g lamb leg steak,1,£4.75,150g,lamb leg steak,lamb steak
 111,Meats and seafood,"Tesco Pizza Pepperoni 120G, £1.05 each",60g pepperoni slices,1,£1.05,60g,pepperoni slices,pepperoni
-112,Meats and seafood,"Tesco Finest Whole Raw Black Tiger Prawns 300G, £8.00 each",200g raw tiger prawns peeled and de-veined,2,£16.00,200g,raw tiger prawns peeled and de-veined,prawns
+112,Meats and seafood,"Tesco Finest Whole Raw Black Tiger Prawns 300G, £8.00 each",200g raw tiger prawns peeled and de-veined,2,£16.00,200g,raw tiger prawns peeled and de-veined,prawn
 113,Meats and seafood,"Tesco Lamb Sliced Liver 0.05kg, £0.22 / 0.05kg",750g lamb's liver,0.75,£3.30,750g,lamb's liver,lamb liver
 113,Meats and seafood,"Tesco Finest Smoked Pancetta 180G, £3.40 each",125g smoked pancetta rashers,1,£3.40,125g,smoked pancetta rashers,bacon
-115,Meats and seafood,"Willow Farm Chicken Wings 900G - 1.2Kg, £2.30 each",1kg chicken wings,1,£2.30,1kg,chicken wings,chicken wings
+115,Meats and seafood,"Willow Farm Chicken Wings 900G - 1.2Kg, £2.30 each",1kg chicken wings,1,£2.30,1kg,chicken wings,chicken wing
 116,Meats and seafood,"Tesco British Large Whole Chicken 1.5Kg - 1.9Kg, £4.80 each",1.5kg chicken,1,£4.80,1.5kg,chicken,whole chicken
 117,Meats and seafood,"Tesco Orkney Crab Meat 100G, £3.75 each",300g white crab meat,3,£11.25,300g,white crab meat,crab meat
 121,Meats and seafood,"Tesco 2 Boneless Cod Fillets 280G, £5.25 each",1.5kg cod fillet,6,£31.50,1.5kg,cod fillet,cod
-122,Meats and seafood,"Tesco 2 British Chicken Breast Fillets 300G, £2.55 each",4 skinless chicken breasts,4,£10.20,4,skinless chicken breasts,chicken
+122,Meats and seafood,"Tesco 2 British Chicken Breast Fillets 300G, £2.55 each",4 skinless chicken breasts,4,£10.20,4,skinless chicken breasts,chicken breast
 123,Meats and seafood,"Tesco British Chicken Breast Portions 650G, £4.50 each",4 chicken breasts,2,£9.00,4,chicken breasts,chicken breast
 124,Meats and seafood,"Princes Wild Pacific Red Salmon 213G, £3.50 each",200g fresh salmon,1,£3.50,200g,fresh salmon,salmon
 125,Meats and seafood,"Tesco Whole Chicken Extra Large 1.9Kg - 2.3Kg, £5.60 each",1.8kg whole chicken,1,£5.60,1.8kg,whole chicken,whole chicken
@@ -65,9 +65,9 @@
 129,Meats and seafood,"Fresh Beef Brisket Slow- Roast 0.10kg, £1.00 / 0.1kg",1.25kg braising beef,1.3,£13.00,1.25kg,braising beef,diced beef
 130,Meats and seafood,"Tesco Organic Beef Fillet Steak 0.02kg, £0.80 / 0.02kg",700g beef fillet,0.7,£28.00,700g,beef fillet,beef fillet
 134,Meats and seafood,"Tesco Cod Fillets 360G, £4.00 each",400g white fish,2,£8.00,400g,white fish,cod
-135,Meats and seafood,"Tesco Finest 2 Cornfed Free Range Chicken Fillets 270G-470G 0.05kg, £0.83 / 0.05kg",245g chicken breast fillets,0.25,£4.13,245g,chicken breast fillets,chicken
+135,Meats and seafood,"Tesco Finest 2 Cornfed Free Range Chicken Fillets 270G-470G 0.05kg, £0.83 / 0.05kg",245g chicken breast fillets,0.25,£4.13,245g,chicken breast fillets,chicken breast
 140,Meats and seafood,"Tesco British Lamb Mince 20% Fat 500G, £5.10 each",500g lamb mince,1,£5.10,500g,lamb mince,lamb mince
 141,Meats and seafood,"Tesco Boneless Salmon Fillet 130G, £2.75 each",260g boneless salmon fillets,2,£5.50,260g,boneless salmon fillets,salmon
-142,Meats and seafood,"Tesco Pork Shoulder Steaks 700G, £5.00 each",660g pork steaks,1,£5.00,660g,pork steaks,pork steaks
+142,Meats and seafood,"Tesco Pork Shoulder Steaks 700G, £5.00 each",660g pork steaks,1,£5.00,660g,pork steaks,pork steak
 146,Meats and seafood,"Tesco Fresh Lamb Whole Leg Promo 0.50kg, £6.50 / 0.5kg",2kg leg of lamb,2,£26.00,2kg,leg of lamb,lamb leg
 147,Meats and seafood,"Tesco Pork Loin Joint 0.20kg, £1.40 / 0.2kg",1kg rolled pork loin,1,£7.00,1kg,rolled pork loin,pork loin

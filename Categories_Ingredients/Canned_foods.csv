@@ -1,86 +1,86 @@
 recipe_id,section,item,ingredient,quantity,price,quantities,raw_ingredients,simplified_ingredients
 2,Canned foods,"Pride Coconut Milk 400Ml, £1.00 each",400ml tin coconut milk,1,£1.00,400ml tin,coconut milk,coconut milk
 15,Canned foods,"Pride Coconut Milk Light 400Ml, £1.00 each",400g tin lighter coconut milk,2,£2.00,400g tin,lighter coconut milk,coconut milk
-19,Canned foods,"Tesco Butter Beans 400G, £0.63 each",400g butter beans,1,£0.63,400g,butter beans,butter beans
+19,Canned foods,"Tesco Butter Beans 400G, £0.63 each",400g butter beans,1,£0.63,400g,butter beans,bean
 25,Canned foods,"Pride Coconut Milk Light 400Ml, £1.00 each",400ml tin light coconut milk,1,£1.00,400ml tin,light coconut milk,coconut milk
-25,Canned foods,"Growers Harvest New Potatoes In Water 567G, £0.38 each",300g tin new potatoes,1,£0.38,300g tin,new potatoes,potatoes
-27,Canned foods,"Napolina Chopped Tomatoes 400G, £1.00 each",400g tin chopped tomatoes,1,£1.00,400g tin,chopped tomatoes,chopped tomatoes
-28,Canned foods,"John West Anchovy Fillets In Olive Oil 95G, £2.80 each",30g anchovies,1,£2.80,30g,anchovies,anchovies
-32,Canned foods,"Tesco Italian Chopped Tomatoes227g, £0.45 each",227g tin italian chopped tomatoes,1,£0.45,227g tin,italian chopped tomatoes,chopped tomatoes
-34,Canned foods,"Tesco Black Beans 400G, £0.61 each",800g tins beans,2,£1.22,800g tins,beans,black beans
-35,Canned foods,"Tesco Green Lentils In Water 390G, £0.58 each",780g green lentils,2,£1.16,780g,green lentils,lentils
-37,Canned foods,"Tesco Borlotti Beans In Water 400G, £0.54 each",400g tin borlotti beans,1,£0.54,400g tin,borlotti beans,borlotti beans
-37,Canned foods,"Napolina Chopped Tomatoes 400G, £1.00 each",400g tin chopped tomatoes,1,£1.00,400g tin,chopped tomatoes,chopped tomatoes
-38,Canned foods,"Tesco Cannellini Beans 400G, £0.63 each",400g tin cannellini beans,1,£0.63,400g tin,cannellini beans,cannellini beans
-39,Canned foods,"Napolina Chick Peas 400G, £0.85 each",400g chickpeas,1,£0.85,400g,chickpeas,chickpeas
-39,Canned foods,"Napolina Chopped Tomatoes 400G, £1.00 each",400g tin chopped tomatoes,1,£1.00,400g tin,chopped tomatoes,chopped tomatoes
+25,Canned foods,"Growers Harvest New Potatoes In Water 567G, £0.38 each",300g tin new potatoes,1,£0.38,300g tin,new potatoes,potato
+27,Canned foods,"Napolina Chopped Tomatoes 400G, £1.00 each",400g tin chopped tomatoes,1,£1.00,400g tin,chopped tomatoes,chopped tomato
+28,Canned foods,"John West Anchovy Fillets In Olive Oil 95G, £2.80 each",30g anchovies,1,£2.80,30g,anchovies,anchovy
+32,Canned foods,"Tesco Italian Chopped Tomatoes227g, £0.45 each",227g tin italian chopped tomatoes,1,£0.45,227g tin,italian chopped tomatoes,chopped tomato
+34,Canned foods,"Tesco Black Beans 400G, £0.61 each",800g tins beans,2,£1.22,800g tins,beans,bean
+35,Canned foods,"Tesco Green Lentils In Water 390G, £0.58 each",780g green lentils,2,£1.16,780g,green lentils,lentil
+37,Canned foods,"Tesco Borlotti Beans In Water 400G, £0.54 each",400g tin borlotti beans,1,£0.54,400g tin,borlotti beans,bean
+37,Canned foods,"Napolina Chopped Tomatoes 400G, £1.00 each",400g tin chopped tomatoes,1,£1.00,400g tin,chopped tomatoes,chopped tomato
+38,Canned foods,"Tesco Cannellini Beans 400G, £0.63 each",400g tin cannellini beans,1,£0.63,400g tin,cannellini beans,bean
+39,Canned foods,"Napolina Chick Peas 400G, £0.85 each",400g chickpeas,1,£0.85,400g,chickpeas,chickpea
+39,Canned foods,"Napolina Chopped Tomatoes 400G, £1.00 each",400g tin chopped tomatoes,1,£1.00,400g tin,chopped tomatoes,chopped tomato
 40,Canned foods,"Tesco Cream Of Mushroom Soup 400G, £0.75 each",400g tin cream of mushroom soup,1,£0.75,400g tin,cream of mushroom soup,mushroom soup
-45,Canned foods,"Napolina Chick Peas 400G, £0.85 each",600g tins chickpeas,2,£1.70,600g tins,chickpeas,chickpeas
-46,Canned foods,"Napolina Chick Peas 400G, £0.85 each",1200g chickpeas,3,£2.55,1200g,chickpeas,chickpeas
-48,Canned foods,"Tesco Black Eye Beans In Water 400G, £0.54 each",400g black-eyed beans,1,£0.54,400g,black-eyed beans,black-eyed beans
-48,Canned foods,"Napolina Chopped Tomatoes 400G, £1.00 each",400g tin chopped tomatoes,1,£1.00,400g tin,chopped tomatoes,chopped tomatoes
-49,Canned foods,"Napolina Chopped Tomatoes 400G, £1.00 each",400g tin chopped tomatoes,1,£1.00,400g tin,chopped tomatoes,chopped tomatoes
-51,Canned foods,"Tesco Cannellini Beans 400G, £0.63 each",400g cannellini beans,1,£0.63,400g,cannellini beans,cannellini beans
-51,Canned foods,"Napolina Peeled Plum Tomatoes 400G, £1.00 each",400g tin italian peeled plum tomatoes,1,£1.00,400g tin,italian peeled plum tomatoes,chopped tomatoes
-52,Canned foods,"Tesco Butter Beans 400G, £0.63 each",400g tin butter beans,1,£0.63,400g tin,butter beans,butter beans
-52,Canned foods,"Napolina Peeled Plum Tomatoes 400G, £1.00 each",400g tin plum tomatoes,1,£1.00,400g tin,plum tomatoes,chopped tomatoes
-53,Canned foods,"Napolina Peeled Plum Tomatoes 400G, £1.00 each",400g tin of plum tomatoes,1,£1.00,400g tin,of plum tomatoes,chopped tomatoes
-54,Canned foods,"Napolina Chick Peas 400G, £0.85 each",800g tins chickpeas,2,£1.70,800g tins,chickpeas,chickpeas
-55,Canned foods,"Napolina Plum Tomatoes Plus 50% Extra Free 2400G, £3.00 each",800g tins plum tomatoes,1,£3.00,800g tins,plum tomatoes,chopped tomatoes
-56,Canned foods,"Tesco Cannellini Beans 400G, £0.63 each",400g tin cannellini beans,1,£0.63,400g tin,cannellini beans,cannellini beans
-56,Canned foods,"Grower's Harvest Chopped Tomatoes 400G, £0.32 each",800g chopped tomatoes,2,£0.64,800g,chopped tomatoes,chopped tomatoes
-57,Canned foods,"Tesco Black Beans 400G, £0.61 each",800g black beans,2,£1.22,800g,black beans,black beans
-57,Canned foods,"Napolina Peeled Plum Tomatoes 400G, £1.00 each",400g tin italian peeled plum tomatoes,1,£1.00,400g tin,italian peeled plum tomatoes,chopped tomatoes
-58,Canned foods,"Tesco Black Beans 400G, £0.61 each",800g tins black beans,2,£1.22,800g tins,black beans,black beans
-58,Canned foods,"Grower's Harvest Chopped Tomatoes 400G, £0.32 each",800g tins chopped tomatoes,2,£0.64,800g tins,chopped tomatoes,chopped tomatoes
-59,Canned foods,"Tesco Butter Beans 400G, £0.63 each",400g butter beans,1,£0.63,400g,butter beans,butter beans
-59,Canned foods,"Growers Harvest New Potatoes In Water 567G, £0.38 each",567g new potatoes,1,£0.38,567g,new potatoes,potatoes
-61,Canned foods,"Tesco Cannellini Beans 400G, £0.63 each",400g tin cannellini beans,1,£0.63,400g tin,cannellini beans,cannellini beans
-62,Canned foods,"Growers Harvest Red Kidney Beans In Water 400G, £0.33 each",400g tin kidney beans,1,£0.33,400g tin,kidney beans,kidney beans
-63,Canned foods,"Tesco Cannellini Beans 400G, £0.63 each",400g tin cannellini beans,1,£0.63,400g tin,cannellini beans,cannellini beans
+45,Canned foods,"Napolina Chick Peas 400G, £0.85 each",600g tins chickpeas,2,£1.70,600g tins,chickpeas,chickpea
+46,Canned foods,"Napolina Chick Peas 400G, £0.85 each",1200g chickpeas,3,£2.55,1200g,chickpeas,chickpea
+48,Canned foods,"Tesco Black Eye Beans In Water 400G, £0.54 each",400g black-eyed beans,1,£0.54,400g,black-eyed beans,bean
+48,Canned foods,"Napolina Chopped Tomatoes 400G, £1.00 each",400g tin chopped tomatoes,1,£1.00,400g tin,chopped tomatoes,chopped tomato
+49,Canned foods,"Napolina Chopped Tomatoes 400G, £1.00 each",400g tin chopped tomatoes,1,£1.00,400g tin,chopped tomatoes,chopped tomato
+51,Canned foods,"Tesco Cannellini Beans 400G, £0.63 each",400g cannellini beans,1,£0.63,400g,cannellini beans,bean
+51,Canned foods,"Napolina Peeled Plum Tomatoes 400G, £1.00 each",400g tin italian peeled plum tomatoes,1,£1.00,400g tin,italian peeled plum tomatoes,chopped tomato
+52,Canned foods,"Tesco Butter Beans 400G, £0.63 each",400g tin butter beans,1,£0.63,400g tin,butter beans,bean
+52,Canned foods,"Napolina Peeled Plum Tomatoes 400G, £1.00 each",400g tin plum tomatoes,1,£1.00,400g tin,plum tomatoes,chopped tomato
+53,Canned foods,"Napolina Peeled Plum Tomatoes 400G, £1.00 each",400g tin of plum tomatoes,1,£1.00,400g tin,of plum tomatoes,chopped tomato
+54,Canned foods,"Napolina Chick Peas 400G, £0.85 each",800g tins chickpeas,2,£1.70,800g tins,chickpeas,chickpea
+55,Canned foods,"Napolina Plum Tomatoes Plus 50% Extra Free 2400G, £3.00 each",800g tins plum tomatoes,1,£3.00,800g tins,plum tomatoes,chopped tomato
+56,Canned foods,"Tesco Cannellini Beans 400G, £0.63 each",400g tin cannellini beans,1,£0.63,400g tin,cannellini beans,bean
+56,Canned foods,"Grower's Harvest Chopped Tomatoes 400G, £0.32 each",800g chopped tomatoes,2,£0.64,800g,chopped tomatoes,chopped tomato
+57,Canned foods,"Tesco Black Beans 400G, £0.61 each",800g black beans,2,£1.22,800g,black beans,bean
+57,Canned foods,"Napolina Peeled Plum Tomatoes 400G, £1.00 each",400g tin italian peeled plum tomatoes,1,£1.00,400g tin,italian peeled plum tomatoes,chopped tomato
+58,Canned foods,"Tesco Black Beans 400G, £0.61 each",800g tins black beans,2,£1.22,800g tins,black beans,bean
+58,Canned foods,"Grower's Harvest Chopped Tomatoes 400G, £0.32 each",800g tins chopped tomatoes,2,£0.64,800g tins,chopped tomatoes,chopped tomato
+59,Canned foods,"Tesco Butter Beans 400G, £0.63 each",400g butter beans,1,£0.63,400g,butter beans,bean
+59,Canned foods,"Growers Harvest New Potatoes In Water 567G, £0.38 each",567g new potatoes,1,£0.38,567g,new potatoes,potato
+61,Canned foods,"Tesco Cannellini Beans 400G, £0.63 each",400g tin cannellini beans,1,£0.63,400g tin,cannellini beans,bean
+62,Canned foods,"Growers Harvest Red Kidney Beans In Water 400G, £0.33 each",400g tin kidney beans,1,£0.33,400g tin,kidney beans,bean
+63,Canned foods,"Tesco Cannellini Beans 400G, £0.63 each",400g tin cannellini beans,1,£0.63,400g tin,cannellini beans,bean
 64,Canned foods,"Green Giant Original Sweet Corn 198G, £0.90 each",160g tinned sweetcorn,1,£0.90,160g tinned,sweetcorn,sweetcorn
 64,Canned foods,"Tesco Mackerel In Spicy Tomato Sauce 125G, £0.85 each",125g tin mackerel in spicy tomato sauce,1,£0.85,125g tin,mackerel in spicy tomato sauce,mackerel
-65,Canned foods,"Napolina Chopped Tomatoes 400G, £1.00 each",400g tin finely chopped tomatoes,1,£1.00,400g tin,finely chopped tomatoes,chopped tomatoes
-67,Canned foods,"Grower's Harvest Chopped Tomatoes 400G, £0.32 each",800g tins chopped tomatoes,2,£0.64,800g tins,chopped tomatoes,chopped tomatoes
-69,Canned foods,"Napolina Chopped Tomatoes 400G, £1.00 each",227g tin chopped tomatoes,1,£1.00,227g tin,chopped tomatoes,chopped tomatoes
-70,Canned foods,"Napolina Peeled Plum Tomatoes 400G, £1.00 each",400g tin plum tomatoes,1,£1.00,400g tin,plum tomatoes,chopped tomatoes
+65,Canned foods,"Napolina Chopped Tomatoes 400G, £1.00 each",400g tin finely chopped tomatoes,1,£1.00,400g tin,finely chopped tomatoes,chopped tomato
+67,Canned foods,"Grower's Harvest Chopped Tomatoes 400G, £0.32 each",800g tins chopped tomatoes,2,£0.64,800g tins,chopped tomatoes,chopped tomato
+69,Canned foods,"Napolina Chopped Tomatoes 400G, £1.00 each",227g tin chopped tomatoes,1,£1.00,227g tin,chopped tomatoes,chopped tomato
+70,Canned foods,"Napolina Peeled Plum Tomatoes 400G, £1.00 each",400g tin plum tomatoes,1,£1.00,400g tin,plum tomatoes,chopped tomato
 71,Canned foods,"Ballymaloe Original Relish 210G, £2.20 each",1kg caponata,5,£11.00,1kg,caponata,caponata
-73,Canned foods,"John West Anchovy Fillets In Olive Oil 95G, £2.80 each",3 anchovy fillets,1,£2.80,3,anchovy fillets,anchovies
-76,Canned foods,"Napolina Chick Peas 400G, £0.85 each",400g chickpeas in water,1,£0.85,400g,chickpeas in water,chickpeas
-77,Canned foods,"Tesco Butter Beans 400G, £0.63 each",400g tin butter beans,1,£0.63,400g tin,butter beans,butter beans
-80,Canned foods,"Grower's Harvest Chopped Tomatoes 400G, £0.32 each",1600g chopped tomatoes,4,£1.28,1600g,chopped tomatoes,chopped tomatoes
-82,Canned foods,"Napolina Chopped Tomatoes 400G, £1.00 each",400g tin chopped tomatoes,1,£1.00,400g tin,chopped tomatoes,chopped tomatoes
-84,Canned foods,"Tesco Butter Beans 400G, £0.63 each",400g tin butter beans,1,£0.63,400g tin,butter beans,butter beans
-84,Canned foods,"Napolina Chopped Tomatoes 400G, £1.00 each",400g tin chopped tomatoes,1,£1.00,400g tin,chopped tomatoes,chopped tomatoes
-87,Canned foods,"Napolina Chopped Tomatoes 400G, £1.00 each",1 tin chopped tomatoes,1,£1.00,1 tin,chopped tomatoes,chopped tomatoes
-88,Canned foods,"Grower's Harvest Chopped Tomatoes 400G, £0.32 each",800g tins chopped tomatoes,2,£0.64,800g tins,chopped tomatoes,chopped tomatoes
-88,Canned foods,"Tesco Green Lentils In Water 390G, £0.58 each",400g green lentils in water,2,£1.16,400g,green lentils in water,lentils
-91,Canned foods,"Napolina Chick Peas 400G, £0.85 each",400g can chickpeas,1,£0.85,400g,chickpeas,chickpeas
-94,Canned foods,"Tesco Borlotti Beans In Water 400G, £0.54 each",400g tin borlotti beans,1,£0.54,400g tin,borlotti beans,borlotti beans
-94,Canned foods,"Tesco Butter Beans 400G, £0.63 each",400g tin butter beans,1,£0.63,400g tin,butter beans,butter beans
-94,Canned foods,"Growers Harvest Red Kidney Beans In Water 400G, £0.33 each",400g tin flageolet beans,1,£0.33,400g tin,flageolet beans,flageolet beans
-94,Canned foods,"Napolina Peeled Plum Tomatoes 400G, £1.00 each",400g tin plum tomatoes,1,£1.00,400g tin,plum tomatoes,chopped tomatoes
-97,Canned foods,"Napolina Chopped Tomatoes 400G, £1.00 each",400g tin chopped tomatoes,1,£1.00,400g tin,chopped tomatoes,chopped tomatoes
-97,Canned foods,"Heinz Baked Beans In Tomato Sauce 415G, £1.40 each",heinz canned baked beans in tomato sauce,1,£1.40,,heinz canned baked beans in tomato sauce,baked beans
+73,Canned foods,"John West Anchovy Fillets In Olive Oil 95G, £2.80 each",3 anchovy fillets,1,£2.80,3,anchovy fillets,anchovy
+76,Canned foods,"Napolina Chick Peas 400G, £0.85 each",400g chickpeas in water,1,£0.85,400g,chickpeas in water,chickpea
+77,Canned foods,"Tesco Butter Beans 400G, £0.63 each",400g tin butter beans,1,£0.63,400g tin,butter beans,bean
+80,Canned foods,"Grower's Harvest Chopped Tomatoes 400G, £0.32 each",1600g chopped tomatoes,4,£1.28,1600g,chopped tomatoes,chopped tomato
+82,Canned foods,"Napolina Chopped Tomatoes 400G, £1.00 each",400g tin chopped tomatoes,1,£1.00,400g tin,chopped tomatoes,chopped tomato
+84,Canned foods,"Tesco Butter Beans 400G, £0.63 each",400g tin butter beans,1,£0.63,400g tin,butter beans,bean
+84,Canned foods,"Napolina Chopped Tomatoes 400G, £1.00 each",400g tin chopped tomatoes,1,£1.00,400g tin,chopped tomatoes,chopped tomato
+87,Canned foods,"Napolina Chopped Tomatoes 400G, £1.00 each",1 tin chopped tomatoes,1,£1.00,1 tin,chopped tomatoes,chopped tomato
+88,Canned foods,"Grower's Harvest Chopped Tomatoes 400G, £0.32 each",800g tins chopped tomatoes,2,£0.64,800g tins,chopped tomatoes,chopped tomato
+88,Canned foods,"Tesco Green Lentils In Water 390G, £0.58 each",400g green lentils in water,2,£1.16,400g,green lentils in water,lentil
+91,Canned foods,"Napolina Chick Peas 400G, £0.85 each",400g can chickpeas,1,£0.85,400g,chickpeas,chickpea
+94,Canned foods,"Tesco Borlotti Beans In Water 400G, £0.54 each",400g tin borlotti beans,1,£0.54,400g tin,borlotti beans,bean
+94,Canned foods,"Tesco Butter Beans 400G, £0.63 each",400g tin butter beans,1,£0.63,400g tin,butter beans,bean
+94,Canned foods,"Growers Harvest Red Kidney Beans In Water 400G, £0.33 each",400g tin flageolet beans,1,£0.33,400g tin,flageolet beans,bean
+94,Canned foods,"Napolina Peeled Plum Tomatoes 400G, £1.00 each",400g tin plum tomatoes,1,£1.00,400g tin,plum tomatoes,chopped tomato
+97,Canned foods,"Napolina Chopped Tomatoes 400G, £1.00 each",400g tin chopped tomatoes,1,£1.00,400g tin,chopped tomatoes,chopped tomato
+97,Canned foods,"Heinz Baked Beans In Tomato Sauce 415G, £1.40 each",heinz canned baked beans in tomato sauce,1,£1.40,,heinz canned baked beans in tomato sauce,baked bean
 100,Canned foods,"Tesco Tuna Chunks In Spring Water 145G, £0.80 each",320g tuna chunks in spring water,3,£2.40,320g,tuna chunks in spring water,canned tuna
-100,Canned foods,"Napolina Five Bean Salad 400G, £0.85 each",400g tin mixed bean salad,1,£0.85,400g tin,mixed bean salad,mixed beans
-107,Canned foods,"Napolina Chick Peas 400G, £0.85 each",400g tin chickpeas,1,£0.85,400g tin,chickpeas,chickpeas
-113,Canned foods,"Napolina Peeled Plum Tomatoes 400G, £1.00 each",400g peeled plum tomatoes,1,£1.00,400g,peeled plum tomatoes,chopped tomatoes
-118,Canned foods,"Napolina Chopped Tomatoes 400G, £1.00 each",400g tin chopped tomatoes,1,£1.00,400g tin,chopped tomatoes,chopped tomatoes
+100,Canned foods,"Napolina Five Bean Salad 400G, £0.85 each",400g tin mixed bean salad,1,£0.85,400g tin,mixed bean salad,bean
+107,Canned foods,"Napolina Chick Peas 400G, £0.85 each",400g tin chickpeas,1,£0.85,400g tin,chickpeas,chickpea
+113,Canned foods,"Napolina Peeled Plum Tomatoes 400G, £1.00 each",400g peeled plum tomatoes,1,£1.00,400g,peeled plum tomatoes,chopped tomato
+118,Canned foods,"Napolina Chopped Tomatoes 400G, £1.00 each",400g tin chopped tomatoes,1,£1.00,400g tin,chopped tomatoes,chopped tomato
 118,Canned foods,"Tesco Mackerel Fillets In Tomato 125G, £0.85 each",250g mackerel in tomato sauce,2,£1.70,250g,mackerel in tomato sauce,mackerel
-119,Canned foods,"Tesco Italian Chopped Tomatoes227g, £0.45 each",canned chopped italian tomato,1,£0.45,,canned chopped italian tomato,chopped tomatoes
-120,Canned foods,"Grower's Harvest Chopped Tomatoes 400G, £0.32 each",800g tins chopped tomatoes,2,£0.64,800g tins,chopped tomatoes,chopped tomatoes
-126,Canned foods,"Tesco Italian Chopped Tomatoes With Garlic 390G, £0.65 each",195g chopped tomatoes with olive oil and garlic,1,£0.65,195g,chopped tomatoes with olive oil and garlic,chopped tomatoes
-129,Canned foods,"Napolina Chopped Tomatoes 400G, £1.00 each",400g can chopped tomatoes,1,£1.00,400g,chopped tomatoes,chopped tomatoes
-129,Canned foods,"Aleyna Roasted Red Peppers 480G, £1.70 each",325g sweet peppers,1,£1.70,325g,sweet peppers,peppers
-133,Canned foods,"Aleyna Roasted Red Peppers 480G, £1.70 each",100g roasted peppers,1,£1.70,100g,roasted peppers,peppers
-136,Canned foods,"Tesco Mixed Bean Salad Vinaigrette 400G, £0.90 each",800g tins mixed beans,2,£1.80,800g tins,mixed beans,mixed beans
+119,Canned foods,"Tesco Italian Chopped Tomatoes227g, £0.45 each",canned chopped italian tomato,1,£0.45,,canned chopped italian tomato,chopped tomato
+120,Canned foods,"Grower's Harvest Chopped Tomatoes 400G, £0.32 each",800g tins chopped tomatoes,2,£0.64,800g tins,chopped tomatoes,chopped tomato
+126,Canned foods,"Tesco Italian Chopped Tomatoes With Garlic 390G, £0.65 each",195g chopped tomatoes with olive oil and garlic,1,£0.65,195g,chopped tomatoes with olive oil and garlic,chopped tomato
+129,Canned foods,"Napolina Chopped Tomatoes 400G, £1.00 each",400g can chopped tomatoes,1,£1.00,400g,chopped tomatoes,chopped tomato
+129,Canned foods,"Aleyna Roasted Red Peppers 480G, £1.70 each",325g sweet peppers,1,£1.70,325g,sweet peppers,bell pepper
+133,Canned foods,"Aleyna Roasted Red Peppers 480G, £1.70 each",100g roasted peppers,1,£1.70,100g,roasted peppers,bell pepper
+136,Canned foods,"Tesco Mixed Bean Salad Vinaigrette 400G, £0.90 each",800g tins mixed beans,2,£1.80,800g tins,mixed beans,bean
 137,Canned foods,"Tesco Drained Tuna Steak In Spring Water 110G, £1.10 each",450g canned tuna,5,£5.50,450g,canned tuna,canned tuna
 138,Canned foods,"Kingfisher Jumbo Crab 145G, £3.10 each",170g crab meat,2,£6.20,170g,crab meat,canned crab
-139,Canned foods,"Tesco Butter Beans 400G, £0.63 each",400g butter beans,1,£0.63,400g,butter beans,butter beans
-139,Canned foods,"Napolina Chopped Tomatoes 400G, £1.00 each",400g tin chopped tomatoes,1,£1.00,400g tin,chopped tomatoes,chopped tomatoes
-140,Canned foods,"Napolina Chopped Tomatoes 400G, £1.00 each",400g tin chopped tomatoes,1,£1.00,400g tin,chopped tomatoes,chopped tomatoes
+139,Canned foods,"Tesco Butter Beans 400G, £0.63 each",400g butter beans,1,£0.63,400g,butter beans,bean
+139,Canned foods,"Napolina Chopped Tomatoes 400G, £1.00 each",400g tin chopped tomatoes,1,£1.00,400g tin,chopped tomatoes,chopped tomato
+140,Canned foods,"Napolina Chopped Tomatoes 400G, £1.00 each",400g tin chopped tomatoes,1,£1.00,400g tin,chopped tomatoes,chopped tomato
 144,Canned foods,"Kingfisher Lump Crab 145G, £3.00 each",145g tin shredded crab meat,2,£6.00,145g tin,shredded crab meat,canned crab
-145,Canned foods,"Tesco Butter Beans 400G, £0.63 each",400g butter beans,1,£0.63,400g,butter beans,butter beans
-148,Canned foods,"Napolina Chick Peas 400G, £0.85 each",800g chickpeas,2,£1.70,800g,chickpeas,chickpeas
-149,Canned foods,"Tesco Green Lentils In Water 390G, £0.58 each",390g tin green lentils,1,£0.58,390g tin,green lentils,lentils
+145,Canned foods,"Tesco Butter Beans 400G, £0.63 each",400g butter beans,1,£0.63,400g,butter beans,bean
+148,Canned foods,"Napolina Chick Peas 400G, £0.85 each",800g chickpeas,2,£1.70,800g,chickpeas,chickpea
+149,Canned foods,"Tesco Green Lentils In Water 390G, £0.58 each",390g tin green lentils,1,£0.58,390g tin,green lentils,lentil
