@@ -27,9 +27,9 @@ for i in range(0,len(ingredients)):
     sep_ing.append(array)
 
 #merges tbsp etc with number to get quantity as 1 string - if we add more recipes we will need to see if there are any other measurement words   
-#if we used it for more recipes we would need to add bulb, clove, cloves, stick, stalk, teaspoon, tablespoon, can, c m, sprig, sprigs but I can't remember 
+#if we used it for more recipes we would need to add bulb, clove, cloves, stick, stalk, teaspoon, tablespoon, and heaped of both, ltr,lt, can, c m, sprig, sprigs but I can't remember 
 #how my code works and I think it only includes words at the start- would esp be helpful for sticks and cloves  
-units = ['tsp', 'tbsp', 'head', 'cm', 'leaves', 'bunch', 'sticks', 'tin', 'tins']
+units = ['tsp', 'tbsp', 'head', 'cm', 'leaves', 'bunch', 'sticks', 'tin', 'tins','bulb','clove','cloves','stick','sticks','stalk','teaspoon','tablespoon','heaped teaspoon','heaped tablespoon','ltr','lt','can','sprig','sprigs']
 for j in range(len(sep_ing)):
     arr = sep_ing[j]
     i = 1
