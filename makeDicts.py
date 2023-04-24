@@ -77,6 +77,8 @@ def createSimplifiedIngredients():
         df['simplified_ingredients'] = df['raw_ingredients'].map(allDict.set_index('raw_ingredients')['simplified_ingredients'])
         
         undefinedDataframe = df[df['simplified_ingredients'].isnull()]
+        # remove rows with duplicate 'raw_ingredients' from the dataframe
+        undefinedDataframe = undefinedDataframe.drop_duplicates(subset=['raw_ingredients'], keep='first')
         if undefinedDataframe.empty:
             break  # exit the loop if the dataframe is empty
         
