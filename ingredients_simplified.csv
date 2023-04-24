@@ -615,7 +615,7 @@ recipe_id,section,item,quantity,price,quantities,raw_ingredients,simplified_ingr
 66,Baking,"Trade Aid Uk Pure Cane Caster Sugar 1Kg, £2.00 each",1.0,£2.00,1 tbsp,caster sugar,caster sugar
 66,Herbs and spices,"Saxa White Pepper 25G, £0.90 each",1.0,£0.90,0.5 tsp,white pepper,black pepper
 66,Herbs and spices,"Tesco Ground Ginger 38G Jar, £0.90 each",1.0,£0.90,0.25 tsp,ground ginger,ground ginger
-66,Drinks,Tesco Shaoxing Rice wine,1.0,£3.15,1 tsp ,shaoxing rice wine ,rice wine
+66,Drinks,Tesco Shaoxing Rice wine,1.0,£3.15,1 tsp ,shaoxing rice wine,rice wine
 66,Herbs and spices,"Tesco Mild Curry Powder 80G, £1.30 each",1.0,£1.30,2 tsp,mild curry powder,curry powder
 66,Condiments,"Yutaka Japanese Rice Vinegar 150Ml, £2.10 each",1.0,£2.10,1 tbsp,rice vinegar,rice wine vinegar
 66,Condiments,"Lee Kum Kee Wok Sesame Oil 207Ml, £2.40 each",1.0,£2.40,1 tsp,sesame oil,sesame oil
@@ -760,7 +760,7 @@ recipe_id,section,item,quantity,price,quantities,raw_ingredients,simplified_ingr
 79,Condiments,"Flora Pure Sunflower Oil 1Lt Plus 25%, £3.50 each",1.0,£3.50,3 tbsp,sunflower oil,cooking oil
 79,"Pasta, rice and beans","Tesco Macaroni Pasta 500G, £0.95 each",2.0,£1.90,650g,macaroni,macaroni
 79,Dairy and eggs,"Tesco Organic Unsalted Butter 250G, £2.75 each",1.0,£2.75,40g,butter,butter
-79,Herbs and spices ,"Colman's Orignal English Mustard Powder 57G, £2.30 each",1.0,£2.30,1 tbsp,English mustard powder ,mustard powder
+79,Herbs and spices ,"Colman's Orignal English Mustard Powder 57G, £2.30 each",1.0,£2.30,1 tbsp,english mustard powder,mustard powder
 79,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",1.0,£0.55,1,lemon,lemon
 79,Fruits and vegetables,"Tesco Purple Sprouting Broccoli 200G, £1.80 each",1.0,£1.80,200g,purple sprouting broccoli,broccoli
 79,Fruits and vegetables,"Cauliflower Extra Large Each, £1.50 each",1.0,£1.50,1,cauliflower,cauliflower
@@ -834,7 +834,7 @@ recipe_id,section,item,quantity,price,quantities,raw_ingredients,simplified_ingr
 86,Meats and seafood,"Tesco Finest Mild & Delicate Smoked Salmon 120G, £5.25 each",1.0,£5.25,120g,smoked salmon,smoked salmon
 86,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",1.0,£0.95,1 clove,garlic,garlic
 86,Fruits and vegetables,"Tesco Fresh Cut Flat Leaf Parsley 30G, £0.60 each",1.0,£0.60,10g,fresh flat-leaf parsley,parsley
-86,Herbs and spices,"Tesco Cardamon 30G, £0.90 each",1.0,£0.90,2 pods,cardamom ,cardamom
+86,Herbs and spices,"Tesco Cardamon 30G, £0.90 each",1.0,£0.90,2 pods,cardamom,cardamom
 86,Fruits and vegetables,"Ginger Root Loose 0.10kg, £0.65 / 0.1kg",0.1,£0.65,10g,fresh ginger,ginger
 87,Canned foods,"Napolina Chopped Tomatoes 400G, £1.00 each",1.0,£1.00,1 tin,chopped tomatoes,chopped tomato
 87,Fruits and vegetables,"Tesco Dried Oregano 14G Jar, £0.90 each",1.0,£0.90,1 tsp,oregano,oregano
