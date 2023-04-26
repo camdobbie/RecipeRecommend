@@ -7,7 +7,7 @@ Created on Wed Apr  5 12:08:00 2023
 
 import pandas as pd
 
-data=pd.read_csv('ingredients2.csv')
+data=pd.read_csv('ingredients_next_50.csv')
 data.head()
 
 ingredients = data['ingredient']
@@ -61,7 +61,7 @@ data['quantities'] = quantities
 merged = [' '.join(item) for item in sep_ing]
 data['raw_ingredients'] = merged
 
-data.to_csv('ingredients3.csv', index=False)
+data.to_csv('ingredients_next_50.csv', index=False)
 
 
 

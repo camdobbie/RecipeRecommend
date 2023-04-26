@@ -15,8 +15,7 @@ df['url'] = 'https://tesco.list-integration.whisk.com/stateless-checkout?recipes
 info_df = pd.DataFrame(columns = ['recipe_id' , 'section', 'item', 'ingredient', 'quantity', 'price'])
 
 j = 0
-for i in range(150):
-    print(i)
+for i in range(150, 200):
     url = df['url'][i]
     
     # Set the path to the ChromeDriver executable
@@ -70,4 +69,4 @@ for i in range(150):
             pass
 
 # #save df to csv
-info_df.to_csv('ingredients_150_recipes.csv', index = False)
+info_df.to_csv('ingredients_next_50.csv', index = False)
