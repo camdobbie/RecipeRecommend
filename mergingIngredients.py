@@ -9,6 +9,9 @@ df = pd.concat([pd.read_csv(f) for f in glob.glob('categories_ingredients/*.csv'
 # replace ingredient column with simplified_ingredients column and remove the simplified ingredient column
 df = df.drop(columns = ['ingredient'])
 
+# strip the whitespace from the simplified ingredient column
+df['simplified_ingredients'] = df['simplified_ingredients'].str.strip()
+
 # remove the rows with recipe_id = 2 and 48
 df = df.loc[df['recipe_id'] != 2]
 df = df.loc[df['recipe_id'] != 48]
