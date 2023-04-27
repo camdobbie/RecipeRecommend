@@ -37,7 +37,7 @@ recipe_id,section,item,quantity,price,quantities,raw_ingredients,simplified_ingr
 4,Dairy and eggs,"Happy Egg Co Large Free Range Eggs 6 Pack, £2.50 each",1.0,£2.50,1,egg,egg
 4,Dairy and eggs,"Tesco Semi Skimmed Milk 568Ml/1 Pint, £0.95 each",1.0,£0.95,75ml,semi-skimmed milk,milk
 4,Meats and seafood,"Simon Howie Premium Pork Sausages 300G, £2.19 each",1.0,£2.19,4,pork sausages,pork sausage
-4,Fruits and vegetables,"Tesco Finest Extra Fine Beans 200G, £1.50 each",1.0,£1.50,100g,green beans,green beans
+4,Fruits and vegetables,"Tesco Finest Extra Fine Beans 200G, £1.50 each",1.0,£1.50,100g,green beans,green bean
 4,Frozen,"Birds Eye Garden Peas 375G, £1.60 each",1.0,£1.60,100g,frozen peas,pea
 4,Fruits and vegetables,"Tesco Tenderstem Broccoli 200G, £1.60 each",1.0,£1.60,100g,tenderstem broccoli,broccoli
 4,Other,"Tesco Finest Beef Stock 450Ml, £2.00 each",1.0,£2.00,200ml,beef stock,beef stock
@@ -53,7 +53,7 @@ recipe_id,section,item,quantity,price,quantities,raw_ingredients,simplified_ingr
 5,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",1.0,£0.50,1 bunch,spring onions,spring onion
 5,Fruits and vegetables,"Chestnut Mushrooms 250G, £1.10 each",1.0,£1.10,150g,mushrooms,mushroom
 5,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",1.0,£0.70,3,fresh red chillies,chilli
-5,Snacks,"Tesco Organic Fair Trade Cashew Nuts 150G, £3.20 each",1.0,£3.20,50g,unsalted cashew nuts,cashew nut
+5,Snacks,"Tesco Organic Fair Trade Cashew Nuts 150G, £3.20 each",1.0,£3.20,50g,unsalted cashew nuts,cashew
 5,Condiments,"Tesco Hot Chilli Sauce 500G, £1.20 each",1.0,£1.20,,hot chilli sauce,chilli sauce
 5,Condiments,"Lee Kum Kee Premium Light Soy Sauce 150Ml Plus Free Sauce, £1.40 each",1.0,£1.40,3 tbsp,low-salt soy sauce,soy sauce
 6,Herbs and spices,"East End Ground Cumin Powder 100G, £1.15 each",1.0,£1.15,2 tsp,ground cumin,ground cumin
@@ -138,7 +138,7 @@ recipe_id,section,item,quantity,price,quantities,raw_ingredients,simplified_ingr
 16,Fruits and vegetables,"Tesco Bunched Spring Onions 100G, £0.50 each",1.0,£0.50,100g,spring onions,spring onion
 16,Fruits and vegetables,"Ginger Root Loose 0.10kg, £0.65 / 0.1kg",0.1,£0.65,10g,fresh ginger,ginger
 16,Breakfast foods,"Tesco Clear Honey 454G, £1.60 each",1.0,£1.60,2 tbsp,clear honey,honey
-16,Fruits and vegetables,"Tesco Limes 5 Pack, £1.20 each",1.0,£1.20,2,limes juiced,lime juiced
+16,Fruits and vegetables,"Tesco Limes 5 Pack, £1.20 each",1.0,£1.20,2,limes juiced,lime
 16,"Pasta, rice and beans","Tilda Basmati Rice 500G, £3.00 each",1.0,£3.00,250g,basmati rice,rice
 16,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",1.0,£0.95,2 cloves,garlic,garlic
 16,Condiments,"Amoy Reduced Salt Soy Sauce 150Ml, £2.00 each",1.0,£2.00,3 tbsp,reduced-salt soy sauce,soy sauce
@@ -270,7 +270,7 @@ recipe_id,section,item,quantity,price,quantities,raw_ingredients,simplified_ingr
 29,Baking,"Trade Aid Uk Pure Cane Caster Sugar 1Kg, £2.00 each",1.0,£2.00,1 tbsp,caster sugar,caster sugar
 29,"Pasta, rice and beans","Tesco Straight To Wok Udon Noodles 300G, £1.00 each",2.0,£2.00,,udon noodles,egg noodle
 29,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",1.0,£0.70,1,red chilli,chilli
-30,Fruits and vegetables,"Tesco Beansprouts 300G, £0.71 each",1.0,£0.71,100g,beansprouts,beansprouts
+30,Fruits and vegetables,"Tesco Beansprouts 300G, £0.71 each",1.0,£0.71,100g,beansprouts,beansprout
 30,Herbs and spices,"Tesco Ground Turmeric 45G, £0.90 each",1.0,£0.90,0.75 tsp,ground turmeric,ground turmeric
 30,Fruits and vegetables,"Tesco Butterhead Lettuce, £0.65 each",1.0,£0.65,,butterhead lettuce,lettuce
 30,Drinks,"Tesco Ingredient Lime Juice 250Ml, £0.95 each",1.0,£0.95,2 tbsp,lime juice,lime juice
@@ -398,7 +398,7 @@ recipe_id,section,item,quantity,price,quantities,raw_ingredients,simplified_ingr
 44,Meats and seafood,"Tesco Lamb Sliced Liver 0.05kg, £0.22 / 0.05kg",0.45,£1.98,450g,lamb’s liver,lamb liver
 44,Meats and seafood,"T Northern Ireland Smoked Back Bacon 250G, £2.10 each",1.0,£2.10,4,rashers smoked back bacon,bacon
 44,Dairy and eggs,"Mlekovita Butter 200G, £2.20 each",1.0,£2.20,2 tbsp,unsalted butter,butter
-44,Fruits and vegetables,"Tesco Hand Shelled Peas 160G, £1.75 each",1.0,£1.75,,peas,peas
+44,Fruits and vegetables,"Tesco Hand Shelled Peas 160G, £1.75 each",1.0,£1.75,,peas,pea
 44,Baking,"Tesco Plain Flour 1.5Kg, £0.80 each",1.0,£0.80,3 tbsp,plain flour,plain flour
 44,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",0.12,£0.12,1,onion,onion
 45,Herbs and spices,"Tesco Ground Sweet Cinnamon 40G, £0.90 each",1.0,£0.90,1 tsp,ground cinnamon,ground cinnamon
@@ -467,7 +467,7 @@ recipe_id,section,item,quantity,price,quantities,raw_ingredients,simplified_ingr
 51,Condiments,"Tesco Classic Green Pesto 190G, £1.25 each",1.0,£1.25,6 tsp,pesto,green pesto
 51,Meats and seafood,"Tesco Finest Aberdeen Angus Steak Mince 500G, £4.65 each",1.0,£4.65,500g,meat & veg beef mince,beef mince
 51,Dairy and eggs,"Tesco Finest Coastal Bite Cheddar 200G, £2.30 each",1.0,£2.30,50g,cheddar,cheese
-51,Bread and bakery,"Tesco Wholemeal Batch Rolls 6 Pack, £0.55 each",1.0,£0.55,6,wholemeal buns,rolls
+51,Bread and bakery,"Tesco Wholemeal Batch Rolls 6 Pack, £0.55 each",1.0,£0.55,6,wholemeal buns,roll
 52,Dairy and eggs,"Yeo Valley Natural Yogurt 150G, £0.85 each",1.0,£0.85,4 tbsp,natural yogurt,yogurt
 52,Fruits and vegetables,"Tesco Fresh Cut Coriander 30G, £0.52 each",1.0,£0.52,15g,fresh coriander,coriander
 52,Condiments,"Pataks Tikka Masala Paste Pots 2X70g, £1.49 each",1.0,£1.49,2 tbsp,tikka paste,tikka paste
@@ -558,7 +558,7 @@ recipe_id,section,item,quantity,price,quantities,raw_ingredients,simplified_ingr
 61,Other,"Knorr Organic Chicken Stock Pot 4X26g, £2.00 each",1.0,£2.00,2,chicken stock pots,chicken stock
 61,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",0.36,£0.36,3,onions,onion
 61,Canned foods,"Tesco Cannellini Beans 400G, £0.63 each",1.0,£0.63,400g tin,cannellini beans,bean
-61,Fruits and vegetables,"Leeks Loose Class 2 0.25kg, £0.63 / 0.25kg",0.25,£0.63,2,leeks,leeks
+61,Fruits and vegetables,"Leeks Loose Class 2 0.25kg, £0.63 / 0.25kg",0.25,£0.63,2,leeks,leek
 61,Fruits and vegetables,"Tesco Carrots Loose 0.16kg, £0.08 / 0.16kg",0.32,£0.16,3,carrots,carrot
 61,Fruits and vegetables,"Tesco Bay Leaves 3G, £0.90 each",1.0,£0.90,2,bay leaves,bay leaf
 62,Fruits and vegetables,"Tesco Red Onions 3Pack Minimum, £1.00 each",1.0,£1.00,3,red onions,onion
@@ -740,11 +740,11 @@ recipe_id,section,item,quantity,price,quantities,raw_ingredients,simplified_ingr
 77,Herbs and spices,"East End Ground Cumin Powder 100G, £1.15 each",1.0,£1.15,2 tsp,ground cumin,ground cumin
 77,Herbs and spices,"Tesco Ground Turmeric 45G, £0.90 each",1.0,£0.90,1 tsp,ground turmeric,ground turmeric
 77,Fruits and vegetables,"Tesco Parmentier Potatoes 400G, £2.00 each",1.0,£2.00,300g,potatoes,potato
-77,Fruits and vegetables,"Tesco Green Beans 80G, £1.25 each",1.0,£1.25,,green beans,green beans
+77,Fruits and vegetables,"Tesco Green Beans 80G, £1.25 each",1.0,£1.25,,green beans,green bean
 77,Dairy and eggs,"Cathedral City Mature Grated 180G, £2.30 each",1.0,£2.30,100g,mature cheddar,cheese
 77,Fruits and vegetables,"Tesco Carrots Loose 0.16kg, £0.08 / 0.16kg",0.32,£0.16,2,carrots,carrot
 77,Canned foods,"Tesco Butter Beans 400G, £0.63 each",1.0,£0.63,400g tin,butter beans,bean
-77,Baking,"Tesco Self Raising Flour 1.5Kg, £0.80 each",1.0,£0.80,100g,self-raising four,self-raising four
+77,Baking,"Tesco Self Raising Flour 1.5Kg, £0.80 each",1.0,£0.80,100g,self-raising four,self-raising flour
 77,Other,"Kallo Organic Beef Stock Cubes 8Pk 88G, £1.90 each",1.0,£1.90,1,beef stock cube,beef stock
 77,Fruits and vegetables,"Tesco Celery Sticks 250G, £0.85 each",1.0,£0.85,2 sticks,celery,celery
 77,Meats and seafood,"Tesco Finest Diced Beef 400G, £5.30 each",1.0,£5.30,400g,diced beef,diced beef
@@ -907,7 +907,7 @@ recipe_id,section,item,quantity,price,quantities,raw_ingredients,simplified_ingr
 92,Dairy and eggs,"Tesco British Salted Block Butter 250G ++, £1.99 each",1.0,£1.99,150g,salted butter,butter
 93,"Pasta, rice and beans","Tesco Tagliatelle Pasta 500G, £0.95 each",1.0,£0.95,300g,tagliatelle,pasta
 93,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",1.0,£0.95,2 cloves,garlic,garlic
-93,Fruits and vegetables,"Leeks Loose Class 2 0.25kg, £0.63 / 0.25kg",0.25,£0.63,2,leeks,leeks
+93,Fruits and vegetables,"Leeks Loose Class 2 0.25kg, £0.63 / 0.25kg",0.25,£0.63,2,leeks,leek
 93,Fruits and vegetables,"Tesco Red Chillies 60G, £0.70 each",1.0,£0.70,1,red chilli,chilli
 93,Fruits and vegetables,"Perfectly Imperfect Parsnips 500G, £0.50 each",1.0,£0.50,500g,parsnips,parsnips
 93,Dairy and eggs,"Tesco Parmigiano Reggiano 100G, £2.10 each",1.0,£2.10,50g,parmesan cheese,parmesan
@@ -928,7 +928,7 @@ recipe_id,section,item,quantity,price,quantities,raw_ingredients,simplified_ingr
 94,Fruits and vegetables,"Tesco Carrots Loose 0.16kg, £0.08 / 0.16kg",0.32,£0.16,2,carrots,carrot
 94,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",1.0,£0.55,1,lemon,lemon
 95,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",0.12,£0.12,1,white onion,onion
-95,Fruits and vegetables,"Leeks Loose Class 2 0.25kg, £0.63 / 0.25kg",0.25,£0.63,2,leeks,leeks
+95,Fruits and vegetables,"Leeks Loose Class 2 0.25kg, £0.63 / 0.25kg",0.25,£0.63,2,leeks,leek
 95,Fruits and vegetables,"Tesco Bay Leaves 3G, £0.90 each",1.0,£0.90,3,bay leaves,bay leaf
 95,Dairy and eggs,"Tesco Organic Unsalted Butter 250G, £2.75 each",1.0,£2.75,25g,butter,butter
 95,Other,"Marigold Swiss Vegetable Bouillon Powder 150G, £2.30 each",1.0,£2.30,,vegetable bouillon powder,vegetable bouillon powder
@@ -986,9 +986,9 @@ recipe_id,section,item,quantity,price,quantities,raw_ingredients,simplified_ingr
 101,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",0.12,£0.12,1,onion,onion
 101,Fruits and vegetables,"Nightingale Farms Peppers 375G, £1.35 each",2.0,£2.70,5,green peppers,pepper
 101,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",1.0,£0.95,2 cloves,garlic,garlic
-102,Fruits and vegetables,"Organic Leeks 400G, £1.90 each",1.0,£1.90,375g,leeks,leeks
+102,Fruits and vegetables,"Organic Leeks 400G, £1.90 each",1.0,£1.90,375g,leeks,leek
 102,Fruits and vegetables,"Loose Red Onions Class 2 0.21kg, £0.21 / 0.21kg",0.21,£0.21,2,red onions,onion
-102,Fruits and vegetables,"Tesco Thyme 20G, £0.52 each",1.0,£0.52,1 tsp,fresh thyme leaves,thyme leaves
+102,Fruits and vegetables,"Tesco Thyme 20G, £0.52 each",1.0,£0.52,1 tsp,fresh thyme leaves,thyme
 102,Dairy and eggs,"Cathedral City Mature Grated 180G, £2.30 each",1.0,£2.30,100g,strong cheddar,cheese
 102,Dairy and eggs,"Tesco Whole Milk 568Ml/1 Pint, £0.95 each",1.0,£0.95,300ml,milk,milk
 102,Fruits and vegetables,"Cauliflower Extra Large Each, £1.50 each",2.0,£3.00,600g,cauliflower,cauliflower
@@ -1022,14 +1022,14 @@ recipe_id,section,item,quantity,price,quantities,raw_ingredients,simplified_ingr
 105,Fruits and vegetables,"Tesco Peeled Potatoes 700G, £1.25 each",1.0,£1.25,750g,potatoes,potato
 105,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",1.0,£0.95,2 cloves,garlic,garlic
 105,Fruits and vegetables,"Tesco Fresh Cut Flat Leaf Parsley 30G, £0.60 each",1.0,£0.60,5g,fresh flat-leaf parsley,parsley
-105,Fruits and vegetables,"Courgettes Loose Class 1 0.20kg, £0.58 / 0.2kg",0.4,£1.16,2,courgettes,courgettes
+105,Fruits and vegetables,"Courgettes Loose Class 1 0.20kg, £0.58 / 0.2kg",0.4,£1.16,2,courgettes,courgette
 105,Fruits and vegetables,"Tesco Carrots Loose 0.16kg, £0.08 / 0.16kg",0.48,£0.24,300g,carrots,carrot
 105,Dairy and eggs,"Happy Egg Co Large Free Range Eggs 6 Pack, £2.50 each",1.0,£2.50,4,eggs,egg
 106,Dairy and eggs,"Tesco White Stilton 180G, £2.30 each",1.0,£2.30,125g,gorgonzola,cheese
 106,Dairy and eggs,"Tesco Grated Parmigiano Reggiano 100G, £2.35 each",1.0,£2.35,3 tbsp,grated parmesan,parmesan
 106,Baking,"Paxo Natural Breadcrumbs 227G, £1.55 each",1.0,£1.55,,breadcrumbs,breadcrumb
 106,Dairy and eggs,"Tesco Fresh Single Cream 300Ml, £1.20 each",1.0,£1.20,200ml,single cream,single cream
-106,"Pasta, rice and beans","De Cecco Gnocchi Di Patate 500G, £2.40 each",1.0,£2.40,500g,potato gnocchi,potato gnocchi
+106,"Pasta, rice and beans","De Cecco Gnocchi Di Patate 500G, £2.40 each",1.0,£2.40,500g,potato gnocchi,gnocchi
 106,Fruits and vegetables,"Tesco Tenderstem Broccoli 200G, £1.60 each",1.0,£1.60,200g,tenderstem broccoli,broccoli
 106,Fruits and vegetables,"Tesco Finest Sugarbelle Tomatoes 220G, £1.80 each",1.0,£1.80,200g,cherry tomatoes,tomato
 107,Dairy and eggs,"Tesco Parmigiano Reggiano 100G, £2.10 each",1.0,£2.10,100g,hard cheese,cheese
@@ -1055,7 +1055,7 @@ recipe_id,section,item,quantity,price,quantities,raw_ingredients,simplified_ingr
 108,Herbs and spices,"Tesco Nutmeg 33G, £0.90 each",1.0,£0.90,0.25 tsp,nutmeg,nutmeg
 109,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",0.12,£0.12,1,onion,onion
 109,Fruits and vegetables,"Tesco Rosemary 20G, £0.52 each",1.0,£0.52,2 tbsp,rosemary,rosemary
-109,Fruits and vegetables,"Leeks Loose Class 2 0.25kg, £0.63 / 0.25kg",0.5,£1.25,3,leeks,leeks
+109,Fruits and vegetables,"Leeks Loose Class 2 0.25kg, £0.63 / 0.25kg",0.5,£1.25,3,leeks,leek
 109,Meats and seafood,"Tesco 6 Prosciutto Crudo Slices 84G, £1.25 each",1.0,£1.25,6,slices prosciutto,prosciutto
 109,Fruits and vegetables,"Tesco Organic Garlic 3 Pack, £1.00 each",1.0,£1.00,3 cloves,garlic,garlic
 109,Dairy and eggs,"Mlekovita Butter 200G, £2.20 each",1.0,£2.20,50g,unsalted butter,butter
@@ -1090,7 +1090,7 @@ recipe_id,section,item,quantity,price,quantities,raw_ingredients,simplified_ingr
 112,Fruits and vegetables,"Ginger Root Loose 0.10kg, £0.65 / 0.1kg",0.1,£0.65,,root ginger,ginger
 112,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",1.0,£0.95,1 clove,garlic,garlic
 112,Fruits and vegetables,"Tesco Carrots Loose 0.16kg, £0.08 / 0.16kg",0.32,£0.16,2,carrots,carrot
-112,Fruits and vegetables,"Tesco Beansprouts 300G, £0.71 each",1.0,£0.71,300g,bean sprouts,bean sprouts
+112,Fruits and vegetables,"Tesco Beansprouts 300G, £0.71 each",1.0,£0.71,300g,bean sprouts,beansprout
 112,Baking,"Tesco Dark Soft Brown Sugar 500G, £1.35 each",1.0,£1.35,1 tbsp,brown sugar,brown sugar
 112,Meats and seafood,"Tesco Finest Whole Raw Black Tiger Prawns 300G, £8.00 each",2.0,£16.00,200g,raw tiger prawns peeled and de-veined,prawn
 112,"Pasta, rice and beans","Thai Dragon Pad Thai Rice Noodles 200G, £1.20 each",2.0,£2.40,,pad thai noodle,rice noodle
@@ -1102,7 +1102,7 @@ recipe_id,section,item,quantity,price,quantities,raw_ingredients,simplified_ingr
 113,Other,"Tesco Finest Beef Stock 450Ml, £2.00 each",2.0,£4.00,500ml,beef stock,beef stock
 113,Baking,"Tesco Organic Plain Flour 1Kg, £1.40 each",1.0,£1.40,3 tbsp,seasoned flour,plain flour
 114,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",1.0,£0.55,1,lemon,lemon
-114,Dairy and eggs,"Tesco Gnocchi 500G, £1.90 each",2.0,£3.80,800g,fresh gnocchi,fresh gnocchi
+114,Dairy and eggs,"Tesco Gnocchi 500G, £1.90 each",2.0,£3.80,800g,fresh gnocchi,gnocchi
 114,Fruits and vegetables,"Finest Echalion Shallots 400G, £1.35 each",1.0,£1.35,,echalion shallot,onion
 114,Fruits and vegetables,"Tesco Family Pack Chestnut Mushroom 485G, £1.80 each",1.0,£1.80,300g,chestnut mushrooms,mushroom
 114,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",1.0,£0.95,2 cloves,garlic,garlic
@@ -1157,7 +1157,7 @@ recipe_id,section,item,quantity,price,quantities,raw_ingredients,simplified_ingr
 119,Other,"Kallo Organic Vegetable Stock Cubes 8Pk 88G, £1.90 each",1.0,£1.90,0.5,vegetable stock cube,vegetable stock
 119,Snacks,"Kp Original Salted Peanuts 50G, £0.90 each",1.0,£0.90,10g,roasted salted peanuts,peanut
 119,Frozen,"Redmere Farms Brown Onion 1Kg, £0.55 each",1.0,£0.55,20g,frozen diced onions,onion
-120,Fruits and vegetables,"Courgettes Loose Class 1 0.20kg, £0.58 / 0.2kg",0.6,£1.74,3,courgettes,courgettes
+120,Fruits and vegetables,"Courgettes Loose Class 1 0.20kg, £0.58 / 0.2kg",0.6,£1.74,3,courgettes,courgette
 120,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",0.12,£0.12,1,onion,onion
 120,Canned foods,"Grower's Harvest Chopped Tomatoes 400G, £0.32 each",2.0,£0.64,800g tins,chopped tomatoes,chopped tomato
 120,Dairy and eggs,"Tesco Mozzarella 240G, £1.00 each",2.0,£2.00,450g,mozzarella,mozzarella
@@ -1214,7 +1214,7 @@ recipe_id,section,item,quantity,price,quantities,raw_ingredients,simplified_ingr
 124,Bread and bakery,"Capsicana 6 Large Tortilla Wheat Flour Wraps 390G, £2.25 each",1.0,£2.25,4,tortilla wraps,tortilla
 124,Herbs and spices,"East End Ground Cumin Powder 100G, £1.15 each",1.0,£1.15,1 tsp,ground cumin,ground cumin
 124,Herbs and spices,"Tesco Ground Cayenne Pepper 48G, £0.90 each",1.0,£0.90,0.25 tsp,cayenne pepper,cayenne pepper
-124,Fruits and vegetables,"Asparagus Tips 125G Class 1, £2.00 each",1.0,£2.00,100g,asparagus spears,asparagus spears
+124,Fruits and vegetables,"Asparagus Tips 125G Class 1, £2.00 each",1.0,£2.00,100g,asparagus spears,asparagus
 124,Fruits and vegetables,"Loose Brown Onions 0.12kg, £0.12 / 0.12kg",0.12,£0.12,1,onion,onion
 124,Fruits and vegetables,"Tesco Wild Rocket 60G, £1.10 each",1.0,£1.10,50g,wild rocket,wild rocket
 124,Fruits and vegetables,"Tesco Organic Pepper 250G, £1.60 each",1.0,£1.60,1,red pepper,pepper
@@ -1375,7 +1375,7 @@ recipe_id,section,item,quantity,price,quantities,raw_ingredients,simplified_ingr
 140,Frozen,"Tesco Organic Spinach 200G, £1.90 each",1.0,£1.90,200g,frozen spinach,spinach
 140,Dairy and eggs,"Tesco Reduced Fat Mozzarella 240G, £1.00 each",1.0,£1.00,1,ball half-fat mozzarella,mozzarella
 141,Fruits and vegetables,"Tesco Cut Basil 30G, £0.52 each",1.0,£0.52,10g,fresh basil,basil
-141,Fruits and vegetables,"Courgettes Loose Class 1 0.20kg, £0.58 / 0.2kg",0.4,£1.16,2,courgettes,courgettes
+141,Fruits and vegetables,"Courgettes Loose Class 1 0.20kg, £0.58 / 0.2kg",0.4,£1.16,2,courgettes,courgette
 141,Meats and seafood,"Tesco Boneless Salmon Fillet 130G, £2.75 each",2.0,£5.50,260g,boneless salmon fillets,salmon
 141,Dairy and eggs,"Tesco Mascarpone 250G, £1.80 each",1.0,£1.80,200g,lighter mascarpone,cheese
 141,Dairy and eggs,"Big & Free Large Free Range Eggs 6 Pack, £2.50 each",1.0,£2.50,1,egg yolk,egg
@@ -1462,6 +1462,6 @@ recipe_id,section,item,quantity,price,quantities,raw_ingredients,simplified_ingr
 149,Fruits and vegetables,"Cauliflower Extra Large Each, £1.50 each",1.0,£1.50,500g,cauliflower,cauliflower
 149,Fruits and vegetables,"Tesco Celery Sticks 250G, £0.85 each",1.0,£0.85,1 stick,celery,celery
 149,Fruits and vegetables,"Redmere Farms Garlic 4 Pack, £0.95 each",1.0,£0.95,2 cloves,garlic,garlic
-149,Fruits and vegetables,"Tesco Green Beans 80G, £1.25 each",1.0,£1.25,,green beans,green beans
+149,Fruits and vegetables,"Tesco Green Beans 80G, £1.25 each",1.0,£1.25,,green beans,green bean
 149,Fruits and vegetables,"Tesco Finest Shiitake Mushrooms 125G, £1.75 each",2.0,£3.50,,shiitake mushroom,mushroom
 149,Fruits and vegetables,"Tesco Fresh Cut Curled Parsley 30G, £0.60 each",1.0,£0.60,5g,fresh parsley,parsley
