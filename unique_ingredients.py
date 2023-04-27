@@ -9,7 +9,8 @@ unique_ingredients = unique_ingredients[np.argsort(counts)[::-1]]
 ingredients_counts = counts[np.argsort(counts)[::-1]]
 # %%
 # create a dataframe with the ingredients, items and price
-ingredients_df = pd.DataFrame(columns = ['recipe_id', 'section', 'ingredient', 'item', 'price'])
+ingredients_df = pd.DataFrame(columns = ['recipe_id', 'section', 'ingredient', 'item', 'price', 'quantity'])
+each_exceptions = ['Jar', 'Cucumber', 'Baguettes', 'Greens', 'Lettuce', 'wine']
 # loop through the ingredients
 for i in range(len(unique_ingredients)):
     # get the ingredient
@@ -21,7 +22,8 @@ for i in range(len(unique_ingredients)):
     section = np.unique(rows['section'].values)
     # strip square brackets from the section
     section = section[0].replace('[','').replace(']','')
-    items = rows['item'].values
+    items = rows['item'].values   
+    # find prices
     prices = rows['price'].values
     # loop through the items and prices
     for j in range(len(items)):
@@ -30,8 +32,25 @@ for i in range(len(unique_ingredients)):
             prices[j] = '£' + str(float(prices[j].replace("£",""))/float(rows['quantity'].values[j]))
         except:
             prices[j] = '£' + str(float(prices[j])/float(rows['quantity'].values[j]))
+        # get the quantity
+        item = items[j]
+        # split at the comma
+        item = item.split(',')
+        # retrieve the first element
+        item = item[0]
+        # get last word
+        if item.split(' ')[-2] == 'Class':
+            quantity = item.split(' ')[-3]
+        else:
+            quantity = item.split(' ')[-1]
+        if quantity in each_exceptions:
+            quantity = 'Each'
+        if quantity == "++" or '-' in quantity.split() or quantity == 'Stems' or quantity == "Pack":
+            quantity = item.split(' ')[-2]
+        if quantity == "Wraps" or quantity == "Bread":
+            quantity = item.split(' ')[1]
         # add the ingredient, item and price to the dataframe
-        ingredients_df.loc[len(ingredients_df)] = [str(ids), section , ingredient, items[j], prices[j]]
+        ingredients_df.loc[len(ingredients_df)] = [str(ids), section , ingredient, items[j], prices[j], quantity]
 # sort by ingredient name then price (ascending)
 ingredients_df = ingredients_df.sort_values(by=['ingredient', 'price'])
 # only keep the first instance of each ingredient
@@ -48,7 +67,7 @@ plt.xlabel('Ingredient')
 plt.ylabel('Frequency')
 plt.title('Frequency of ingredients')
 plt.show()
-# plot the frequency of each section\
+# plot the frequency of each section
 unique_sections,sections_counts = np.unique(ingredients_df['section'].values, return_counts = True)
 unique_sections = unique_sections[np.argsort(sections_counts)[::-1]]
 sections_counts = sections_counts[np.argsort(sections_counts)[::-1]]
@@ -58,5 +77,14 @@ plt.xticks(rotation=90)
 plt.xlabel('Section')
 plt.ylabel('Frequency')
 plt.title('Frequency of sections')
+plt.show()
+# plot price distribution
+prices = ingredients_df['price'].values
+prices = [float(price.replace('£','')) for price in prices]
+plt.figure(figsize=(10,5))
+plt.hist(prices, bins = 100)
+plt.xlabel('Price')
+plt.ylabel('Frequency')
+plt.title('Price distribution')
 plt.show()
 # %%
