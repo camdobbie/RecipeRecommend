@@ -1,6 +1,6 @@
 ﻿recipe_id,section,item,ingredient,quantity,price,quantities,raw_ingredients,simplified_ingredients
 0,Snacks,"Tesco Cool Tortilla Chips 200G, £1.00 each",20 tortilla chips,1,£1.00,20,tortilla chips,tortilla chip
-5,Snacks,"Tesco Organic Fair Trade Cashew Nuts 150G, £3.20 each",50g unsalted cashew nuts,1,£3.20,50g,unsalted cashew nuts,cashew nut
+5,Snacks,"Tesco Organic Fair Trade Cashew Nuts 150G, £3.20 each",50g unsalted cashew nuts,1,£3.20,50g,unsalted cashew nuts,cashew
 11,Snacks,"Wholefood Pine Nuts 100G, £3.80 each",50g pine nuts,1,£3.80,50g,pine nuts,pine nut
 11,Snacks,"Whitworths Sunny Raisins 14 X 14G, £2.40 each",50g raisins,1,£2.40,50g,raisins,raisin
 15,Snacks,"Kp Unsalted Peanuts 250G, £3.00 each",25g unsalted peanuts,1,£3.00,25g,unsalted peanuts,peanut
