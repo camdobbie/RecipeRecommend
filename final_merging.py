@@ -20,9 +20,24 @@ names = recipes['name']
 dietlabels = recipes['dietary']
 urls = recipes['url']
 
-user = ['apple','rice','pasta','cheese','pepper','mushroom','leek','coriander']       
-# user = input('Please list any ingredients you already have at home')
 
+ 
+
+for i in range(len(ingredients)):
+    if i != 27 and i != 75 and i != 250:
+        print(ingredients[i])
+        
+# user = input('Please list any ingredients from the list above that you already have at home. We are assuming that you already have salt, black pepper and cooking oil.')
+# make sure user input turns into a list like the one below 
+user = ['apple','rice','pasta','cheese','pepper','mushroom','leek','coriander']       
+# then add 'salt', 'black pepper' and 'cooking oil' to this list 
+
+dietlist = ['Vegetarian', 'Vegan', 'Dairy Free', 'Gluten Free']
+print('Please say if you have any of the following dietary requirements: \n')
+for i in range(4):
+    print(dietlist[i])
+# would they just click enter if none? 
+# write line that has a user input that turns it into a list like the one below called preference
 preference = 'Vegetarian'
  
 # finds which row of the datasets each ingredient is in
