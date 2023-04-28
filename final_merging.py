@@ -31,25 +31,47 @@ for i, ing in enumerate(ingredientlist):
     sec = sectionlist[i]
     section_dict[sec].append(ing)
  
-"""
-for i in range(len(ingredients)):
-    if i != 27 and i != 75 and i != 250:
-        print(ingredients[i])
-"""       
+def print_section():
+    for sec in set(sectionlist):
+        print(f'\n{sec}:')
+        for i in range(len(section_dict[sec])):
+            # print the ingredients in a list making first letter of each word capital
+            print(section_dict[sec][i].title())
+        print('\n')
 
-# user = input('Please list any ingredients from the list above that you already have at home. We are assuming that you already have salt, black pepper and cooking oil.')
-# make sure user input turns into a list like the one below 
-user = ['apple','rice','pasta','cheese','pepper','mushroom','leek','coriander']       
-# then add 'salt', 'black pepper' and 'cooking oil' to this list 
+print_section()
+user = []
+user_input = input('Please list any ingredients from the list above that you already have at home. We are assuming that you already have salt, black pepper and cooking oil.\nHit enter to stop listing ingredients. ')
+while user_input != '':
+    # show the user the list of ingredients again if they type 'list'
+    if user_input == 'list':
+        print_section()
+    # check if the ingredient is in the list of ingredients
+    elif user_input in ingredients.tolist() and user_input not in user:
+        user.append(user_input.lower())
+    else:
+        print('\nSorry, that ingredient is not in the list or you have already listed it. Please try again.')
+    user_input = input('\nPlease list any ingredients from the list above that you already have at home. We are assuming that you already have salt, black pepper and cooking oil.\nHit enter to stop listing ingredients. ').lower()
+
+# if the user doesn't have salt, black pepper or cooking oil,      
+# then add 'salt', 'black pepper' and 'cooking oil' to this list
+if 'salt' not in user:
+    user.append('salt')
+if 'black pepper' not in user:
+    user.append('black pepper')
+if 'cooking oil' not in user:
+    user.append('cooking oil')
 
 dietlist = ['Vegetarian', 'Vegan', 'Dairy Free', 'Gluten Free']
 print('Please say if you have any of the following dietary requirements: \n')
 for i in range(4):
     print(dietlist[i])
-# would they just click enter if none? 
-# write line that has a user input that turns it into a list like the one below called preference
-preference = 'Vegetarian'
- 
+
+preference = input('Please enter your dietary preference from the list above. Hit enter if you have no preference. ').title()
+while preference not in dietlist and preference != '':
+    print('Sorry, that is not a valid dietary preference. Please try again.')
+    preference = input('Please enter your dietary preference from the list above. Hit enter if you have no preference. ').title()
+
 # finds which row of the datasets each ingredient is in
 indexes = []
 for i in range(len(user)):
@@ -66,7 +88,7 @@ recipesfound = [int(num) for num in recipesfound]
 
 # gets rid of the recipes that don't fit the preference 
 for i in recipesfound:
-    if preference not in dietlabels[i]:
+    if preference not in dietlabels[i] and preference != '':
         recipesfound.remove(i)
 
 # finds the recipes that contain the highest number of these ingredients
@@ -78,8 +100,8 @@ most_common = counts.most_common(2) # change to 10 when more ingredients
 recommend = [t[0] for t in most_common] # recipe IDs for the recipes it's recommending
 # printing the final recommended recipes
 for i in recommend:
-    print(names[i])
-    print('URL: ' + urls[i] + '\n')
+    print(f'\n{names[i]}')
+    print('URL: ' + urls[i])
 
 # need to change this to a GUI and do them by section  
 # don't include herbs and spices in taking off what they have from 2nd recipe 
