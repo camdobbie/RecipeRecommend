@@ -12,6 +12,7 @@ data.head()
 
 ingredients = data['ingredient']
 ingredientids = data['recipe_id']
+sections = data['section']
 
 recipes=pd.read_csv('recipes_150_recipes.csv')
 recipes.head()
@@ -20,13 +21,23 @@ names = recipes['name']
 dietlabels = recipes['dietary']
 urls = recipes['url']
 
-
+# printing all the unique ingredients by section 
+sectionlist = sections.tolist() 
+ingredientlist = ingredients.tolist() 
+section_dict = {}
+for sec in set(sectionlist):
+    section_dict[sec] = []
+for i, ing in enumerate(ingredientlist):
+    sec = sectionlist[i]
+    section_dict[sec].append(ing)
  
-
+"""
 for i in range(len(ingredients)):
     if i != 27 and i != 75 and i != 250:
         print(ingredients[i])
-        
+""" 
+       
+
 # user = input('Please list any ingredients from the list above that you already have at home. We are assuming that you already have salt, black pepper and cooking oil.')
 # make sure user input turns into a list like the one below 
 user = ['apple','rice','pasta','cheese','pepper','mushroom','leek','coriander']       
@@ -66,9 +77,10 @@ most_common = counts.most_common(2) # change to 10 when more ingredients
 # also shows how many times they appear 
 
 recommend = [t[0] for t in most_common] # recipe IDs for the recipes it's recommending
+# printing the final recommended recipes
 for i in recommend:
     print(names[i])
-    print('URL: ' + urls[i])
+    print('URL: ' + urls[i] + '\n')
 
 # need to change this to a GUI and do them by section  
 # don't include herbs and spices in taking off what they have from 2nd recipe 
