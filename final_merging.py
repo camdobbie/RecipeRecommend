@@ -17,9 +17,12 @@ sections = data['section']
 recipes=pd.read_csv('recipes_150_recipes.csv')
 recipes.head()
 
+ids = recipes['recipe_id']
 names = recipes['name']
 dietlabels = recipes['dietary']
 urls = recipes['url']
+
+prices = pd.read_csv('ingredients_simplified.csv')
 
 # printing all the unique ingredients by section 
 sectionlist = sections.tolist() 
@@ -94,14 +97,40 @@ for i in recipesfound:
 # finds the recipes that contain the highest number of these ingredients
 from collections import Counter
 counts = Counter(recipesfound)
-most_common = counts.most_common(2) # change to 10 when more ingredients
+most_common = counts.most_common(10) # change to 10 when more ingredients
 # also shows how many times they appear 
 
 recommend = [t[0] for t in most_common] # recipe IDs for the recipes it's recommending
+print(recommend)
+
+out_df = pd.DataFrame(columns=['recipe_id', 'name', 'url', 'ingredients', 'price'])
 # printing the final recommended recipes
 for i in recommend:
-    print(f'\n{names[i]}')
-    print('URL: ' + urls[i])
+    # print(f'\n{names[i]}')
+    id = ids[i]
+    ings = prices.loc[prices['recipe_id'] == id]['simplified_ingredients'].values
+    price = prices.loc[prices['recipe_id'] == id]['price'].values
+    price = 0
+    for j,ing in enumerate(ings):
+        if ing not in user:
+            # add price after removing pound sign
+            price+=float(prices.loc[prices['recipe_id'] == id]['price'].values[j].replace('£',''))
+        else:
+            # remove the ingredient from the list
+            ings[j] = ''
+    ings = [ing for ing in ings if ing != '']
+    # print('Ingredients required: ' + ', '.join(ings))
+    # print(f'Price of remaining items: £{price}')
+    # print('URL: ' + urls[i])
 
+    out_df.loc[i, 'recipe_id'] = id
+    out_df.loc[i, 'name'] = names[i]
+    out_df.loc[i, 'url'] = urls[i]
+    out_df.loc[i, 'ingredients'] = ', '.join(ings)
+    out_df.loc[i, 'price'] = price
+
+# sort by price
+out_df = out_df.sort_values(by=['price'])
+print(out_df[['name','price']])
 # need to change this to a GUI and do them by section  
 # don't include herbs and spices in taking off what they have from 2nd recipe 
