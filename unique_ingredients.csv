@@ -289,7 +289,7 @@ recipe_id,section,ingredient,item,price,quantity
  112 115 116 134]",Fruits and vegetables,spring onion,"Tesco Bunched Spring Onions 100G, £0.50 each",£0.5,100G
 [115],Condiments,sriracha,"Tesco Sriracha Hot Chilli Sauce 285G, £1.95 each",£1.95,285G
 [103],Snacks,sultanas,"Tesco Sultanas 500G, £1.25 each",£1.25,500G
-[133],Condiments ,sundried tomatoes,"Tesco Sundried Tomatoes 225G, £2.65 each",£2.65,225G
+[133],Condiments,sundried tomatoes,"Tesco Sundried Tomatoes 225G, £2.65 each",£2.65,225G
 [63 81],Fruits and vegetables,swede,"Tesco Swede, £0.80 each",£0.8,Swede
 [ 52 119],Frozen,sweet potato,"Tesco Frozen Sweet Potato Chunks 600G, £1.80 each",£1.8,600G
 [62 64 74],Canned foods,sweetcorn,"Green Giant Original Sweet Corn 198G, £0.90 each",£0.9,198G
@@ -304,7 +304,7 @@ recipe_id,section,ingredient,item,price,quantity
 [  1  11  27  28  45  58  63  80  99 149],Condiments,tomato purée,"Tesco Tomato Puree Tube 200G, £0.60 each",£0.6,200G
 [  8  22  57  62  87 124 142],Bread and bakery,tortilla,"Tesco 8 Mini White Tortilla Wraps, £1.00 each",£1.0,8
 [0],Snacks,tortilla chip,"Tesco Cool Tortilla Chips 200G, £1.00 each",£1.0,200G
-[89 90],Meats and seafood,turkey,"Tesco Finest Free Range Heritage Narragansett Whole Turkey Medium 4kg - 5.25kg Serves 10-12, £12.00 each",£12.0,10-Dec
+[89 90],Meats and seafood,turkey,"Tesco Finest Free Range Heritage Narragansett Whole Turkey Medium 4kg - 5.25kg Serves 10-12, £12.00 each",£12.0,10-12
 [10 19],Condiments,vegan green pesto,"Sacla Vegan Basil Pesto 190G, £3.10 each",£3.1,190G
 [95],Other,vegetable bouillon powder,"Marigold Swiss Vegetable Bouillon Powder 150G, £2.30 each",£2.3,150G
 [ 18  19  20  21  28  37  64  74  75  79  82  94 119 135 139 145 149],Other,vegetable stock,"Tesco Vegetable Stockpot 4 Pack 112G, £1.20 each",£1.2,112G
