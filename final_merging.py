@@ -18,10 +18,26 @@ recipes.head()
 
 names = recipes['name']
 dietlabels = recipes['dietary']
+urls = recipes['url']
 
+
+ 
+
+for i in range(len(ingredients)):
+    if i != 27 and i != 75 and i != 250:
+        print(ingredients[i])
+        
+# user = input('Please list any ingredients from the list above that you already have at home. We are assuming that you already have salt, black pepper and cooking oil.')
+# make sure user input turns into a list like the one below 
 user = ['apple','rice','pasta','cheese','pepper','mushroom','leek','coriander']       
-# user = input('Please list any ingredients you already have at home')
+# then add 'salt', 'black pepper' and 'cooking oil' to this list 
 
+dietlist = ['Vegetarian', 'Vegan', 'Dairy Free', 'Gluten Free']
+print('Please say if you have any of the following dietary requirements: \n')
+for i in range(4):
+    print(dietlist[i])
+# would they just click enter if none? 
+# write line that has a user input that turns it into a list like the one below called preference
 preference = 'Vegetarian'
  
 # finds which row of the datasets each ingredient is in
@@ -52,7 +68,7 @@ most_common = counts.most_common(2) # change to 10 when more ingredients
 recommend = [t[0] for t in most_common] # recipe IDs for the recipes it's recommending
 for i in recommend:
     print(names[i])
-# ask if someone can add the URLs to recipes_150_recipes and then print the URLs too
+    print('URL: ' + urls[i])
 
 # need to change this to a GUI and do them by section  
 # don't include herbs and spices in taking off what they have from 2nd recipe 
