@@ -1,151 +1,151 @@
-recipe_id,name,servings,dietary
-0,Olly's 'thank you' Finest burgers recipe, 4,[]
-1,Steak and ale pie recipe, 6,['Dairy Free']
-2,Dhal soup recipe, 4-6,"['Vegan', 'Vegetarian', 'Gluten Free', 'Dairy Free']"
-3,Garlic crumpets recipe, 6,['Vegetarian']
-4,Air-fryer toad in the hole recipe, 2,[]
-5,Veggie noodle stir-fry recipe, 4,"['Vegetarian', 'Dairy Free']"
-6,"Chicken, broccoli, and orange couscous recipe", 4,['Dairy Free']
-7,Greek-style fish stew recipe, 4,"['Gluten Free', 'Dairy Free']"
-8,Spiced chickpea wraps with vegan raita recipe, 4,"['Vegan', 'Vegetarian', 'Dairy Free']"
-9,Air-fryer classic frittata recipe,  2,['Vegetarian']
-10,"Crispy gnocchi, broccoli and cheese bake recipe", 4,['Vegetarian']
-11,Lamb filo swirl pie recipe, 8,[]
-12,Nutty chicken noodle salad recipe, 4,['Dairy Free']
-13,Salt-crusted potatoes with green sauce recipe,  6 as a side,[]
-14,Jamie's spring watercress pasta recipe, 2,['Vegetarian']
-15,Thai green pork and broccoli curry recipe, 4,"['Gluten Free', 'Dairy Free']"
-16,Soy and honey chicken thighs with green rice recipe, 4,['Dairy Free']
-17,Air-fryer baked potato recipe, 2,[]
-18,Braised spring greens with bacon recipe, 4 as a side,"['Gluten Free', 'Dairy Free']"
-19,Corned beef and butter bean stew recipe, 4,['Dairy Free']
-20,No-stir baked risotto primavera recipe, 4,[]
-21,Middle Eastern rice 'cake' (Maqluba) recipe, 6,"['Vegan', 'Vegetarian', 'Gluten Free', 'Dairy Free']"
-22,Crispy basa tacos with kiwi salsa recipe, 4,[]
-23,Air-fryer crispy tofu recipe,  2,"['Vegan', 'Vegetarian']"
-24,Air-fryer chicken tenders recipe, 4,[]
-25,Tinned beef massaman recipe, 4,[]
-26,Air-fryer sweet potato fries recipe, 4,['Vegetarian']
-27,Spaghetti lasagne recipe, 4,[]
-28,Storecupboard puttanesca rice recipe, 2,[]
-29,Yaki udon recipe, 4,['Vegetarian']
-30,Bánh xéo recipe, 6,[]
-31,Basil and garlic tomato sauce recipe,Makes 500ml,"['Vegan', 'Vegetarian', 'Gluten Free', 'Dairy Free']"
-32,Jamie's tomato and mussel pasta recipe, 4,[]
-33,Jamie's quick folded pan pizza recipe,  4 (makes 2 pizzas),['Vegetarian']
-34,Smoky bangers and beans recipe, 4,['Dairy Free']
-35,"Meatball, beetroot and lentil bake recipe", 4,['Gluten Free']
-36,Spinach and feta turnovers recipe, 4,['Vegetarian']
-37,Pasta and bean soup recipe, 4,"['Vegan', 'Vegetarian', 'Dairy Free']"
-38,Garlic soup with homemade stock recipe, 4,[]
-39,Chickpea and aubergine stew recipe, 6,"['Vegan', 'Vegetarian', 'Gluten Free', 'Dairy Free']"
-40,Cheat's bacon and mushroom lasagne recipe, 4,[]
-41,Mackerel katsu rice bowls recipe, 4,[]
-42,Roast chicken Kyiv recipe,  4 plus 6 portions leftover,[]
-43,Coronation chicken stuffed potatoes recipe, 2,[]
-44,"Slow-cooker lamb's liver, bacon and onions recipe", 4,[]
-45,Slow-cooker Persian lamb and rhubarb stew recipe, 6,['Gluten Free']
-46,Chana masala curry with rice recipe, 4,"['Vegan', 'Vegetarian', 'Gluten Free', 'Dairy Free']"
-47,Chicken and leek alfredo recipe, 4,[]
-48,"Aubergine, black-eyed bean and spinach curry recipe", 4,"['Vegan', 'Vegetarian', 'Gluten Free', 'Dairy Free']"
-49,Microwave shakshuka recipe, 1,"['Vegetarian', 'Dairy Free']"
-50,Slow-cooker French onion soup recipe, 4,[]
-51,Jamie's more-veg sloppy Joes recipe, 6,[]
-52,Sweet potato & pepper tikka masala recipe, 4,"['Vegetarian', 'Gluten Free']"
-53,Veggie cheat’s folded pizzas recipe, 4,['Vegetarian']
-54,Jamie's harissa falafel recipe, 2,['Vegetarian']
-55,Odds and ends arrabbiata al forno recipe, 4,[]
-56,Creamy hidden-bean pasta sauce recipe, 6,"['Vegan', 'Vegetarian', 'Dairy Free']"
-57,Jamie's Mexican-inspired black bean bake recipe, 4,['Vegetarian']
-58,Sweet potato and black bean chilli bowls with cherry tomato salsa recipe, 6,"['Vegan', 'Vegetarian', 'Gluten Free', 'Dairy Free']"
-59,"Crispy new potato, pepper and feta traybake recipe", 4,['Vegetarian']
-60,Savoy cabbage and soya bean rice recipe, 2,"['Vegetarian', 'Dairy Free']"
-61,Batch-cook soup concentrate recipe, 8,"['Vegetarian', 'Gluten Free', 'Dairy Free']"
-62,Bean and corn enchiladas recipe, 4,"['Vegan', 'Vegetarian', 'Dairy Free']"
-63,Root veg cassoulet with chicken livers recipe, 6,"['Gluten Free', 'Dairy Free']"
-64,Spicy mackerel couscous bowl recipe, 2,[]
-65,Sausages with Sicilian-inspired carrot stew recipe, 4,['Dairy Free']
-66,Air-fryer crispy salt and pepper chicken wings recipe, 4,[]
-67,Muttar paneer cottage pie recipe, 6,"['Vegetarian', 'Gluten Free']"
-68,Green lentil stew with bacon and sage recipe, 8,['Gluten Free']
-69,Microwave red lentil dhal recipe, 1,"['Vegetarian', 'Gluten Free']"
-70,Lamb meatballs with cheese and dill recipe, 4,[]
-71,Carrot caponata spaghetti recipe, 4,['Vegetarian']
-72,Air-fryer roast potatoes recipe, 4,['Vegetarian']
-73,Pesto chicken one-pot recipe, 4,[]
-74,"Sweetcorn, squash and spring onion ramen recipe", 4,['Vegetarian']
-75,"Mushroom, squash and barley pie recipe", 4,['Vegetarian']
-76,Air-fryer falafel wraps recipe, 2,['Vegetarian']
-77,Beef stew with parsnip dumplings recipe, 4,[]
-78,Air-fryer chunky chips recipe, 4,['Vegetarian']
-79,Stovetop cauliflower and broccoli mac and cheese recipe, 8,['Vegetarian']
-80,Spiced turkey 'Bolognese' recipe, 8,"['Gluten Free', 'Dairy Free']"
-81,Pork and swede stir fry recipe, 2,['Dairy Free']
-82,Microwave pearl barley risotto recipe, 4,"['Vegan', 'Vegetarian', 'Dairy Free']"
-83,Air-fryer salmon with honey and mustard sauce recipe, 2,[]
-84,Rustic lamb stew recipe,  6-8,[]
-85,5-ingredient Piri-Piri pasta recipe, 4,[]
-86,Salmon kedgeree pie recipe, 6,['Dairy Free']
-87,Roasted root veg enchiladas recipe, 4,['Vegetarian']
-88,5-ingredient smoky cauliflower one-pot recipe, 4,"['Vegan', 'Vegetarian', 'Gluten Free', 'Dairy Free']"
-89,Jamie's one-pan turkey pasta recipe, 2,[]
-90,No-cook Vietnamese-style turkey noodle salad with peanut and mint recipe, 4,[]
-91,"Chickpea, date and pistachio pilaf recipe", 4,"['Vegan', 'Vegetarian', 'Dairy Free']"
-92,Slow-cooker braised red cabbage recipe,  6-8,['Vegetarian']
-93,Parsnip pasta recipe, 4,['Vegetarian']
-94,Italian bean stew recipe, 4,"['Vegan', 'Vegetarian', 'Dairy Free']"
-95,Rotisserie chicken with cabbage and leek boullion recipe, 4,[]
-96,Lemon and courgette linguine  recipe, 2,[]
-97,Cowboy beans recipe, 4,['Dairy Free']
-98,"Sticky lamb, sesame and watermelon salad recipe", 4,['Dairy Free']
-99,Sloppy-joe stuffed peppers with wedges recipe, 4,['Gluten Free']
-100,Baked sweet potatoes with tuna salsa recipe, 4,"['Gluten Free', 'Dairy Free']"
-101,Green pepper tortilla recipe, 4,['Dairy Free']
-102,Cauliflower cheese pithivier recipe, 8,['Vegetarian']
-103,Roasted broccoli salad recipe, 2-4,['Vegetarian']
-104,Tomato and pesto spaghetti recipe, 4,[]
-105,Full-of-veg hash recipe, 4,"['Gluten Free', 'Dairy Free']"
-106,Gnocchi with Gorgonzola recipe, 4,[]
-107,Chickpea and roasted red pepper burgers recipe, 6,['Vegetarian']
-108,Spanakopita recipe, 4,[]
-109,"Leek, potato and rosemary soup recipe", 4-6,[]
-110,Greek-style lamb and sweet potato salad recipe, 2,['Gluten Free']
-111,"Sweet potato, pesto and pepperoni pizza recipe", 4,[]
-112,Pad Thai noodles recipe, 4,['Dairy Free']
-113,Liver and onion casserole with pancetta recipe, 4,['Dairy Free']
-114,Brown butter gnocchi with mushrooms recipe, 4,['Vegetarian']
-115,Korean chicken wings recipe, 4,['Dairy Free']
-116,Chicken bone broth recipe, 4,[]
-117,Gluten-free crab cakes recipe, 4 (makes 12 crab cakes),['Gluten Free']
-118,Mackerel and red lentil fusilli with creamy pepper sauce recipe, 4,['Gluten Free']
-119,Sweet potato and peanut massaman curry recipe, 1,"['Vegetarian', 'Gluten Free']"
-120,Courgette and aubergine parmigiana recipe, 4,[]
-121,Nathan Outlaw’s cod burger with homemade tomato ketchup recipe, 10,['Dairy Free']
-122,"Chicken curry, mustard seeds and rice recipe", 4,[]
-123,Lemon and thyme chicken with spaghetti recipe, 4,[]
-124,Salmon and asparagus fajitas recipe, 4,['Dairy Free']
-125,Roast chicken with basil and lemon salsa and garlic potatoes recipe, 6,"['Gluten Free', 'Dairy Free']"
-126,Speedy Turkish pizzas recipe, 4 (makes 2 large pizzas),[]
-127,Celeriac boulangère recipe, 6,"['Vegan', 'Vegetarian', 'Gluten Free', 'Dairy Free']"
-128,Braised beef topside recipe, 6,[]
-129,Goulash recipe, 6,[]
-130,Beef wellington with stilton recipe, 8,[]
-131,Spiced fries recipe, 4,"['Vegan', 'Vegetarian', 'Gluten Free', 'Dairy Free']"
-132,"Tahini, caper and olive pasta recipe", 4,['Vegetarian']
-133,"Roast cauliflower steaks with puy lentil, goat’s cheese and pepper salad recipe", 4,['Vegetarian']
-134,Thai fishcakes with cucumber dipping sauce recipe,,[]
-135,"Carrot, apple and chicken grain bowls recipe", 4,[]
-136,Cajun bean and feta burgers recipe, 4,['Vegetarian']
-137,Tuna quiche recipe, 6,[]
-138,"Crab, chilli and leek linguine recipe", 2,['Dairy Free']
-139,One-tray baked pepper and butter bean pasta recipe, 4,"['Vegan', 'Vegetarian', 'Dairy Free']"
-140,Greek lamb pasta melt recipe, 4,[]
-141,Charred courgette and salmon tart recipe, 6,[]
-142,Pork fajitas with coriander salsa recipe, 4,[]
-143,Vegan 'steak' and chips with peppercorn sauce recipe, 2,"['Vegan', 'Vegetarian', 'Dairy Free']"
-144,Crab linguine recipe, 4,['Dairy Free']
-145,Spring greens and butter bean pot pie recipe, 4,"['Vegan', 'Vegetarian', 'Dairy Free']"
-146,Jon’s ‘laid-back’ Easter lamb recipe, 8,['Gluten Free']
-147,Rolled pork loin with fennel seed crust recipe, 4,"['Gluten Free', 'Dairy Free']"
-148,Beetroot falafel pitta with carrot slaw recipe, 4,"['Vegan', 'Vegetarian', 'Dairy Free']"
-149,Shiitake and lentil cottage pie with cauliflower mash recipe, 4,"['Vegan', 'Vegetarian', 'Dairy Free']"
+recipe_id,name,servings,dietary,url
+0,Olly's 'thank you' Finest burgers recipe, 4,[],https://realfood.tesco.com/recipes/ollys-thank-you-finest-burgers.html
+1,Steak and ale pie recipe, 6,['Dairy Free'],https://realfood.tesco.com/recipes/steak-and-ale-pie.html
+2,Dhal soup recipe, 4-6,"['Vegan', 'Vegetarian', 'Gluten Free', 'Dairy Free']",https://realfood.tesco.com/recipes/dhal-soup.html
+3,Garlic crumpets recipe, 6,['Vegetarian'],https://realfood.tesco.com/recipes/garlic-crumpets.html
+4,Air-fryer toad in the hole recipe, 2,[],https://realfood.tesco.com/recipes/air-fryer-toad-in-the-hole.html
+5,Veggie noodle stir-fry recipe, 4,"['Vegetarian', 'Dairy Free']",https://realfood.tesco.com/recipes/veggie-noodle-stir-fry.html
+6,"Chicken, broccoli, and orange couscous recipe", 4,['Dairy Free'],https://realfood.tesco.com/recipes/chicken-broccoli-and-orange-couscous.html
+7,Greek-style fish stew recipe, 4,"['Gluten Free', 'Dairy Free']",https://realfood.tesco.com/recipes/greek-style-fish-stew.html
+8,Spiced chickpea wraps with vegan raita recipe, 4,"['Vegan', 'Vegetarian', 'Dairy Free']",https://realfood.tesco.com/recipes/spiced-chickpea-wraps-with-vegan-raita.html
+9,Air-fryer classic frittata recipe,  2,['Vegetarian'],https://realfood.tesco.com/recipes/air-fryer-classic-frittata.html
+10,"Crispy gnocchi, broccoli and cheese bake recipe", 4,['Vegetarian'],https://realfood.tesco.com/recipes/crispy-gnocchi-broccoli-and-cheese-bake.html
+11,Lamb filo swirl pie recipe, 8,[],https://realfood.tesco.com/recipes/lamb-filo-swirl-pie.html
+12,Nutty chicken noodle salad recipe, 4,['Dairy Free'],https://realfood.tesco.com/recipes/nutty-chicken-noodle-salad.html
+13,Salt-crusted potatoes with green sauce recipe,  6 as a side,[],https://realfood.tesco.com/recipes/salt-crusted-potatoes-with-green-sauce.html
+14,Jamie's spring watercress pasta recipe, 2,['Vegetarian'],https://realfood.tesco.com/recipes/spring-watercress-pasta.html
+15,Thai green pork and broccoli curry recipe, 4,"['Gluten Free', 'Dairy Free']",https://realfood.tesco.com/recipes/thai-green-pork-and-broccoli-curry.html
+16,Soy and honey chicken thighs with green rice recipe, 4,['Dairy Free'],https://realfood.tesco.com/recipes/soy-and-honey-chicken-thighs-with-green-rice.html
+17,Air-fryer baked potato recipe, 2,[],https://realfood.tesco.com/recipes/air-fryer-baked-potato.html
+18,Braised spring greens with bacon recipe, 4 as a side,"['Gluten Free', 'Dairy Free']",https://realfood.tesco.com/recipes/braised-spring-greens-with-bacon.html
+19,Corned beef and butter bean stew recipe, 4,['Dairy Free'],https://realfood.tesco.com/recipes/corned-beef-and-butter-bean-stew.html
+20,No-stir baked risotto primavera recipe, 4,[],https://realfood.tesco.com/recipes/no-stir-baked-risotto-primavera.html
+21,Middle Eastern rice 'cake' (Maqluba) recipe, 6,"['Vegan', 'Vegetarian', 'Gluten Free', 'Dairy Free']",https://realfood.tesco.com/recipes/middle-eastern-rice-cake-maqluba.html
+22,Crispy basa tacos with kiwi salsa recipe, 4,[],https://realfood.tesco.com/recipes/crispy-basa-tacos-with-kiwi-salsa.html
+23,Air-fryer crispy tofu recipe,  2,"['Vegan', 'Vegetarian']",https://realfood.tesco.com/recipes/air-fryer-crispy-tofu.html
+24,Air-fryer chicken tenders recipe, 4,[],https://realfood.tesco.com/recipes/air-fryer-chicken-tenders.html
+25,Tinned beef massaman recipe, 4,[],https://realfood.tesco.com/recipes/tinned-beef-massaman.html
+26,Air-fryer sweet potato fries recipe, 4,['Vegetarian'],https://realfood.tesco.com/recipes/air-fryer-sweet-potato-fries.html
+27,Spaghetti lasagne recipe, 4,[],https://realfood.tesco.com/recipes/spaghetti-lasagne.html
+28,Storecupboard puttanesca rice recipe, 2,[],https://realfood.tesco.com/recipes/storecupboard-puttanesca-rice.html
+29,Yaki udon recipe, 4,['Vegetarian'],https://realfood.tesco.com/recipes/yaki-udon.html
+30,Bánh xéo recipe, 6,[],https://realfood.tesco.com/recipes/banh-xeo.html
+31,Basil and garlic tomato sauce recipe,Makes 500ml,"['Vegan', 'Vegetarian', 'Gluten Free', 'Dairy Free']",https://realfood.tesco.com/recipes/basil-and-garlic-tomato-sauce.html
+32,Jamie's tomato and mussel pasta recipe, 4,[],https://realfood.tesco.com/recipes/jamies-tomato-and-mussel-pasta.html
+33,Jamie's quick folded pan pizza recipe,  4 (makes 2 pizzas),['Vegetarian'],https://realfood.tesco.com/recipes/jamies-quick-folded-pan-pizza.html
+34,Smoky bangers and beans recipe, 4,['Dairy Free'],https://realfood.tesco.com/recipes/smoky-bangers-and-beans.html
+35,"Meatball, beetroot and lentil bake recipe", 4,['Gluten Free'],https://realfood.tesco.com/recipes/meatball-beetroot-and-lentil-bake.html
+36,Spinach and feta turnovers recipe, 4,['Vegetarian'],https://realfood.tesco.com/recipes/spinach-and-feta-turnovers.html
+37,Pasta and bean soup recipe, 4,"['Vegan', 'Vegetarian', 'Dairy Free']",https://realfood.tesco.com/recipes/pasta-and-bean-soup.html
+38,Garlic soup with homemade stock recipe, 4,[],https://realfood.tesco.com/recipes/garlic-soup-with-homemade-stock.html
+39,Chickpea and aubergine stew recipe, 6,"['Vegan', 'Vegetarian', 'Gluten Free', 'Dairy Free']",https://realfood.tesco.com/recipes/chickpea-and-aubergine-stew.html
+40,Cheat's bacon and mushroom lasagne recipe, 4,[],https://realfood.tesco.com/recipes/cheats-bacon-and-mushroom-lasagne.html
+41,Mackerel katsu rice bowls recipe, 4,[],https://realfood.tesco.com/recipes/mackerel-katsu-rice-bowls.html
+42,Roast chicken Kyiv recipe,  4 plus 6 portions leftover,[],https://realfood.tesco.com/recipes/roast-chicken-kyiv.html
+43,Coronation chicken stuffed potatoes recipe, 2,[],https://realfood.tesco.com/recipes/coronation-chicken-stuffed-potatoes.html
+44,"Slow-cooker lamb's liver, bacon and onions recipe", 4,[],https://realfood.tesco.com/recipes/slow-cooker-lambs-liver-bacon-and-onions.html
+45,Slow-cooker Persian lamb and rhubarb stew recipe, 6,['Gluten Free'],https://realfood.tesco.com/recipes/slow-cooker-persian-lamb-and-rhubarb-stew.html
+46,Chana masala curry with rice recipe, 4,"['Vegan', 'Vegetarian', 'Gluten Free', 'Dairy Free']",https://realfood.tesco.com/recipes/chana-masala-curry-with-rice.html
+47,Chicken and leek alfredo recipe, 4,[],https://realfood.tesco.com/recipes/chicken-and-leek-alfredo.html
+48,"Aubergine, black-eyed bean and spinach curry recipe", 4,"['Vegan', 'Vegetarian', 'Gluten Free', 'Dairy Free']",https://realfood.tesco.com/recipes/aubergine-black-eyed-bean-and-spinach-curry.html
+49,Microwave shakshuka recipe, 1,"['Vegetarian', 'Dairy Free']",https://realfood.tesco.com/recipes/microwave-shakshuka.html
+50,Slow-cooker French onion soup recipe, 4,[],https://realfood.tesco.com/recipes/slow-cooker-french-onion-soup.html
+51,Jamie's more-veg sloppy Joes recipe, 6,[],https://realfood.tesco.com/recipes/jamies-more-veg-sloppy-joes.html
+52,Sweet potato & pepper tikka masala recipe, 4,"['Vegetarian', 'Gluten Free']",https://realfood.tesco.com/recipes/sweet-potato-pepper-tikka-masala.html
+53,Veggie cheat’s folded pizzas recipe, 4,['Vegetarian'],https://realfood.tesco.com/recipes/veggie-cheats-folded-pizzas.html
+54,Jamie's harissa falafel recipe, 2,['Vegetarian'],https://realfood.tesco.com/recipes/jamies-harissa-falafel.html
+55,Odds and ends arrabbiata al forno recipe, 4,[],https://realfood.tesco.com/recipes/odds-and-ends-arrabbiata-al-forno.html
+56,Creamy hidden-bean pasta sauce recipe, 6,"['Vegan', 'Vegetarian', 'Dairy Free']",https://realfood.tesco.com/recipes/creamy-hidden-bean-pasta-sauce.html
+57,Jamie's Mexican-inspired black bean bake recipe, 4,['Vegetarian'],https://realfood.tesco.com/recipes/jamies-mexican-inspired-black-bean-bake.html
+58,Sweet potato and black bean chilli bowls with cherry tomato salsa recipe, 6,"['Vegan', 'Vegetarian', 'Gluten Free', 'Dairy Free']",https://realfood.tesco.com/recipes/sweet-potato-and-black-bean-chilli-bowls-with-cherry-tomato-salsa.html
+59,"Crispy new potato, pepper and feta traybake recipe", 4,['Vegetarian'],https://realfood.tesco.com/recipes/crispy-new-potato-pepper-and-feta-traybake.html
+60,Savoy cabbage and soya bean rice recipe, 2,"['Vegetarian', 'Dairy Free']",https://realfood.tesco.com/recipes/savoy-cabbage-and-soya-bean-rice.html
+61,Batch-cook soup concentrate recipe, 8,"['Vegetarian', 'Gluten Free', 'Dairy Free']",https://realfood.tesco.com/recipes/batch-cook-soup-concentrate.html
+62,Bean and corn enchiladas recipe, 4,"['Vegan', 'Vegetarian', 'Dairy Free']",https://realfood.tesco.com/recipes/bean-and-corn-enchiladas.html
+63,Root veg cassoulet with chicken livers recipe, 6,"['Gluten Free', 'Dairy Free']",https://realfood.tesco.com/recipes/root-veg-cassoulet-with-chicken-livers.html
+64,Spicy mackerel couscous bowl recipe, 2,[],https://realfood.tesco.com/recipes/spicy-mackerel-couscous-bowl.html
+65,Sausages with Sicilian-inspired carrot stew recipe, 4,['Dairy Free'],https://realfood.tesco.com/recipes/sausages-with-sicilian-inspired-carrot-stew.html
+66,Air-fryer crispy salt and pepper chicken wings recipe, 4,[],https://realfood.tesco.com/recipes/air-fryer-crispy-salt-and-pepper-chicken-wings.html
+67,Muttar paneer cottage pie recipe, 6,"['Vegetarian', 'Gluten Free']",https://realfood.tesco.com/recipes/muttar-paneer-cottage-pie.html
+68,Green lentil stew with bacon and sage recipe, 8,['Gluten Free'],https://realfood.tesco.com/recipes/green-lentil-stew-with-bacon-and-sage.html
+69,Microwave red lentil dhal recipe, 1,"['Vegetarian', 'Gluten Free']",https://realfood.tesco.com/recipes/microwave-red-lentil-dhal.html
+70,Lamb meatballs with cheese and dill recipe, 4,[],https://realfood.tesco.com/recipes/lamb-meatballs-with-cheese-and-dill.html
+71,Carrot caponata spaghetti recipe, 4,['Vegetarian'],https://realfood.tesco.com/recipes/carrot-caponata-spaghetti.html
+72,Air-fryer roast potatoes recipe, 4,['Vegetarian'],https://realfood.tesco.com/recipes/air-fryer-roast-potatoes.html
+73,Pesto chicken one-pot recipe, 4,[],https://realfood.tesco.com/recipes/pesto-chicken-one-pot.html
+74,"Sweetcorn, squash and spring onion ramen recipe", 4,['Vegetarian'],https://realfood.tesco.com/recipes/sweetcorn-squash-and-spring-onion-ramen.html
+75,"Mushroom, squash and barley pie recipe", 4,['Vegetarian'],https://realfood.tesco.com/recipes/mushroom-squash-and-barley-pie.html
+76,Air-fryer falafel wraps recipe, 2,['Vegetarian'],https://realfood.tesco.com/recipes/air-fryer-falafel-wraps.html
+77,Beef stew with parsnip dumplings recipe, 4,[],https://realfood.tesco.com/recipes/beef-stew-with-parsnip-dumplings.html
+78,Air-fryer chunky chips recipe, 4,['Vegetarian'],https://realfood.tesco.com/recipes/air-fryer-chunky-chips.html
+79,Stovetop cauliflower and broccoli mac and cheese recipe, 8,['Vegetarian'],https://realfood.tesco.com/recipes/stovetop-cauliflower-and-broccoli-mac-and-cheese.html
+80,Spiced turkey 'Bolognese' recipe, 8,"['Gluten Free', 'Dairy Free']",https://realfood.tesco.com/recipes/spiced-turkey-bolognese.html
+81,Pork and swede stir fry recipe, 2,['Dairy Free'],https://realfood.tesco.com/recipes/pork-and-swede-stir-fry.html
+82,Microwave pearl barley risotto recipe, 4,"['Vegan', 'Vegetarian', 'Dairy Free']",https://realfood.tesco.com/recipes/microwave-pearl-barley-risotto.html
+83,Air-fryer salmon with honey and mustard sauce recipe, 2,[],https://realfood.tesco.com/recipes/air-fryer-salmon-with-honey-and-mustard-sauce.html
+84,Rustic lamb stew recipe,  6-8,[],https://realfood.tesco.com/recipes/rustic-lamb-stew.html
+85,5-ingredient Piri-Piri pasta recipe, 4,[],https://realfood.tesco.com/recipes/5-ingredient-piri-piri-pasta.html
+86,Salmon kedgeree pie recipe, 6,['Dairy Free'],https://realfood.tesco.com/recipes/salmon-kedgeree-pie.html
+87,Roasted root veg enchiladas recipe, 4,['Vegetarian'],https://realfood.tesco.com/recipes/roasted-root-veg-enchiladas.html
+88,5-ingredient smoky cauliflower one-pot recipe, 4,"['Vegan', 'Vegetarian', 'Gluten Free', 'Dairy Free']",https://realfood.tesco.com/recipes/5-ingredient-smoky-cauliflower-one-pot.html
+89,Jamie's one-pan turkey pasta recipe, 2,[],https://realfood.tesco.com/recipes/jamies-one-pan-turkey-pasta.html
+90,No-cook Vietnamese-style turkey noodle salad with peanut and mint recipe, 4,[],https://realfood.tesco.com/recipes/no-cook-vietnamese-style-turkey-noodle-salad-with-peanut-and-mint.html
+91,"Chickpea, date and pistachio pilaf recipe", 4,"['Vegan', 'Vegetarian', 'Dairy Free']",https://realfood.tesco.com/recipes/chickpea-date-and-pistachio-pilaf.html
+92,Slow-cooker braised red cabbage recipe,  6-8,['Vegetarian'],https://realfood.tesco.com/recipes/slow-cooker-braised-red-cabbage.html
+93,Parsnip pasta recipe, 4,['Vegetarian'],https://realfood.tesco.com/recipes/parsnip-pasta.html
+94,Italian bean stew recipe, 4,"['Vegan', 'Vegetarian', 'Dairy Free']",https://realfood.tesco.com/recipes/italian-bean-stew.html
+95,Rotisserie chicken with cabbage and leek boullion recipe, 4,[],https://realfood.tesco.com/recipes/rotisserie-chicken-with-cabbage-and-leek-boullion.html
+96,Lemon and courgette linguine  recipe, 2,[],https://realfood.tesco.com/recipes/lemon-and-courgette-linguine.html
+97,Cowboy beans recipe, 4,['Dairy Free'],https://realfood.tesco.com/recipes/cowboy-beans.html
+98,"Sticky lamb, sesame and watermelon salad recipe", 4,['Dairy Free'],https://realfood.tesco.com/recipes/sticky-lamb-sesame-and-watermelon-salad.html
+99,Sloppy-joe stuffed peppers with wedges recipe, 4,['Gluten Free'],https://realfood.tesco.com/recipes/sloppy-joe-stuffed-peppers-with-wedges.html
+100,Baked sweet potatoes with tuna salsa recipe, 4,"['Gluten Free', 'Dairy Free']",https://realfood.tesco.com/recipes/baked-sweet-potatoes-with-tuna-salsa.html
+101,Green pepper tortilla recipe, 4,['Dairy Free'],https://realfood.tesco.com/recipes/green-pepper-tortilla.html
+102,Cauliflower cheese pithivier recipe, 8,['Vegetarian'],https://realfood.tesco.com/recipes/cauliflower-cheese-pithivier.html
+103,Roasted broccoli salad recipe, 2-4,['Vegetarian'],https://realfood.tesco.com/recipes/roasted-broccoli-salad.html
+104,Tomato and pesto spaghetti recipe, 4,[],https://realfood.tesco.com/recipes/tomato-and-pesto-spaghetti.html
+105,Full-of-veg hash recipe, 4,"['Gluten Free', 'Dairy Free']",https://realfood.tesco.com/recipes/full-of-veg-hash.html
+106,Gnocchi with Gorgonzola recipe, 4,[],https://realfood.tesco.com/recipes/gnocchi-with-gorgonzola.html
+107,Chickpea and roasted red pepper burgers recipe, 6,['Vegetarian'],https://realfood.tesco.com/recipes/chickpea-and-roasted-red-pepper-burgers.html
+108,Spanakopita recipe, 4,[],https://realfood.tesco.com/recipes/spanakopita.html
+109,"Leek, potato and rosemary soup recipe", 4-6,[],https://realfood.tesco.com/recipes/leek-and-potato-soup.html
+110,Greek-style lamb and sweet potato salad recipe, 2,['Gluten Free'],https://realfood.tesco.com/recipes/greek-style-lamb-and-sweet-potato-salad.html
+111,"Sweet potato, pesto and pepperoni pizza recipe", 4,[],https://realfood.tesco.com/recipes/sweet-potato-pesto-and-pepperoni-pizza.html
+112,Pad Thai noodles recipe, 4,['Dairy Free'],https://realfood.tesco.com/recipes/pad-thai-noodles.html
+113,Liver and onion casserole with pancetta recipe, 4,['Dairy Free'],https://realfood.tesco.com/recipes/liver-and-onion-casserole-with-pancetta.html
+114,Brown butter gnocchi with mushrooms recipe, 4,['Vegetarian'],https://realfood.tesco.com/recipes/brown-butter-gnocchi-with-mushrooms.html
+115,Korean chicken wings recipe, 4,['Dairy Free'],https://realfood.tesco.com/recipes/korean-chicken-wings.html
+116,Chicken bone broth recipe, 4,[],https://realfood.tesco.com/recipes/chicken-bone-broth.html
+117,Gluten-free crab cakes recipe, 4 (makes 12 crab cakes),['Gluten Free'],https://realfood.tesco.com/recipes/gluten-free-crab-cakes.html
+118,Mackerel and red lentil fusilli with creamy pepper sauce recipe, 4,['Gluten Free'],https://realfood.tesco.com/recipes/mackerel-and-red-lentil-fusilli-with-creamy-pepper-sauce.html
+119,Sweet potato and peanut massaman curry recipe, 1,"['Vegetarian', 'Gluten Free']",https://realfood.tesco.com/recipes/sweet-potato-and-peanut-massaman-curry.html
+120,Courgette and aubergine parmigiana recipe, 4,[],https://realfood.tesco.com/recipes/courgette-and-aubergine-parmigiana.html
+121,Nathan Outlaw’s cod burger with homemade tomato ketchup recipe, 10,['Dairy Free'],https://realfood.tesco.com/recipes/nathan-outlaws-cod-burger-with-homemade-tomato-ketchup.html
+122,"Chicken curry, mustard seeds and rice recipe", 4,[],https://realfood.tesco.com/recipes/chicken-curry-mustard-seeds-and-rice.html
+123,Lemon and thyme chicken with spaghetti recipe, 4,[],https://realfood.tesco.com/recipes/lemon-and-thyme-chicken-with-spaghetti.html
+124,Salmon and asparagus fajitas recipe, 4,['Dairy Free'],https://realfood.tesco.com/recipes/salmon-and-asparagus-fajitas.html
+125,Roast chicken with basil and lemon salsa and garlic potatoes recipe, 6,"['Gluten Free', 'Dairy Free']",https://realfood.tesco.com/recipes/roast-chicken-with-basil-and-lemon-salsa-and-garlic-potatoes.html
+126,Speedy Turkish pizzas recipe, 4 (makes 2 large pizzas),[],https://realfood.tesco.com/recipes/speedy-turkish-pizzas.html
+127,Celeriac boulangère recipe, 6,"['Vegan', 'Vegetarian', 'Gluten Free', 'Dairy Free']",https://realfood.tesco.com/recipes/celeriac-boulangere.html
+128,Braised beef topside recipe, 6,[],https://realfood.tesco.com/recipes/braised-beef-topside.html
+129,Goulash recipe, 6,[],https://realfood.tesco.com/recipes/goulash.html
+130,Beef wellington with stilton recipe, 8,[],https://realfood.tesco.com/recipes/beef-wellington-with-stilton-and-horseradish.html
+131,Spiced fries recipe, 4,"['Vegan', 'Vegetarian', 'Gluten Free', 'Dairy Free']",https://realfood.tesco.com/recipes/spiced-fries.html
+132,"Tahini, caper and olive pasta recipe", 4,['Vegetarian'],https://realfood.tesco.com/recipes/tahini-caper-and-olive-pasta.html
+133,"Roast cauliflower steaks with puy lentil, goat’s cheese and pepper salad recipe", 4,['Vegetarian'],https://realfood.tesco.com/recipes/roast-cauliflower-steaks-with-puy-lentil-goats-cheese-and-pepper-salad.html
+134,Thai fishcakes with cucumber dipping sauce recipe,,[],https://realfood.tesco.com/recipes/thai-fishcakes-with-cucumber-dipping-sauce.html
+135,"Carrot, apple and chicken grain bowls recipe", 4,[],https://realfood.tesco.com/recipes/carrot-apple-and-chicken-grain-bowls.html
+136,Cajun bean and feta burgers recipe, 4,['Vegetarian'],https://realfood.tesco.com/recipes/cajun-bean-and-feta-burgers.html
+137,Tuna quiche recipe, 6,[],https://realfood.tesco.com/recipes/tuna-quiche.html
+138,"Crab, chilli and leek linguine recipe", 2,['Dairy Free'],https://realfood.tesco.com/recipes/crab-chilli-and-leek-linguine.html
+139,One-tray baked pepper and butter bean pasta recipe, 4,"['Vegan', 'Vegetarian', 'Dairy Free']",https://realfood.tesco.com/recipes/one-tray-baked-pepper-and-butter-bean-pasta.html
+140,Greek lamb pasta melt recipe, 4,[],https://realfood.tesco.com/recipes/greek-lamb-pasta-melt.html
+141,Charred courgette and salmon tart recipe, 6,[],https://realfood.tesco.com/recipes/charred-courgette-and-salmon-tart.html
+142,Pork fajitas with coriander salsa recipe, 4,[],https://realfood.tesco.com/recipes/pork-fajitas-with-coriander-salsa.html
+143,Vegan 'steak' and chips with peppercorn sauce recipe, 2,"['Vegan', 'Vegetarian', 'Dairy Free']",https://realfood.tesco.com/recipes/vegan-steak-and-chips-with-peppercorn-sauce.html
+144,Crab linguine recipe, 4,['Dairy Free'],https://realfood.tesco.com/recipes/crab-linguine.html
+145,Spring greens and butter bean pot pie recipe, 4,"['Vegan', 'Vegetarian', 'Dairy Free']",https://realfood.tesco.com/recipes/spring-greens-and-butter-bean-pot-pie.html
+146,Jon’s ‘laid-back’ Easter lamb recipe, 8,['Gluten Free'],https://realfood.tesco.com/recipes/jons-laid-back-easter-lamb.html
+147,Rolled pork loin with fennel seed crust recipe, 4,"['Gluten Free', 'Dairy Free']",https://realfood.tesco.com/recipes/rolled-pork-loin-with-fennel-seed-crust.html
+148,Beetroot falafel pitta with carrot slaw recipe, 4,"['Vegan', 'Vegetarian', 'Dairy Free']",https://realfood.tesco.com/recipes/beetroot-falafel-pitta-with-carrot-slaw.html
+149,Shiitake and lentil cottage pie with cauliflower mash recipe, 4,"['Vegan', 'Vegetarian', 'Dairy Free']",https://realfood.tesco.com/recipes/shiitake-and-lentil-cottage-pie-with-cauliflower-mash.html

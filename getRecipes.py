@@ -55,6 +55,7 @@ for i in range(150):
     info_df.loc[i,'name'] = title
     info_df.loc[i,'servings'] = servings
     info_df.loc[i,'dietary'] = dietary_reqs
+    info_df.loc[i,'url'] = url
 
 # save the dataframe as a csv file
 info_df.to_csv('recipes_150_recipes.csv', index = False)
