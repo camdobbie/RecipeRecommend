@@ -760,7 +760,7 @@ recipe_id,section,item,quantity,price,quantities,raw_ingredients,simplified_ingr
 79,Condiments,"Flora Pure Sunflower Oil 1Lt Plus 25%, £3.50 each",1.0,£3.50,3 tbsp,sunflower oil,cooking oil
 79,"Pasta, rice and beans","Tesco Macaroni Pasta 500G, £0.95 each",2.0,£1.90,650g,macaroni,macaroni
 79,Dairy and eggs,"Tesco Organic Unsalted Butter 250G, £2.75 each",1.0,£2.75,40g,butter,butter
-79,Herbs and spices ,"Colman's Orignal English Mustard Powder 57G, £2.30 each",1.0,£2.30,1 tbsp,English mustard powder ,mustard powder
+79,Herbs and spices,"Colman's Orignal English Mustard Powder 57G, £2.30 each",1.0,£2.30,1 tbsp,English mustard powder ,mustard powder
 79,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",1.0,£0.55,1,lemon,lemon
 79,Fruits and vegetables,"Tesco Purple Sprouting Broccoli 200G, £1.80 each",1.0,£1.80,200g,purple sprouting broccoli,broccoli
 79,Fruits and vegetables,"Cauliflower Extra Large Each, £1.50 each",1.0,£1.50,1,cauliflower,cauliflower
@@ -1295,7 +1295,7 @@ recipe_id,section,item,quantity,price,quantities,raw_ingredients,simplified_ingr
 133,Fruits and vegetables,"Cauliflower Extra Large Each, £1.50 each",1.0,£1.50,1,cauliflower,cauliflower
 133,Fruits and vegetables,"Suntrail Lemons Minimum 4 Pack, £0.55 each",1.0,£0.55,0.5,lemon,lemon
 133,Fruits and vegetables,"Tesco Wild Rocket 60G, £1.10 each",1.0,£1.10,50g,rocket,rocket
-133,Condiments ,"Tesco Sundried Tomatoes 225G, £2.65 each",1.0,£2.65,50g,sundried tomatoes,sundried tomatoes
+133,Condiments,"Tesco Sundried Tomatoes 225G, £2.65 each",1.0,£2.65,50g,sundried tomatoes,sundried tomatoes
 133,Other,"Merchant Gourmet Puy Lentils Ready To Eat 250G, £2.00 each",1.0,£2.00,250g,ready to eat puy lentils,puy lentils
 133,Condiments,"Tesco Wholegrain Mustard 180G, £0.80 each",1.0,£0.80,1 tsp,grainy mustard,wholegrain mustard
 133,Dairy and eggs,"Capricorn Somerset Goat Cheese 85G, £2.50 each",1.0,£2.50,50g,goat’s cheese,feta cheese
