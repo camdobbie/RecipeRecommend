@@ -60,13 +60,46 @@ ingredients_df.to_csv('unique_ingredients.csv', index = False)
 # %%
 # plot the frequency of each ingredient
 import matplotlib.pyplot as plt
-plt.figure(figsize=(10,5))
 plt.bar(unique_ingredients[:20], ingredients_counts[:20])
 plt.xticks(rotation=90)
 plt.xlabel('Ingredient')
 plt.ylabel('Frequency')
-plt.title('Frequency of ingredients')
+plt.title('Frequency of top 20 ingredients')
 plt.show()
+
+# find ingredients that are in fruits and vegetables
+fruits_vegetables = ingredients_df.loc[ingredients_df['section'] == 'Fruits and vegetables']
+fruits_freq_df = pd.DataFrame(columns = ['ingredient', 'frequency'])
+for i in range(len(fruits_vegetables)):
+    fruits_freq_df.loc[i,'ingredient'] = fruits_vegetables['ingredient'].values[i]
+    fruits_freq_df.loc[i,'frequency'] = len(fruits_vegetables['recipe_id'].values[i].strip('[]').strip().split(' '))
+# sort by frequency (descending)
+fruits_freq_df = fruits_freq_df.sort_values(by=['frequency'], ascending = False)
+# plot the frequency of each ingredient
+plt.bar(fruits_freq_df['ingredient'].values[:20], fruits_freq_df['frequency'].values[:20])
+plt.xticks(rotation=90)
+plt.xlabel('Ingredient')
+plt.ylabel('Frequency')
+plt.title('Frequency of top 20 ingredients in fruits and vegetables')
+plt.show()
+
+# Do the same for meat and seafood
+meat_fish = ingredients_df.loc[ingredients_df['section'] == 'Meats and seafood']
+meat_freq_df = pd.DataFrame(columns = ['ingredient', 'frequency'])
+for i in range(len(meat_fish)):
+    meat_freq_df.loc[i,'ingredient'] = meat_fish['ingredient'].values[i]
+    meat_freq_df.loc[i,'frequency'] = len(meat_fish['recipe_id'].values[i].strip('[]').strip().split(' '))
+# sort by frequency (descending)
+meat_freq_df = meat_freq_df.sort_values(by=['frequency'], ascending = False)
+# plot the frequency of each ingredient
+plt.bar(meat_freq_df['ingredient'].values[:20], meat_freq_df['frequency'].values[:20])
+plt.xticks(rotation=90)
+plt.xlabel('Ingredient')
+plt.ylabel('Frequency')
+plt.title('Frequency of top 20 ingredients in meat and seafood')
+plt.show()
+
+# %%
 # plot the frequency of each section
 unique_sections,sections_counts = np.unique(ingredients_df['section'].values, return_counts = True)
 unique_sections = unique_sections[np.argsort(sections_counts)[::-1]]
