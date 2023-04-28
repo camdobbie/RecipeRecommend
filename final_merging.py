@@ -18,6 +18,7 @@ recipes.head()
 
 names = recipes['name']
 dietlabels = recipes['dietary']
+urls = recipes['url']
 
 user = ['apple','rice','pasta','cheese','pepper','mushroom','leek','coriander']       
 # user = input('Please list any ingredients you already have at home')
@@ -52,7 +53,7 @@ most_common = counts.most_common(2) # change to 10 when more ingredients
 recommend = [t[0] for t in most_common] # recipe IDs for the recipes it's recommending
 for i in recommend:
     print(names[i])
-# ask if someone can add the URLs to recipes_150_recipes and then print the URLs too
+    print('URL: ' + urls[i])
 
 # need to change this to a GUI and do them by section  
 # don't include herbs and spices in taking off what they have from 2nd recipe 
