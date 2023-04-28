@@ -35,8 +35,7 @@ for i, ing in enumerate(ingredientlist):
 for i in range(len(ingredients)):
     if i != 27 and i != 75 and i != 250:
         print(ingredients[i])
-""" 
-       
+"""       
 
 # user = input('Please list any ingredients from the list above that you already have at home. We are assuming that you already have salt, black pepper and cooking oil.')
 # make sure user input turns into a list like the one below 
