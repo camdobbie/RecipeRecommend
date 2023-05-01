@@ -136,7 +136,6 @@ for i in recommend:
     out_df.loc[i, 'name'] = names[i]
     out_df.loc[i, 'url'] = urls[i]
     out_df.loc[i, 'ingredients'] = ', '.join(ings)
-    out_df.loc[i, 'leftover'] = user
     out_df.loc[i, 'price'] = price
 
 # sort by price
