@@ -189,7 +189,7 @@ recipe_id,section,ingredient,item,price,quantity
 [  3  27  33  40  53 120 140],Dairy and eggs,mozzarella,"Creamfields Mozzarella 210G, £0.69 each",£0.69,210G
 [  1   5  15  29  40  68  75 114 127 149],Fruits and vegetables,mushroom,"Chestnut Mushrooms 250G, £1.10 each",£1.0999999999999999,250G
 [40],Canned foods,mushroom soup,"Tesco Cream Of Mushroom Soup 400G, £0.75 each",£0.75,400G
-[79],Herbs and spices ,mustard powder,"Colman's Orignal English Mustard Powder 57G, £2.30 each",£2.3,57G
+[79],Herbs and spices,mustard powder,"Colman's Orignal English Mustard Powder 57G, £2.30 each",£2.3,57G
 [122],Herbs and spices,mustard seeds,"Tesco Mustard Seeds 60G, £0.90 each",£0.9,60G
 [ 76 122],Bread and bakery,naan,"Tesco Plain Naans 2 Pack 260G, £0.80 each",£0.8,260G
 [108],Herbs and spices,nutmeg,"Tesco Nutmeg 33G, £0.90 each",£0.9,33G
@@ -287,7 +287,7 @@ recipe_id,section,ingredient,item,price,quantity
  112 115 116 134]",Fruits and vegetables,spring onion,"Tesco Bunched Spring Onions 100G, £0.50 each",£0.5,100G
 [115],Condiments,sriracha,"Tesco Sriracha Hot Chilli Sauce 285G, £1.95 each",£1.95,285G
 [103],Snacks,sultanas,"Tesco Sultanas 500G, £1.25 each",£1.25,500G
-[133],Condiments ,sundried tomatoes,"Tesco Sundried Tomatoes 225G, £2.65 each",£2.65,225G
+[133],Condiments,sundried tomatoes,"Tesco Sundried Tomatoes 225G, £2.65 each",£2.65,225G
 [63 81],Fruits and vegetables,swede,"Tesco Swede, £0.80 each",£0.8,Swede
 [ 52 119],Fruits and vegetables,sweet potato,"Tesco Frozen Sweet Potato Chunks 600G, £1.80 each",£1.8,600G
 [62 64 74],Canned foods,sweetcorn,"Green Giant Original Sweet Corn 198G, £0.90 each",£0.9,198G
