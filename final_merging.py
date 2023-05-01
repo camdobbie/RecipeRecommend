@@ -6,6 +6,7 @@ Created on Mon Apr 24 14:48:30 2023
 """
 
 import pandas as pd
+import numpy as np
 
 data=pd.read_csv('unique_ingredients.csv')
 data.head()
@@ -111,6 +112,7 @@ for i in recommend:
     ings = prices.loc[prices['recipe_id'] == id]['simplified_ingredients'].values
     price = prices.loc[prices['recipe_id'] == id]['price'].values
     price = 0
+    used = []
     for j,ing in enumerate(ings):
         if ing not in user:
             # add price after removing pound sign
@@ -118,7 +120,14 @@ for i in recommend:
         else:
             # remove the ingredient from the list
             ings[j] = ''
+            used.append(ing)
     ings = [ing for ing in ings if ing != '']
+    # remove ingredients that were used from the user list
+    for ing in used:
+        if ing not in ['salt', 'black pepper', 'cooking oil']:
+            user.remove(ing)
+    ings = ings + user
+    ings = [ing.title() for ing in ings]
     # print('Ingredients required: ' + ', '.join(ings))
     # print(f'Price of remaining items: £{price}')
     # print('URL: ' + urls[i])
@@ -127,10 +136,12 @@ for i in recommend:
     out_df.loc[i, 'name'] = names[i]
     out_df.loc[i, 'url'] = urls[i]
     out_df.loc[i, 'ingredients'] = ', '.join(ings)
+    out_df.loc[i, 'leftover'] = user
     out_df.loc[i, 'price'] = price
 
 # sort by price
 out_df = out_df.sort_values(by=['price'])
 print(out_df[['name','price']])
+# out_df.to_csv('final_recommendations.csv', index=False)
 # need to change this to a GUI and do them by section  
 # don't include herbs and spices in taking off what they have from 2nd recipe 
