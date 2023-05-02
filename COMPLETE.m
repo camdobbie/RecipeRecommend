@@ -9,7 +9,7 @@ tablecell = table2cell(table1);
 
 
 %% If they have dietry requirements, do this code - removes rows 
-customer_preferences = "Vegan";
+customer_preferences = "Vegan"; % Inputs either/or combination of: Dairy, Gluten, Vegan, Vegetarian (one whole strong or separately is fine). Don't put in free and if no food preferances then run a different script.
 
 row = 1;
 for i = 1:length(tablecell)
