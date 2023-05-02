@@ -3,10 +3,8 @@ close all
 
 
 table1 = readtable('ingredients_dietary.csv');
-dietary = readtable('dietary.csv');
 
 tablecell = table2cell(table1);
-diaterycell = table2cell(dietary);
 
 
 
